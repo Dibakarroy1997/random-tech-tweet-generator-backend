@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 5318
+        "entries": 5319
     },
     "tweets": [
         {
@@ -53182,6 +53182,16 @@
             "tweet_conversation_id": "1606756571232493568",
             "tweet_type": "Others",
             "created_at": "2022-12-24T20:59:53.000Z"
+        },
+        {
+            "id": 5319,
+            "username": "driscollis",
+            "tweet_id": "1606794366848204801",
+            "tweet_text": "Get 50 FREE copies of Automating Excel with Python as a part of my Christmas Eve promo!\n\nMerry Christmas! \ud83d\udc0d\ud83c\udf84\n\nhttps://t.co/plRMYzNLkT",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1606794366848204801",
+            "tweet_type": "Others",
+            "created_at": "2022-12-24T23:30:04.000Z"
         }
     ]
 }
