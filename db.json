@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 5316
+        "entries": 5317
     },
     "tweets": [
         {
@@ -53162,6 +53162,16 @@
             "tweet_conversation_id": "1606691232305905665",
             "tweet_type": "Others",
             "created_at": "2022-12-24T16:40:15.000Z"
+        },
+        {
+            "id": 5317,
+            "username": "driscollis",
+            "tweet_id": "1606718824253997056",
+            "tweet_text": "Get 50 FREE copies of Creating GUI Applications with wxPython as a part of my Christmas Eve promo!\n\nMerry Christmas! \ud83d\udc0d\ud83c\udf84\n\nhttps://t.co/0M8vLY4AXb",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1606718824253997056",
+            "tweet_type": "Others",
+            "created_at": "2022-12-24T18:29:53.000Z"
         }
     ]
 }
