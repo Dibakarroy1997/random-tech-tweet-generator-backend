@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 5315
+        "entries": 5316
     },
     "tweets": [
         {
@@ -53152,6 +53152,16 @@
             "tweet_conversation_id": "1606688659935473664",
             "tweet_type": "Python tips",
             "created_at": "2022-12-24T16:30:02.000Z"
+        },
+        {
+            "id": 5316,
+            "username": "alexxubyte",
+            "tweet_id": "1606691232305905665",
+            "tweet_text": "Next week, we will cover:\n\n\ud83d\udd39What is cloud native\n\ud83d\udd39Git commands\n\ud83d\udd39Types of database indexes\n\ud83d\udd39CAP theorem\n\ud83d\udd39Short/long polling\n\n\ud835\udc03\ud835\udc28\ud835\udc27'\ud835\udc2d \ud835\udc26\ud835\udc22\ud835\udc2c\ud835\udc2c \ud835\udc28\ud835\udc2e\ud835\udc2d \ud835\udc28\ud835\udc27 \ud835\udc22\ud835\udc26\ud835\udc29\ud835\udc28\ud835\udc2b\ud835\udc2d\ud835\udc1a\ud835\udc27\ud835\udc2d \ud835\udc2e\ud835\udc29\ud835\udc1d\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc2c \ud835\udc1a\ud835\udc27\ud835\udc1d \ud835\udc1e\ud835\udc31\ud835\udc1c\ud835\udc25\ud835\udc2e\ud835\udc2c\ud835\udc22\ud835\udc2f\ud835\udc1e \ud835\udc1c\ud835\udc28\ud835\udc27\ud835\udc2d\ud835\udc1e\ud835\udc27\ud835\udc2d \u2013 subscribe now: https://t.co/dkjDPxrTOt https://t.co/eWE1PSt7qT",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FkwdKK8akAE7YsD.jpg\"]",
+            "tweet_conversation_id": "1606691232305905665",
+            "tweet_type": "Others",
+            "created_at": "2022-12-24T16:40:15.000Z"
         }
     ]
 }
