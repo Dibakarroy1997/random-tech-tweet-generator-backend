@@ -4,7 +4,6 @@
     "description": "Deploy Random Tech Tweet Server to Vercel",
     "main": "server.js",
     "scripts": {
-        "dev": "node server.js",
         "start": "node server.js"
     },
     "dependencies": {
