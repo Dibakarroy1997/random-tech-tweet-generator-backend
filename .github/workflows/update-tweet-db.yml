@@ -30,3 +30,5 @@ jobs:
         if: steps.cache-deps.outputs.cache-hit != 'true'
       - run: poetry install --no-interaction
       - run: poetry run python src/random_tech_tweet_generator_backend/scrapper.py
+        env:
+          TWITTER_API_BEARER_TOKEN: ${{ secrets.TWITTER_API_BEARER_TOKEN }}
