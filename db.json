@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 5306
+        "entries": 5307
     },
     "tweets": [
         {
@@ -53062,6 +53062,16 @@
             "tweet_conversation_id": "1606567914684964866",
             "tweet_type": "Python tips",
             "created_at": "2022-12-24T08:30:14.000Z"
+        },
+        {
+            "id": 5307,
+            "username": "driscollis",
+            "tweet_id": "1606605574719905794",
+            "tweet_text": "Get 50 FREE copies of Python 201: Intermediate Python as a part of my Christmas Eve promo!\n\nMerry Christmas! \ud83d\udc0d\ud83c\udf84\n\nhttps://t.co/sf35MWlxbo",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1606605574719905794",
+            "tweet_type": "Others",
+            "created_at": "2022-12-24T10:59:52.000Z"
         }
     ]
 }
