@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 5308
+        "entries": 5309
     },
     "tweets": [
         {
@@ -53082,6 +53082,16 @@
             "tweet_conversation_id": "1606643473112858625",
             "tweet_type": "Others",
             "created_at": "2022-12-24T13:30:28.000Z"
+        },
+        {
+            "id": 5309,
+            "username": "testdrivenio",
+            "tweet_id": "1606653875871571968",
+            "tweet_text": "Deploying Spark on Kubernetes\n\nhttps://t.co/CS2rg2qwmk\n\nThis post details how to deploy Spark on a Kubernetes cluster.\n\n#Spark #Kubernetes #Docker @ApacheSpark",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1606653875871571968",
+            "tweet_type": "Others",
+            "created_at": "2022-12-24T14:11:48.000Z"
         }
     ]
 }
