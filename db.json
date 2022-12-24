@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 5303
+        "entries": 5305
     },
     "tweets": [
         {
@@ -53032,6 +53032,26 @@
             "tweet_conversation_id": "1596319554116149248",
             "tweet_type": "Others",
             "created_at": "2022-11-26T01:46:54.000Z"
+        },
+        {
+            "id": 5304,
+            "username": "bascodes",
+            "tweet_id": "1606530329606512642",
+            "tweet_text": "Happy Holidays and a Merry Christmas to those who celebrate.\n\n\ud83c\udf84\ud83c\udf81\u2603\ufe0f\ud83c\udf85\n\nIf you do: What day do you consider \"Christmas\"? 24th? 25th?",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1606530329606512642",
+            "tweet_type": "Others",
+            "created_at": "2022-12-24T06:00:53.000Z"
+        },
+        {
+            "id": 5305,
+            "username": "driscollis",
+            "tweet_id": "1606530326003589120",
+            "tweet_text": "It's Christmas Eve \ud83d\udc0d\ud83c\udf84! Today I am going to attempt to give away 400 eBooks on #Python every 2.5 hours\n\nIf you'd rather support me, you can purchase a book and $10 off ANY of my books on Gumroad using the following code:\n\nchristmas22\n\nhttps://t.co/mzHfFeTcKg",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1606530326003589120",
+            "tweet_type": "Python tips",
+            "created_at": "2022-12-24T06:00:52.000Z"
         }
     ]
 }
