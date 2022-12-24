@@ -1,0 +1,30 @@
+testdrivenio:
+  - category_name: Python tips
+    category_regex: "^Python(.*)tip:"
+  - category_name: API tips
+    category_regex: "^API(.*)tip:"
+  - category_name: Django tips
+    category_regex: "^Django(.*)tip:"
+mathsppblog:
+  - category_name: Python tips
+    category_regex: Python(.*)🐍
+raymondh:
+  - category_name: Python tips
+    category_regex: "Python(.*)tip:"
+bbelderbos:
+  - category_name: Python tips
+    category_regex: "#[p|P]ython"
+alexxubyte:
+  - category_name: Systems Design
+    category_regex: ^(/\d+\s)|(\d+\.\s)
+bascodes:
+  - category_name: Python tips
+    category_regex: (💡(.*)🐍)|(🐍(.*)💡)
+Rapid_API:
+  - category_name: API tips
+    category_regex: (🧵)|(👇)|(API Tip 💡)
+  - category_name: VS Code tips
+    category_regex: "VS Code Tip"
+driscollis:
+  - category_name: Python tips
+    category_regex: "#[p|P]ython"

@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "python-tips-reader"
+version = "0.1.0"
+description = ""
+authors = ["Roy, Debakar <debakar.roy@intel.com>"]
+packages = [{ include = "random_tech_tweet_generator_backend", from = "src" }]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+tweepy = "^4.12.1"
+pydantic = "^1.10.2"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
