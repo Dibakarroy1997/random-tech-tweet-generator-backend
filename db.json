@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 5307
+        "entries": 5308
     },
     "tweets": [
         {
@@ -53072,6 +53072,16 @@
             "tweet_conversation_id": "1606605574719905794",
             "tweet_type": "Others",
             "created_at": "2022-12-24T10:59:52.000Z"
+        },
+        {
+            "id": 5308,
+            "username": "driscollis",
+            "tweet_id": "1606643473112858625",
+            "tweet_text": "Get 50 FREE copies of Jupyter Notebook 101 as a part of my Christmas Eve promo!\n\nMerry Christmas! \ud83d\udc0d\ud83c\udf84\n\nhttps://t.co/kJREOBUNuD",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1606643473112858625",
+            "tweet_type": "Others",
+            "created_at": "2022-12-24T13:30:28.000Z"
         }
     ]
 }
