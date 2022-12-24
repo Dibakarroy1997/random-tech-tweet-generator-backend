@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 5309
+        "entries": 5310
     },
     "tweets": [
         {
@@ -53092,6 +53092,16 @@
             "tweet_conversation_id": "1606653875871571968",
             "tweet_type": "Others",
             "created_at": "2022-12-24T14:11:48.000Z"
+        },
+        {
+            "id": 5310,
+            "username": "driscollis",
+            "tweet_id": "1606661066418683909",
+            "tweet_text": "Just to be clear, this is 400 total, not 400 copies of each book",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1606530326003589120",
+            "tweet_type": "Others",
+            "created_at": "2022-12-24T14:40:23.000Z"
         }
     ]
 }
