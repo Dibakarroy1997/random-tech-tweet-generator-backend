@@ -32,3 +32,14 @@ jobs:
       - run: poetry run python src/random_tech_tweet_generator_backend/scrapper.py
         env:
           TWITTER_API_BEARER_TOKEN: ${{ secrets.TWITTER_API_BEARER_TOKEN }}
+      - run: poetry run python src/random_tech_tweet_generator_backend/db_to_json.py
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Automatic update tweet database
+      - name: "Run if changes have been detected"
+        if: steps.auto-commit-action.outputs.changes_detected == 'true'
+        run: echo "Database updated successfully!"
+
+      - name: "Run if no changes have been detected"
+        if: steps.auto-commit-action.outputs.changes_detected == 'false'
+        run: echo "No new tweets to update in the database!"
