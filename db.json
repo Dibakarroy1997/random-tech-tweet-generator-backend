@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 5305
+        "entries": 5306
     },
     "tweets": [
         {
@@ -53052,6 +53052,16 @@
             "tweet_conversation_id": "1606530326003589120",
             "tweet_type": "Python tips",
             "created_at": "2022-12-24T06:00:52.000Z"
+        },
+        {
+            "id": 5306,
+            "username": "driscollis",
+            "tweet_id": "1606567914684964866",
+            "tweet_text": "In case you missed it, you can get Python 101: 2nd Edition for FREE today!\n\nStart learning #Python this holiday! \ud83d\udc0d\ud83c\udf84\n\nHere's a link:\n\nhttps://t.co/3g1XXo6Jb7",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1606567914684964866",
+            "tweet_type": "Python tips",
+            "created_at": "2022-12-24T08:30:14.000Z"
         }
     ]
 }
