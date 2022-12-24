@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 5312
+        "entries": 5314
     },
     "tweets": [
         {
@@ -53122,6 +53122,26 @@
             "tweet_conversation_id": "1606667044480589829",
             "tweet_type": "Others",
             "created_at": "2022-12-24T15:04:08.000Z"
+        },
+        {
+            "id": 5313,
+            "username": "driscollis",
+            "tweet_id": "1606681077787115521",
+            "tweet_text": "Get 50 FREE copies of ReportLab: PDF Processing with Python as a part of my Christmas Eve promo!\n\nMerry Christmas! \ud83d\udc0d\ud83c\udf84\n\nhttps://t.co/yMDVwQvduz",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1606681077787115521",
+            "tweet_type": "Others",
+            "created_at": "2022-12-24T15:59:54.000Z"
+        },
+        {
+            "id": 5314,
+            "username": "driscollis",
+            "tweet_id": "1606680061221879808",
+            "tweet_text": "Sorry. This link was screwed up. I re-enabled it and it should work now https://t.co/zQtH3kd0fB",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1606680061221879808",
+            "tweet_type": "Others",
+            "created_at": "2022-12-24T15:55:51.000Z"
         }
     ]
 }
