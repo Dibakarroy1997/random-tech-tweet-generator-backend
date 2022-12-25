@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 6189
+        "entries": 6190
     },
     "tweets": [
         {
@@ -61892,6 +61892,16 @@
             "tweet_conversation_id": "1607047084607258631",
             "tweet_type": "Others",
             "created_at": "2022-12-25T16:14:17.000Z"
+        },
+        {
+            "id": 6190,
+            "username": "bascodes",
+            "tweet_id": "1607075740318564356",
+            "tweet_text": "Last week of 2022!\n\nIf you look back, what is something you're proud of in 2022?",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607075740318564356",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T18:08:09.000Z"
         }
     ]
 }
