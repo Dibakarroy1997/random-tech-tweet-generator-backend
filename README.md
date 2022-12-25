@@ -10,3 +10,5 @@ This is a backend for [Fetch Random Tech Tweet](https://github.com/Dibakarroy199
 - Once every 5 min (or more as per the GitHub action job schedule preference), we will use the Twitter API to fetch latest tweets from the users in config file and update a database.
 - At the end this database is converted into JSON and pushed in the same repository.
 - This JSON is used to host a REST API using [json-server](https://github.com/typicode/json-server). API is hosted using [Vercel](https://vercel.com/dashboard) using [json-server-vercel](https://github.com/kitloong/json-server-vercel) template.
+
+> Link to REST endpoint: https://fetch-random-tech-tweet-backend.vercel.app/
