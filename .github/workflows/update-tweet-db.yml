@@ -1,7 +1,7 @@
 name: Update Tweet Database
 on: 
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/59 * * * *'
 jobs:
   update_tweet_db:
     runs-on: ubuntu-latest
