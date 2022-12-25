@@ -23,6 +23,6 @@ class CategoryIdentifier:
         user_categories = self.users[username]
 
         for category in user_categories:
-            if re.search(category["category_regex"], text):
+            if re.search(category["category_regex"], text, re.IGNORECASE):
                 return category["category_name"]
         return "Others"
