@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 6152
+        "entries": 6186
     },
     "tweets": [
         {
@@ -61522,6 +61522,346 @@
             "tweet_conversation_id": "1607000984340897793",
             "tweet_type": "Others",
             "created_at": "2022-12-25T13:11:05.000Z"
+        },
+        {
+            "id": 6153,
+            "username": "bascodes",
+            "tweet_id": "1607020898141306881",
+            "tweet_text": "That's a wrap. If you liked this thread, RT it to help others discover descriptors in Python.\n\nRemember to follow me @bascodes to never miss interesting Python stuff!\n\n https://t.co/n9kk4ekWrs",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607020849764220928",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T14:30:13.000Z"
+        },
+        {
+            "id": 6154,
+            "username": "bascodes",
+            "tweet_id": "1607020891916886016",
+            "tweet_text": "Putting it all together, we now have a descriptor class and a rectangle class that uses the descriptor to store values.\n\nIn the __\ud835\ude90\ud835\ude8e\ud835\ude9d__ and __\ud835\ude9c\ud835\ude8e\ud835\ude9d__ methods, we can now put type conversions, validators and other parts of our business logic. https://t.co/VHpwnTnsPa",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk1I8RSXwAEjcBZ.jpg\"]",
+            "tweet_conversation_id": "1607020849764220928",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T14:30:12.000Z"
+        },
+        {
+            "id": 6155,
+            "username": "bascodes",
+            "tweet_id": "1607020886770565120",
+            "tweet_text": "Luckily, Python will call a __\ud835\ude9c\ud835\ude8e\ud835\ude9d_\ud835\ude97\ud835\ude8a\ud835\ude96\ud835\ude8e__ method in the background for us.\n\nWe could leverage that like so: https://t.co/jei26jx34f",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk1I78EXkAAFLKP.jpg\"]",
+            "tweet_conversation_id": "1607020849764220928",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T14:30:11.000Z"
+        },
+        {
+            "id": 6156,
+            "username": "bascodes",
+            "tweet_id": "1607020882769199105",
+            "tweet_text": "If we just put the value to the \ud835\ude9f\ud835\ude8a\ud835\ude95\ud835\ude9e\ud835\ude8e attribute of the \ud835\ude81\ud835\ude8e\ud835\ude8c\ud835\ude9d\ud835\ude8a\ud835\ude97\ud835\ude90\ud835\ude95\ud835\ude8e instance, we'd overwrite \ud835\udea0\ud835\ude92\ud835\ude8d\ud835\ude9d\ud835\ude91 with the value of \ud835\ude91\ud835\ude8e\ud835\ude92\ud835\ude90\ud835\ude91\ud835\ude9d.\n\nSo, we need to give a name to the value on an attribute of the \ud835\ude81\ud835\ude8e\ud835\ude8c\ud835\ude9d\ud835\ude8a\ud835\ude97\ud835\ude90\ud835\ude95\ud835\ude8e instance.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607020849764220928",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T14:30:10.000Z"
+        },
+        {
+            "id": 6157,
+            "username": "bascodes",
+            "tweet_id": "1607020877278855169",
+            "tweet_text": "For now, we store the values in the descriptor instance itself. However, it belongs to the Rectangle instance semantically.\n\nHow could we do that? https://t.co/3gM2IWKOlV",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk1I7oNXkAAPNqO.jpg\"]",
+            "tweet_conversation_id": "1607020849764220928",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T14:30:08.000Z"
+        },
+        {
+            "id": 6158,
+            "username": "bascodes",
+            "tweet_id": "1607020873206173700",
+            "tweet_text": "The __\ud835\ude90\ud835\ude8e\ud835\ude9d__ method accepts three parameters: \ud835\ude9c\ud835\ude8e\ud835\ude95\ud835\ude8f, \ud835\ude92\ud835\ude97\ud835\ude9c\ud835\ude9d\ud835\ude8a\ud835\ude97\ud835\ude8c\ud835\ude8e, \ud835\ude98\ud835\udea0\ud835\ude97\ud835\ude8e\ud835\ude9b.\n\n\ud835\ude92\ud835\ude97\ud835\ude9c\ud835\ude9d\ud835\ude8a\ud835\ude97\ud835\ude8c\ud835\ude8e is the object that contains the descriptor (\ud835\ude9b\ud835\ude8e\ud835\ude8c\ud835\ude9d in our case)\n\ud835\ude98\ud835\udea0\ud835\ude97\ud835\ude8e\ud835\ude9b is the class of the owner object (\ud835\ude81\ud835\ude8e\ud835\ude8c\ud835\ude9d\ud835\ude8a\ud835\ude97\ud835\ude90\ud835\ude95\ud835\ude8e in our case)",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607020849764220928",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T14:30:07.000Z"
+        },
+        {
+            "id": 6159,
+            "username": "bascodes",
+            "tweet_id": "1607020869280305152",
+            "tweet_text": "\ud835\ude9c\ud835\ude8e\ud835\ude95\ud835\ude8f is the descriptor class itself\n\ud835\ude92\ud835\ude97\ud835\ude9c\ud835\ude9d\ud835\ude8a\ud835\ude97\ud835\ude8c\ud835\ude8e is the object that contains the descriptor (\ud835\ude9b\ud835\ude8e\ud835\ude8c\ud835\ude9d in our case)\n\ud835\ude9f\ud835\ude8a\ud835\ude95\ud835\ude9e\ud835\ude8e is the value we want to set",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607020849764220928",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T14:30:06.000Z"
+        },
+        {
+            "id": 6160,
+            "username": "bascodes",
+            "tweet_id": "1607020865253679111",
+            "tweet_text": "Great, it works! Let's have a look at the __\ud835\ude90\ud835\ude8e\ud835\ude9d__ and __\ud835\ude9c\ud835\ude8e\ud835\ude9d__ methods.\n\nThe __\ud835\ude9c\ud835\ude8e\ud835\ude9d__ method accepts three parameters: \ud835\ude9c\ud835\ude8e\ud835\ude95\ud835\ude8f, \ud835\ude92\ud835\ude97\ud835\ude9c\ud835\ude9d\ud835\ude8a\ud835\ude97\ud835\ude8c\ud835\ude8e, \ud835\ude9f\ud835\ude8a\ud835\ude95\ud835\ude9e\ud835\ude8e.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607020849764220928",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T14:30:05.000Z"
+        },
+        {
+            "id": 6161,
+            "username": "bascodes",
+            "tweet_id": "1607020860224802817",
+            "tweet_text": "We could use our \ud835\ude80\ud835\ude9e\ud835\ude8a\ud835\ude97\ud835\ude9d\ud835\ude92\ud835\ude9d\ud835\udea2 descriptor class like this: https://t.co/ShW0CwRxGR",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk1I7UYWIAIm1jg.jpg\"]",
+            "tweet_conversation_id": "1607020849764220928",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T14:30:04.000Z"
+        },
+        {
+            "id": 6162,
+            "username": "bascodes",
+            "tweet_id": "1607020854801465345",
+            "tweet_text": "A descriptor is a class. If it implements a __\ud835\ude90\ud835\ude8e\ud835\ude9d__, a __\ud835\ude9c\ud835\ude8e\ud835\ude9d__, or a __\ud835\ude8d\ud835\ude8e\ud835\ude95\ud835\ude8e\ud835\ude9d\ud835\ude8e__ method, it is a valid descriptor.\n\nHere is an example: https://t.co/W646UxJgRG",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk1I66iXoAELESn.jpg\"]",
+            "tweet_conversation_id": "1607020849764220928",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T14:30:03.000Z"
+        },
+        {
+            "id": 6163,
+            "username": "bascodes",
+            "tweet_id": "1607020849764220928",
+            "tweet_text": "\ud83d\udc0d\ud83d\udca1 Ever wondered how these magical Field classes work in Django?\n\nThey are descriptors in Python.\n\nAnd it's possible to create your own. How? \ud83d\udc47 https://t.co/p7s7DjsxgL",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk1I6jbXgAEhGRB.jpg\"]",
+            "tweet_conversation_id": "1607020849764220928",
+            "tweet_type": "Python tips",
+            "created_at": "2022-12-25T14:30:02.000Z"
+        },
+        {
+            "id": 6164,
+            "username": "linuxopsys",
+            "tweet_id": "1607020986335133698",
+            "tweet_text": "That's a wrap!\n\nThank you for taking your time to read our thread.\n\nIf you know of any other dangerous Linux commands that I have missed, please leave them in the comments.\n\nAnd be sure to rt, like and follow us (@linuxopsys) for more future Linux content.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607020852083830785",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T14:30:34.000Z"
+        },
+        {
+            "id": 6165,
+            "username": "linuxopsys",
+            "tweet_id": "1607020983709499395",
+            "tweet_text": "Any inconsistency or data loss caused by the execution of the preceding command will bring your system to a halt.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607020852083830785",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T14:30:34.000Z"
+        },
+        {
+            "id": 6166,
+            "username": "linuxopsys",
+            "tweet_id": "1607020980958023681",
+            "tweet_text": "Please DO NOT run any of the above commands in your Linux terminal or shell, or on the computers of your friends or coworkers. Run them in a virtual machine if you want to test them.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607020852083830785",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T14:30:33.000Z"
+        },
+        {
+            "id": 6167,
+            "username": "linuxopsys",
+            "tweet_id": "1607020977803923456",
+            "tweet_text": "This can happen if you want to specify the -e flag but accidentally type -r. There is no yes/no prompt before removing the file, so be cautious.\n\nMake a backup of your crontab file because there aren't many recovery options if it gets deleted. https://t.co/ajneIKVgiZ",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk1JDzeaMAICLlW.jpg\"]",
+            "tweet_conversation_id": "1607020852083830785",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T14:30:32.000Z"
+        },
+        {
+            "id": 6168,
+            "username": "linuxopsys",
+            "tweet_id": "1607020970199625728",
+            "tweet_text": "12. Blindly deleting the crontabs \ud83e\udd16\ud83d\udcdc\n\nThe crontab command aids in the automation of routine tasks. All commands and instructions, however, are saved in a single crontab file, which can be removed by using the -r option and the crontab command.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607020852083830785",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T14:30:30.000Z"
+        },
+        {
+            "id": 6169,
+            "username": "linuxopsys",
+            "tweet_id": "1607020966928093185",
+            "tweet_text": "it can also cause problems if you don't thoroughly check the changes you make before running it.\n\nThe command changes the first occurrence of foo to bar. https://t.co/5SErqVSVNU",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk1JDMdaAAAh62U.jpg\"]",
+            "tweet_conversation_id": "1607020852083830785",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T14:30:30.000Z"
+        },
+        {
+            "id": 6170,
+            "username": "linuxopsys",
+            "tweet_id": "1607020959739047937",
+            "tweet_text": "11. The ^foo^bar Command \ud83d\udcdc\n\nThe ^foo^bar command has the potential to be both helpful and dangerous. While the command saves time by allowing you to edit a previously run command and re-run it,",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607020852083830785",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T14:30:28.000Z"
+        },
+        {
+            "id": 6171,
+            "username": "linuxopsys",
+            "tweet_id": "1607020956387799043",
+            "tweet_text": "10. Re-running all the history commands \ud83d\udd01\ud83d\udcdc\n\nBecause it executes every command from that you have already executed, the history | sh command can be dangerous. The action may cause system instability and the execution of commands that you do not want to repeat. https://t.co/OsQZOfOyqJ",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk1JCmFaUAAviYW.jpg\"]",
+            "tweet_conversation_id": "1607020852083830785",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T14:30:27.000Z"
+        },
+        {
+            "id": 6172,
+            "username": "linuxopsys",
+            "tweet_id": "1607020949106462722",
+            "tweet_text": "9. Write random junk to hard drive \ud83c\ude33\ud83d\udcc0\n\nThis command will write random garbage data to your hard drive.\nYour system will not be recovered as a result of this command. https://t.co/GBarqeekL2",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk1JCJeakAEdGOH.jpg\"]",
+            "tweet_conversation_id": "1607020852083830785",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T14:30:25.000Z"
+        },
+        {
+            "id": 6173,
+            "username": "linuxopsys",
+            "tweet_id": "1607020941313470467",
+            "tweet_text": "8. Unknowingly format a hard drive \ud83e\uddf9\ud83d\udcc0\n\nThis command will erase your hard drive and recreate it.\nThese should only be used when you have a backup of your data on the cloud or an external device. https://t.co/R4grnMaJkD",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk1JBr1aAAUSIUq.jpg\"]",
+            "tweet_conversation_id": "1607020852083830785",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T14:30:24.000Z"
+        },
+        {
+            "id": 6174,
+            "username": "linuxopsys",
+            "tweet_id": "1607020933101031429",
+            "tweet_text": "Running the code below in your terminal will delete your root partition leaving your system unusable. https://t.co/9tYxnADH7R",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk1JBJ_akAAtCT7.jpg\"]",
+            "tweet_conversation_id": "1607020852083830785",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T14:30:22.000Z"
+        },
+        {
+            "id": 6175,
+            "username": "linuxopsys",
+            "tweet_id": "1607020924448157696",
+            "tweet_text": "7. The hidden recursive deletion (rm -rf /) \ud83d\udd01\ud83d\uddd1\ufe0f\n\nThe following command is the same as the previously mentioned rm -rf / command. The codes are hidden in hex here to fool an unsuspecting user.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607020852083830785",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T14:30:20.000Z"
+        },
+        {
+            "id": 6176,
+            "username": "linuxopsys",
+            "tweet_id": "1607020921692512257",
+            "tweet_text": "The chmod command changes file permissions to configure user access to a specific file or directory.\n\nBy running this command, you grant all system users the ability to read, write, and execute data on your system. In terms of security, this is risky and dangerous.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607020852083830785",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T14:30:19.000Z"
+        },
+        {
+            "id": 6177,
+            "username": "linuxopsys",
+            "tweet_id": "1607020918483877888",
+            "tweet_text": "6. Breach the System \ud83d\udd13\n\nThis command does not physically affect your system in the same way that the other commands do, but it does provide a security breach on the system. https://t.co/vErFdPZUoI",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk1JAWwaEAA6sZJ.jpg\"]",
+            "tweet_conversation_id": "1607020852083830785",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T14:30:18.000Z"
+        },
+        {
+            "id": 6178,
+            "username": "linuxopsys",
+            "tweet_id": "1607020910971875330",
+            "tweet_text": "Please keep in mind the source from which you are downloading packages and scripts. Use only scripts or applications downloaded from a reputable source.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607020852083830785",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T14:30:16.000Z"
+        },
+        {
+            "id": 6179,
+            "username": "linuxopsys",
+            "tweet_id": "1607020907733876736",
+            "tweet_text": "5. Blindly download and execute malicious script \u2620\ufe0f\ud83d\udcdc\n\nWget and curl are useful Linux commands for retrieving and downloading files from the internet. However, if we blindly download and execute a malicious script, these commands can be dangerous. https://t.co/cGdIAOBQIU",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk1I_vQaYAAFF6_.jpg\"]",
+            "tweet_conversation_id": "1607020852083830785",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T14:30:16.000Z"
+        },
+        {
+            "id": 6180,
+            "username": "linuxopsys",
+            "tweet_id": "1607020899936632834",
+            "tweet_text": "4. Overwrite the hard drive \u270d\ufe0f\ud83d\udcbf\n\nThis command writes raw data (command output) to the specified partition. This causes data loss on the hard drive or specified partition.\n\ncommand - this could be any Linux command. https://t.co/htouzv96d7",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk1I_SnaEAAKZgI.jpg\"]",
+            "tweet_conversation_id": "1607020852083830785",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T14:30:14.000Z"
+        },
+        {
+            "id": 6181,
+            "username": "linuxopsys",
+            "tweet_id": "1607020892227502081",
+            "tweet_text": "Fortunately, you can defend against this attack by limiting the number of processes run by users to around 4000.\n\nYou can accomplish this by issuing the following command:\n\n$ ulimit -S -u 4000 https://t.co/l6x6CAJRgX",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk1I-0HaEAMUgHB.jpg\"]",
+            "tweet_conversation_id": "1607020852083830785",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T14:30:12.000Z"
+        },
+        {
+            "id": 6182,
+            "username": "linuxopsys",
+            "tweet_id": "1607020884061212672",
+            "tweet_text": "3. The fork bomb \ud83c\udf74\ud83d\udca3\n\nThis is my personal best, a simple bash recursive function that, when executed, creates copies of itself, which in turn creates another set of copies of itself. This takes up CPU time and memory. As a result, it loops until the system freezes. https://t.co/SiNaeLMsvU",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk1I-XmaUAUtW3p.jpg\"]",
+            "tweet_conversation_id": "1607020852083830785",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T14:30:10.000Z"
+        },
+        {
+            "id": 6183,
+            "username": "linuxopsys",
+            "tweet_id": "1607020876259786753",
+            "tweet_text": "Everything that is moved to this location is destroyed.\nAs a result, if you accidentally move your data to this folder, it will not be recovered https://t.co/zlyVNGKz3R",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk1I93naEAE3uxz.jpg\"]",
+            "tweet_conversation_id": "1607020852083830785",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T14:30:08.000Z"
+        },
+        {
+            "id": 6184,
+            "username": "linuxopsys",
+            "tweet_id": "1607020867804069890",
+            "tweet_text": "2. Implode hard drive \ud83d\udd73\ufe0f\n\nThis command will move all data to a special location in Linux known as the black hole, which is located in your system at /dev/null.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607020852083830785",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T14:30:06.000Z"
+        },
+        {
+            "id": 6185,
+            "username": "linuxopsys",
+            "tweet_id": "1607020864717090817",
+            "tweet_text": "1. Recursive deletion \ud83d\udd01\ud83d\uddd1\ufe0f\n\nThis is one of the scariest commands. When you run this command, it deletes everything in the root directory forcibly and recursively. As a result, all of your directories and subdirectories will be deleted, and all of your data will be lost. https://t.co/gkXMuWElSX",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk1I9NVaEAAZKzY.jpg\"]",
+            "tweet_conversation_id": "1607020852083830785",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T14:30:05.000Z"
+        },
+        {
+            "id": 6186,
+            "username": "linuxopsys",
+            "tweet_id": "1607020852083830785",
+            "tweet_text": "12 destructive Linux terminal commands every Linux user must be aware of (don't run these):",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607020852083830785",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T14:30:02.000Z"
         }
     ]
 }
