@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 6186
+        "entries": 6189
     },
     "tweets": [
         {
@@ -61862,6 +61862,36 @@
             "tweet_conversation_id": "1607020852083830785",
             "tweet_type": "Others",
             "created_at": "2022-12-25T14:30:02.000Z"
+        },
+        {
+            "id": 6187,
+            "username": "testdrivenio",
+            "tweet_id": "1607051049814331392",
+            "tweet_text": "Python tip:\n\nBecause tuples are immutable, there's no need to copy them (they can't be copied).\ntuple(my_tuple) returns itself.\n\nOn the other hand, lists are mutable, so copying them makes sense.\nlist(my_list) returns a new list. https://t.co/mMBS9dkTNv",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk1kaWEaYAIHpYK.png\"]",
+            "tweet_conversation_id": "1607051049814331392",
+            "tweet_type": "Python tips",
+            "created_at": "2022-12-25T16:30:02.000Z"
+        },
+        {
+            "id": 6188,
+            "username": "bascodes",
+            "tweet_id": "1607052415374606337",
+            "tweet_text": "If you're celebrating today:\n\nMerry Christmas to all of you! \n\ud83c\udf85\ud83c\udf84\ud83c\udf81\u2603\ufe0f\u2728",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607052415374606337",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T16:35:28.000Z"
+        },
+        {
+            "id": 6189,
+            "username": "driscollis",
+            "tweet_id": "1607047084607258631",
+            "tweet_text": "Merry Christmas to all my friends here!\n\nI hope you have a wonderful and blessed holiday\n\n\ud83c\udf84\u2603\ufe0f\u2744\ufe0f",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607047084607258631",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T16:14:17.000Z"
         }
     ]
 }
