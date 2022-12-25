@@ -9,7 +9,7 @@ import yaml
 class CategoryIdentifier:
     def __init__(self, config_file: Union[Path, str]) -> None:
         if config_file is None:
-            config_file = Path(__file__).parent.parent.parent / "assets" / "config.yml"
+            config_file = Path(__file__).parent.parent.parent / "assets" / "watchlist.yml"
         self.config_file = config_file
 
     @cached_property
