@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 5319
+        "entries": 5320
     },
     "tweets": [
         {
@@ -53192,6 +53192,16 @@
             "tweet_conversation_id": "1606794366848204801",
             "tweet_type": "Others",
             "created_at": "2022-12-24T23:30:04.000Z"
+        },
+        {
+            "id": 5320,
+            "username": "driscollis",
+            "tweet_id": "1606832128477597697",
+            "tweet_text": "Get 50 FREE copies of The Python Quiz Book as a part of my Christmas Eve promo!\n\nMerry Christmas! \ud83d\udc0d\ud83c\udf84\n\nhttps://t.co/8uqNrBLPnl",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1606832128477597697",
+            "tweet_type": "Others",
+            "created_at": "2022-12-25T02:00:07.000Z"
         }
     ]
 }
