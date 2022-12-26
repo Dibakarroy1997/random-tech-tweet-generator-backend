@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 6208
+        "entries": 6209
     },
     "tweets": [
         {
@@ -62082,6 +62082,16 @@
             "tweet_conversation_id": "1607384968392544262",
             "tweet_type": "Others",
             "created_at": "2022-12-26T14:36:54.000Z"
+        },
+        {
+            "id": 6209,
+            "username": "driscollis",
+            "tweet_id": "1607403357387325441",
+            "tweet_text": "You can access #Python enums in a couple of different ways. \ud83d\udc0d\ud83d\udd25\n\nThe following demonstrates how to access by number. It also shows how to access an Enum using attributes.\n\nWhile not shown here, you also have dictionary-like access:\n\nLanguages[\"Python\"] https://t.co/JMc8BA7WkW",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk6k1Y3WAAAmTFj.jpg\"]",
+            "tweet_conversation_id": "1607403357387325441",
+            "tweet_type": "Python tips",
+            "created_at": "2022-12-26T15:49:59.000Z"
         }
     ]
 }
