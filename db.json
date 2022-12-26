@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 6219
+        "entries": 6221
     },
     "tweets": [
         {
@@ -62192,6 +62192,26 @@
             "tweet_conversation_id": "1607412616720224264",
             "tweet_type": "Python tips",
             "created_at": "2022-12-26T16:26:46.000Z"
+        },
+        {
+            "id": 6220,
+            "username": "bascodes",
+            "tweet_id": "1607482608295854080",
+            "tweet_text": "Make sure to subscribe here \ud83d\udc47\nhttps://t.co/TdYEGPVZ43",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607482604239953921",
+            "tweet_type": "Others",
+            "created_at": "2022-12-26T21:04:54.000Z"
+        },
+        {
+            "id": 6221,
+            "username": "bascodes",
+            "tweet_id": "1607482604239953921",
+            "tweet_text": "Newsletter goes out tomorrow!\n\nThis is the last newsletter of this year. It will include\n\ud83d\udcbb State of the tech industry\n\ud83c\udf86 My reflections on 2022 and a 2023 outlook\n\ud83d\udcdd Reflections on technical writing by @BhavaniRavi_",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607482604239953921",
+            "tweet_type": "Others",
+            "created_at": "2022-12-26T21:04:53.000Z"
         }
     ]
 }
