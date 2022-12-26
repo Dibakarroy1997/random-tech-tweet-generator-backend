@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 6190
+        "entries": 6191
     },
     "tweets": [
         {
@@ -61902,6 +61902,16 @@
             "tweet_conversation_id": "1607075740318564356",
             "tweet_type": "Others",
             "created_at": "2022-12-25T18:08:09.000Z"
+        },
+        {
+            "id": 6191,
+            "username": "driscollis",
+            "tweet_id": "1607207326250844160",
+            "tweet_text": "If you are working with strings in #Python and want to turn it into a list of words, use the `split()` method. \ud83d\udc0d\u26a1\n\nIt's simple and works wonderfully! https://t.co/LhWFIFAeDF",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk3yi4uWIAEh0iq.jpg\"]",
+            "tweet_conversation_id": "1607207326250844160",
+            "tweet_type": "Python tips",
+            "created_at": "2022-12-26T02:51:01.000Z"
         }
     ]
 }
