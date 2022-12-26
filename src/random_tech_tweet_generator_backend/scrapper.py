@@ -33,7 +33,7 @@ class TweetScrapper:
         for media in response.get("includes").get("media", []):
             if media["type"] == "photo":
                 medias.append(media["url"])
-            elif media["type"] == "video":
+            elif media["type"] in ["video", "animated_gif"]:
                 variants = media["variants"]
                 sorted_variants = sorted(variants, key=lambda x: x.get("bit_rate", 0))
                 medias.append(sorted_variants.pop()["url"])
