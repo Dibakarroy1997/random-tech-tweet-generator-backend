@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 6205
+        "entries": 6207
     },
     "tweets": [
         {
@@ -62052,6 +62052,26 @@
             "tweet_conversation_id": "1607357566631256065",
             "tweet_type": "Python tips",
             "created_at": "2022-12-26T12:48:01.000Z"
+        },
+        {
+            "id": 6206,
+            "username": "bascodes",
+            "tweet_id": "1607365972549308417",
+            "tweet_text": "Check it out here:\nhttps://t.co/X4p38jI9vN",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607365970456190976",
+            "tweet_type": "Others",
+            "created_at": "2022-12-26T13:21:25.000Z"
+        },
+        {
+            "id": 6207,
+            "username": "bascodes",
+            "tweet_id": "1607365970456190976",
+            "tweet_text": "If you're using bookmarks on Twitter, have you checked out my little side project @bookmarksemail?\n\nYou get a daily digest of all your Twitter bookmarks without needing to publicly tag a bot",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607365970456190976",
+            "tweet_type": "Others",
+            "created_at": "2022-12-26T13:21:25.000Z"
         }
     ]
 }
