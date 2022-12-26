@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 6207
+        "entries": 6208
     },
     "tweets": [
         {
@@ -62072,6 +62072,16 @@
             "tweet_conversation_id": "1607365970456190976",
             "tweet_type": "Others",
             "created_at": "2022-12-26T13:21:25.000Z"
+        },
+        {
+            "id": 6208,
+            "username": "bascodes",
+            "tweet_id": "1607384968392544262",
+            "tweet_text": "\"Any sufficiently complicated C or Fortran program contains an ad hoc, informally specified, bug-ridden, slow implementation of half of Common Lisp\"\n\u2013 Philip Greenspun",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607384968392544262",
+            "tweet_type": "Others",
+            "created_at": "2022-12-26T14:36:54.000Z"
         }
     ]
 }
