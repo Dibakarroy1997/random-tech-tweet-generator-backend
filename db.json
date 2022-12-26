@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 6191
+        "entries": 6193
     },
     "tweets": [
         {
@@ -61912,6 +61912,26 @@
             "tweet_conversation_id": "1607207326250844160",
             "tweet_type": "Python tips",
             "created_at": "2022-12-26T02:51:01.000Z"
+        },
+        {
+            "id": 6192,
+            "username": "driscollis",
+            "tweet_id": "1607327351393615873",
+            "tweet_text": "If you pip install the `qrcode` package for #Python, you can also create QR codes on the command line using the `qr` script, like this: https://t.co/6rJ4EBV8S5",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk5ftA9WYAIcvGz.jpg\"]",
+            "tweet_conversation_id": "1607327346968633344",
+            "tweet_type": "Python tips",
+            "created_at": "2022-12-26T10:47:57.000Z"
+        },
+        {
+            "id": 6193,
+            "username": "driscollis",
+            "tweet_id": "1607327346968633344",
+            "tweet_text": "Did you know you can use #Python to create QR codes? \ud83d\udc0d\ud83d\udd25\n\nYou only need 3 lines of code with the `qrcode` package:\n\nhttps://t.co/G6QSBXLIi4 https://t.co/LTyQl9hd0e",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk5fszRXEAE7ND9.jpg\"]",
+            "tweet_conversation_id": "1607327346968633344",
+            "tweet_type": "Python tips",
+            "created_at": "2022-12-26T10:47:56.000Z"
         }
     ]
 }
