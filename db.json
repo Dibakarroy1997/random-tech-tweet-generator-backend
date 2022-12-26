@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 6194
+        "entries": 6205
     },
     "tweets": [
         {
@@ -61942,6 +61942,116 @@
             "tweet_conversation_id": "1607345083170390021",
             "tweet_type": "Others",
             "created_at": "2022-12-26T11:58:25.000Z"
+        },
+        {
+            "id": 6195,
+            "username": "Rapid_API",
+            "tweet_id": "1607357347101294593",
+            "tweet_text": "That\u2019s all for now!\n\nFollow @Rapid_API for more exclusive content. \ud83d\udc19",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607357310875193350",
+            "tweet_type": "Others",
+            "created_at": "2022-12-26T12:47:09.000Z"
+        },
+        {
+            "id": 6196,
+            "username": "Rapid_API",
+            "tweet_id": "1607357343045492736",
+            "tweet_text": "3. OAuth\n\nOAuth is an open standard for authorization that provides a way for users to grant third-party access to their web resources without sharing their passwords.\n\nIt also allows for secure access to those resources by ensuring that only authorized users can access them.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607357310875193350",
+            "tweet_type": "Others",
+            "created_at": "2022-12-26T12:47:08.000Z"
+        },
+        {
+            "id": 6197,
+            "username": "Rapid_API",
+            "tweet_id": "1607357339035746304",
+            "tweet_text": "2. API Keys\n\nAn API key is a unique string/code used to access APIs.\n\nUsually, it is a lengthy list of letters and numbers.\n\nUsers' identities and use patterns are tracked via API keys.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607357310875193350",
+            "tweet_type": "Others",
+            "created_at": "2022-12-26T12:47:07.000Z"
+        },
+        {
+            "id": 6198,
+            "username": "Rapid_API",
+            "tweet_id": "1607357335084621824",
+            "tweet_text": "Additional details, such as the expiration date and the user's ID, are possible.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607357310875193350",
+            "tweet_type": "Others",
+            "created_at": "2022-12-26T12:47:06.000Z"
+        },
+        {
+            "id": 6199,
+            "username": "Rapid_API",
+            "tweet_id": "1607357331053985793",
+            "tweet_text": "1.3 JWT - Json Web Token\n\nOnly application-level security is provided via the API key (described below). It provides equal access to all users.\n\nThe JWT token, on the other hand, offers user-level access.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607357310875193350",
+            "tweet_type": "Others",
+            "created_at": "2022-12-26T12:47:05.000Z"
+        },
+        {
+            "id": 6200,
+            "username": "Rapid_API",
+            "tweet_id": "1607357327069282307",
+            "tweet_text": "1.2 Bearer HTTP Auth\n\nTo access a resource, the user must first authenticate using a bearer authentication, which often takes the form of a card or key.\n\nA username or other identity is often embedded within the token.\n\nAuthorization: Bearer &lt;token&gt;",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607357310875193350",
+            "tweet_type": "Others",
+            "created_at": "2022-12-26T12:47:04.000Z"
+        },
+        {
+            "id": 6201,
+            "username": "Rapid_API",
+            "tweet_id": "1607357323105689600",
+            "tweet_text": "It lessens the security of HTTP Basic authentication in comparison to the other techniques mentioned above.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607357310875193350",
+            "tweet_type": "Others",
+            "created_at": "2022-12-26T12:47:03.000Z"
+        },
+        {
+            "id": 6202,
+            "username": "Rapid_API",
+            "tweet_id": "1607357319058264065",
+            "tweet_text": "1.1. Basic HTTP Auth\n\nSending login information to a server may be done using HTTP Basic authentication.\n\nThe credentials are sent in an HTTP header, making them easily interceptable.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607357310875193350",
+            "tweet_type": "Others",
+            "created_at": "2022-12-26T12:47:02.000Z"
+        },
+        {
+            "id": 6203,
+            "username": "Rapid_API",
+            "tweet_id": "1607357314989694977",
+            "tweet_text": "Here, we'll discuss the three most commonly used API authentication techniques:\n\n- HTTP Authentication\n- API Keys (Bearer token, JSON Web Token)\n- OAuth",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607357310875193350",
+            "tweet_type": "Others",
+            "created_at": "2022-12-26T12:47:01.000Z"
+        },
+        {
+            "id": 6204,
+            "username": "Rapid_API",
+            "tweet_id": "1607357310875193350",
+            "tweet_text": "API Authentication methods\n\nThread \ud83e\uddf5\ud83d\udc47",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607357310875193350",
+            "tweet_type": "API tips",
+            "created_at": "2022-12-26T12:47:00.000Z"
+        },
+        {
+            "id": 6205,
+            "username": "driscollis",
+            "tweet_id": "1607357566631256065",
+            "tweet_text": "#Python Pop Quiz \ud83d\udc0d\u2753\n\nWhat is the output of this REPL session?\n\nA) 'Mike'\nB) 'Driscoll'\nC) ('Mike', 'Driscoll')\nD) ['Mike', 'Driscoll'] https://t.co/DHrF2o4NzY",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk57L56XgAARlLq.jpg\"]",
+            "tweet_conversation_id": "1607357566631256065",
+            "tweet_type": "Python tips",
+            "created_at": "2022-12-26T12:48:01.000Z"
         }
     ]
 }
