@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 6209
+        "entries": 6219
     },
     "tweets": [
         {
@@ -62092,6 +62092,106 @@
             "tweet_conversation_id": "1607403357387325441",
             "tweet_type": "Python tips",
             "created_at": "2022-12-26T15:49:59.000Z"
+        },
+        {
+            "id": 6210,
+            "username": "testdrivenio",
+            "tweet_id": "1607413437277278208",
+            "tweet_text": "Python tip:\n\nYou can see all attributes and methods that a Python object has with dir().\nThe method returns a sorted list of attributes and methods (including dunder methods).\n\nCalling it on an instance of a class will produce the same result as with the class itself. https://t.co/3mUhj1bj4G",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk6uACIaYAQMaId.png\"]",
+            "tweet_conversation_id": "1607413437277278208",
+            "tweet_type": "Python tips",
+            "created_at": "2022-12-26T16:30:02.000Z"
+        },
+        {
+            "id": 6211,
+            "username": "alexxubyte",
+            "tweet_id": "1607417272657915904",
+            "tweet_text": "/8 I hope you've found this thread helpful.\n\nFollow me @alexxubyte for more.\n\nLike/Retweet the first tweet below if you can: https://t.co/V8Cgw1WIwE",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607417223840411652",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-26T16:45:16.000Z"
+        },
+        {
+            "id": 6212,
+            "username": "alexxubyte",
+            "tweet_id": "1607417269919047684",
+            "tweet_text": "/7 Subscribe to our weekly newsletter to learn something new every week:\n\nhttps://t.co/dkjDPxaQMt",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607417223840411652",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-26T16:45:16.000Z"
+        },
+        {
+            "id": 6213,
+            "username": "alexxubyte",
+            "tweet_id": "1607417267272421377",
+            "tweet_text": "/6 \ud83d\udc49 Over to you: what comes into your mind when people talk about \u201ccloud native\u201d?",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607417223840411652",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-26T16:45:15.000Z"
+        },
+        {
+            "id": 6214,
+            "username": "alexxubyte",
+            "tweet_id": "1607417264609046528",
+            "tweet_text": "/5 \ud83d\udd39 4. Application infrastructure\nThe applications are massively deployed on cloud infrastructure instead of self-hosted servers.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607417223840411652",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-26T16:45:14.000Z"
+        },
+        {
+            "id": 6215,
+            "username": "alexxubyte",
+            "tweet_id": "1607417260347621377",
+            "tweet_text": "/4 \ud83d\udd39 3. Deployment &amp; packaging\nThe applications used to be deployed on physical servers. Then around 2000, the apps not sensitive to latency were usually deployed on virtual servers. With cloud-native, apps are packaged into docker images and deployed in containers https://t.co/WSXTIsQFA6",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk6xeVKagAAnf56.jpg\"]",
+            "tweet_conversation_id": "1607417223840411652",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-26T16:45:13.000Z"
+        },
+        {
+            "id": 6216,
+            "username": "alexxubyte",
+            "tweet_id": "1607417248016379909",
+            "tweet_text": "/3 \ud83d\udd39 2. Application architecture\nThe architecture has gone from monolithic to microservices. Each service is designed to be small, adaptive to the limited resources in cloud containers. https://t.co/Ohn8zYYRjP",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk6xdolaMAIll51.jpg\"]",
+            "tweet_conversation_id": "1607417223840411652",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-26T16:45:10.000Z"
+        },
+        {
+            "id": 6217,
+            "username": "alexxubyte",
+            "tweet_id": "1607417236482060290",
+            "tweet_text": "/2 This means the applications are designed to leverage cloud features, so they are resilient to load and easy to scale.\n\nCloud-native includes 4 aspects:\n\n\ud83d\udd39 1. Development process\nThis has progressed from waterfall to agile to DevOps. https://t.co/YI103DCgrt",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk6xc7YacAAviQO.jpg\"]",
+            "tweet_conversation_id": "1607417223840411652",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-26T16:45:08.000Z"
+        },
+        {
+            "id": 6218,
+            "username": "alexxubyte",
+            "tweet_id": "1607417223840411652",
+            "tweet_text": "/1 What is cloud-native?\n\nBelow is a diagram showing the evolution of architecture and processes since the 1980s.\n\nOrganizations can build and run scalable applications on public, private, and hybrid clouds using cloud-native technologies. https://t.co/B9nFW1rVS6",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk6xcSnaEAA-qBg.jpg\"]",
+            "tweet_conversation_id": "1607417223840411652",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-26T16:45:05.000Z"
+        },
+        {
+            "id": 6219,
+            "username": "driscollis",
+            "tweet_id": "1607412616720224264",
+            "tweet_text": "What did you do with #Python last week? \ud83d\udc0d\n\nI didn't get much done with Python because I was sick and trying to keep up with a blizzard",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607412616720224264",
+            "tweet_type": "Python tips",
+            "created_at": "2022-12-26T16:26:46.000Z"
         }
     ]
 }
