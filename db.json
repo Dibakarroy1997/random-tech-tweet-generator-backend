@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 6193
+        "entries": 6194
     },
     "tweets": [
         {
@@ -61932,6 +61932,16 @@
             "tweet_conversation_id": "1607327346968633344",
             "tweet_type": "Python tips",
             "created_at": "2022-12-26T10:47:56.000Z"
+        },
+        {
+            "id": 6194,
+            "username": "bascodes",
+            "tweet_id": "1607345083170390021",
+            "tweet_text": "Thanks, 5k! \ud83e\udd73",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607345083170390021",
+            "tweet_type": "Others",
+            "created_at": "2022-12-26T11:58:25.000Z"
         }
     ]
 }
