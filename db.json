@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 6221
+        "entries": 6236
     },
     "tweets": [
         {
@@ -62212,6 +62212,156 @@
             "tweet_conversation_id": "1607482604239953921",
             "tweet_type": "Others",
             "created_at": "2022-12-26T21:04:53.000Z"
+        },
+        {
+            "id": 6222,
+            "username": "Rapid_API",
+            "tweet_id": "1607542559592554497",
+            "tweet_text": "That\u2019s all for now!\n\nFollow @Rapid_API for more exclusive content. \ud83d\udc19",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607542503623860224",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T01:03:07.000Z"
+        },
+        {
+            "id": 6223,
+            "username": "Rapid_API",
+            "tweet_id": "1607542555566030849",
+            "tweet_text": "405 - Method Not Allowed\n\nThe HTTP response code 405 indicates that the request method is not allowed for the requested resource.\n\nIt is usually due to a problem with the server configuration.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607542503623860224",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T01:03:06.000Z"
+        },
+        {
+            "id": 6224,
+            "username": "Rapid_API",
+            "tweet_id": "1607542551619174400",
+            "tweet_text": "404 - Not Found\n\nIt is an error message that means the page you are looking for could not be found.\n\nThis can be due to several reasons, such as a typo in the URL or the page being moved or deleted.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607542503623860224",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T01:03:05.000Z"
+        },
+        {
+            "id": 6225,
+            "username": "Rapid_API",
+            "tweet_id": "1607542547668242433",
+            "tweet_text": "403 - Forbidden\n\nIt indicates that the client is not authorized to access the requested resource.\n\nIt is usually due to a lack of permissions.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607542503623860224",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T01:03:04.000Z"
+        },
+        {
+            "id": 6226,
+            "username": "Rapid_API",
+            "tweet_id": "1607542543419416577",
+            "tweet_text": "401 - Unauthorized\n\nIt indicates that the client is not authorized to access the requested resource.\n\nIt is usually due to an invalid or missing authorization header.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607542503623860224",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T01:03:03.000Z"
+        },
+        {
+            "id": 6227,
+            "username": "Rapid_API",
+            "tweet_id": "1607542539422154753",
+            "tweet_text": "400 - Bad request\n\nThis HTTP response code means that the server could not understand the request due to invalid syntax.\n\nIt is often caused by a client error, such as a malformed URL.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607542503623860224",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T01:03:02.000Z"
+        },
+        {
+            "id": 6228,
+            "username": "Rapid_API",
+            "tweet_id": "1607542535416684544",
+            "tweet_text": "304 - Not Modified\n\nIt indicates that previously cached response can be reused, as the requested resource has not been modified.\n\nThis can improve performance, as the client does not need to re-download the resource.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607542503623860224",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T01:03:01.000Z"
+        },
+        {
+            "id": 6229,
+            "username": "Rapid_API",
+            "tweet_id": "1607542531415330820",
+            "tweet_text": "302 - Found\n\nThe HTTP response status code 302 is similar to status 301, showing that the resource has been moved.\n\nHowever, unlike status 301, the 302 status code indicates that the redirect is only temporary.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607542503623860224",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T01:03:00.000Z"
+        },
+        {
+            "id": 6230,
+            "username": "Rapid_API",
+            "tweet_id": "1607542527472664578",
+            "tweet_text": "301 - Moved Permanently\n\nIt means that the resource you are trying to access has been moved permanently. It is usually the result of a website redesign or change in URL.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607542503623860224",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T01:02:59.000Z"
+        },
+        {
+            "id": 6231,
+            "username": "Rapid_API",
+            "tweet_id": "1607542523513262080",
+            "tweet_text": "204 - No Content\n\nHTTP response status code 204 indicates that the server has successfully processed the request and that there is no content to return.\n\nThis is often used when a request is made to update an existing resource, such as when updating a record in a database.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607542503623860224",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T01:02:58.000Z"
+        },
+        {
+            "id": 6232,
+            "username": "Rapid_API",
+            "tweet_id": "1607542519536943107",
+            "tweet_text": "202 - Accepted\n\nIt means that the server has accepted the request, but the processing has not been completed.\n\nIt is used when the client does not need to wait for the processing to finish before continuing.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607542503623860224",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T01:02:58.000Z"
+        },
+        {
+            "id": 6233,
+            "username": "Rapid_API",
+            "tweet_id": "1607542515581714435",
+            "tweet_text": "201 - Created\n\nThe HTTP response code 201 means that the request is successful and that a new resource has been created.\n\nIt is often the case when a new file or directory is uploaded to a web server.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607542503623860224",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T01:02:57.000Z"
+        },
+        {
+            "id": 6234,
+            "username": "Rapid_API",
+            "tweet_id": "1607542511550996483",
+            "tweet_text": "200 - OK\n\nThe HTTP response status code 200 is the standard response for successful HTTP requests.\n\nThe server responded with \"OK\" to indicate that the request was successful.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607542503623860224",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T01:02:56.000Z"
+        },
+        {
+            "id": 6235,
+            "username": "Rapid_API",
+            "tweet_id": "1607542507532963841",
+            "tweet_text": "Five categories are used to group the responses:\n\n1. Informational responses (100\u2013199)\n2. Successful responses (200\u2013299)\n3. Redirection messages (300\u2013399)\n4. Client error responses (400\u2013499)\n5. Server error responses (500\u2013599)",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607542503623860224",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T01:02:55.000Z"
+        },
+        {
+            "id": 6236,
+            "username": "Rapid_API",
+            "tweet_id": "1607542503623860224",
+            "tweet_text": "HTTP Status codes worth knowing about\n\nThread \ud83e\uddf5\ud83d\udc47",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607542503623860224",
+            "tweet_type": "API tips",
+            "created_at": "2022-12-27T01:02:54.000Z"
         }
     ]
 }
