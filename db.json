@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 6236
+        "entries": 6246
     },
     "tweets": [
         {
@@ -62362,6 +62362,106 @@
             "tweet_conversation_id": "1607542503623860224",
             "tweet_type": "API tips",
             "created_at": "2022-12-27T01:02:54.000Z"
+        },
+        {
+            "id": 6237,
+            "username": "Rapid_API",
+            "tweet_id": "1607718439904333825",
+            "tweet_text": "That\u2019s all for now!\n\nFollow @Rapid_API for more exclusive content. \ud83d\udc19",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607718404038840320",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T12:42:00.000Z"
+        },
+        {
+            "id": 6238,
+            "username": "Rapid_API",
+            "tweet_id": "1607718435919728643",
+            "tweet_text": "The response may also include an \u2018Access-Control-Max-Age\u2019 header specifying the time the response must be cached within.\n\nWith this, the client won\u2019t need the preflight request whenever it wants to access the CORS resource.\n\nThe actual CORS request can now be made as usual.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607718404038840320",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T12:41:59.000Z"
+        },
+        {
+            "id": 6239,
+            "username": "Rapid_API",
+            "tweet_id": "1607718431918366720",
+            "tweet_text": "Preflight requests start by sending an HTTP OPTIONS request to the server.\n\nThe server responds with an \u2018Access-Control-Allow-Methods\u2019 header which states the HTTP Methods permitted to be used by the origin.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607718404038840320",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T12:41:58.000Z"
+        },
+        {
+            "id": 6240,
+            "username": "Rapid_API",
+            "tweet_id": "1607718427933687809",
+            "tweet_text": "That's the basics of a CORS request. However, some HTTP methods (Methods that are not GET, POST, or HEAD) require a preflight request before the actual request is made.\n\nDetails of Preflight requests \ud83d\udc47",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607718404038840320",
+            "tweet_type": "API tips",
+            "created_at": "2022-12-27T12:41:57.000Z"
+        },
+        {
+            "id": 6241,
+            "username": "Rapid_API",
+            "tweet_id": "1607718423949107200",
+            "tweet_text": "Next, the server responds and adds an \u2018Access-Control-Allow-Origin\u2019 header in the response.\n\nIf this header\u2019s origin is the same as the origin sent in the request, access to the resource will be allowed.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607718404038840320",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T12:41:56.000Z"
+        },
+        {
+            "id": 6242,
+            "username": "Rapid_API",
+            "tweet_id": "1607718420039999488",
+            "tweet_text": "When the browser makes a cross-origin request, it will add an \u2018Origin\u2019 header that states the scheme(protocol), domain, and port number.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607718404038840320",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T12:41:55.000Z"
+        },
+        {
+            "id": 6243,
+            "username": "Rapid_API",
+            "tweet_id": "1607718416038727681",
+            "tweet_text": "However, using CORS adds flexibility to Same-Origin Policy. A typical example is making a request to an API on a different domain.\n\nBelow is a breakdown of how CORS functions\ud83d\udc47\ud83c\udffc",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607718404038840320",
+            "tweet_type": "API tips",
+            "created_at": "2022-12-27T12:41:55.000Z"
+        },
+        {
+            "id": 6244,
+            "username": "Rapid_API",
+            "tweet_id": "1607718411974447104",
+            "tweet_text": "As a standard, browsers implement Same-Origin Policy, which means requesting data from the same origin is allowed but requesting data from another URL will throw an error.\n\nThis is implemented for security reasons.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607718404038840320",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T12:41:54.000Z"
+        },
+        {
+            "id": 6245,
+            "username": "Rapid_API",
+            "tweet_id": "1607718407960510465",
+            "tweet_text": "CORS (Cross-Origin Resource Sharing) is an HTTP-based mechanism that enables the browser to access resources outside a given domain.\n\nIn other words, resources can be requested from one URL to another.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607718404038840320",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T12:41:53.000Z"
+        },
+        {
+            "id": 6246,
+            "username": "Rapid_API",
+            "tweet_id": "1607718404038840320",
+            "tweet_text": "What exactly is CORS, and how does it work?\n\nThread \ud83e\uddf5",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607718404038840320",
+            "tweet_type": "API tips",
+            "created_at": "2022-12-27T12:41:52.000Z"
         }
     ]
 }
