@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 6258
+        "entries": 6280
     },
     "tweets": [
         {
@@ -62582,6 +62582,226 @@
             "tweet_conversation_id": "1607812803590496279",
             "tweet_type": "Others",
             "created_at": "2022-12-27T18:56:58.000Z"
+        },
+        {
+            "id": 6259,
+            "username": "driscollis",
+            "tweet_id": "1607852461326311426",
+            "tweet_text": "I've been busy working on The Python Quiz Book today and contemplating how and what I want to write in a potential Python newsletter.\n\nWhat have you been working on?",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607852461326311426",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T21:34:33.000Z"
+        },
+        {
+            "id": 6260,
+            "username": "linuxopsys",
+            "tweet_id": "1607858997289451523",
+            "tweet_text": "That's all! Thank you for getting this far. I hope you find this thread useful.\n\nIf you found this thread helpful\n\n1. Toss us a follow for more daily threads on Linux, sysadmin, and DevOps\u2192@linuxopsys\n2. Like and RT the first tweet so that other Linux users can find it as well.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:32.000Z"
+        },
+        {
+            "id": 6261,
+            "username": "linuxopsys",
+            "tweet_id": "1607858994496016384",
+            "tweet_text": "For a more in-depth guide on how to use command line redirections, check out this article on our website.\n\nBash Command Line Chain Operators in Linux with Examples:\nhttps://t.co/WBdy2lAyMR",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:31.000Z"
+        },
+        {
+            "id": 6262,
+            "username": "linuxopsys",
+            "tweet_id": "1607858991413219329",
+            "tweet_text": "Many people would, for example, use the preceding example with cat and then pipe the output of cat to the second command to act as in the input. To be honest, there is no need to use the cat command here.\n\n$ cat file.txt | wc https://t.co/q2GJti1CnU",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlBDOo8agAAKccn.jpg\"]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:30.000Z"
+        },
+        {
+            "id": 6263,
+            "username": "linuxopsys",
+            "tweet_id": "1607858983846674433",
+            "tweet_text": "Here is an example of input redirection in use:\n\n$ wc &lt; file.txt\n\nThough stdin is rarely used, it is preferable to pipe, especially to avoid the needless use of the cat command. https://t.co/YuiAx6ujOo",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlBDOKoagAAJT3P.jpg\"]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:28.000Z"
+        },
+        {
+            "id": 6264,
+            "username": "linuxopsys",
+            "tweet_id": "1607858976057851904",
+            "tweet_text": "The input redirection\n\nYou can use stdin redirection to pass the contents of a text file to a command.\nStdin is rarely used. Because most Linux commands accept filenames as arguments, stdin redirection is often unnecessary.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:27.000Z"
+        },
+        {
+            "id": 6265,
+            "username": "linuxopsys",
+            "tweet_id": "1607858972660486144",
+            "tweet_text": "The &amp;&gt; construct can also be used to redirect stderr to stdout. &amp;&gt; has the same meaning in Bash as 2&gt;&amp;1:\n\n$ cmd &amp;&gt; file.txt https://t.co/QjJPW5qObx",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlBDNigaYAAYpNY.jpg\"]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:26.000Z"
+        },
+        {
+            "id": 6266,
+            "username": "linuxopsys",
+            "tweet_id": "1607858964838109184",
+            "tweet_text": "It is important to note that the order of redirection is crucial. The following example, for example, redirects only stdout to the file. This occurs because STDERR is redirected to STDOUT before STDOUT is redirected to the file.\n\n$ cmd 2&gt;&amp;1 &gt; file https://t.co/Q0uKIe311q",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlBDNE0aEAAGfBJ.jpg\"]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:24.000Z"
+        },
+        {
+            "id": 6267,
+            "username": "linuxopsys",
+            "tweet_id": "1607858956806017024",
+            "tweet_text": "Use the following command to redirect stderr to stdout and have error messages written to the same file as the standard output:\n\n$ cmd &gt; file.txt 2&gt;&amp;1\n\n&gt; file redirects stdout to file.txt, and 2&gt;&amp;1 redirects stderr to the current stdout location. https://t.co/2DtOOkLYS8",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlBDMlnakAArjUN.jpg\"]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:22.000Z"
+        },
+        {
+            "id": 6268,
+            "username": "linuxopsys",
+            "tweet_id": "1607858948950065152",
+            "tweet_text": "Redirecting stderr to stdout\n\nWhen storing the program's output to a file, it's usual practice to redirect stderr to stdout so that everything goes into a single file.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:20.000Z"
+        },
+        {
+            "id": 6269,
+            "username": "linuxopsys",
+            "tweet_id": "1607858945800155136",
+            "tweet_text": "In most cases, you may not want to log the error messages to a file or standard error; instead, redirect stderr to a special location on your Linux system called /dev/null:\n\nHere is an example of how you can do it:\n\n$ cmd 2&gt;/dev/null https://t.co/039aRuHVKw",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlBDL_VagAENH02.jpg\"]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:19.000Z"
+        },
+        {
+            "id": 6270,
+            "username": "linuxopsys",
+            "tweet_id": "1607858938242019329",
+            "tweet_text": "Both stderr and stdout can be written into separate files. Here is an example:\n\n$ cmd 2&gt; error.txt &gt; output.txt\n\nThis will redirect the errors produced by the cmd command to the error.txt file and the output produced to the output.txt file. https://t.co/qeuZFWWN44",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlBDLiKaEAA2hcS.jpg\"]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:18.000Z"
+        },
+        {
+            "id": 6271,
+            "username": "linuxopsys",
+            "tweet_id": "1607858930323165184",
+            "tweet_text": "If you want to redirect the standard error (stderr) to a file using the file descriptor of 2 and the &gt;. Here is an example:\n\n$ ping https://t.co/mEMVF2HE1P 2&gt; error.txt\n\nThis will redirect the errors produced by the above command to a file called error.txt. https://t.co/FgM82cK18n",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlBDLDMaEAI5SFY.jpg\"]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:16.000Z"
+        },
+        {
+            "id": 6272,
+            "username": "linuxopsys",
+            "tweet_id": "1607858921854898177",
+            "tweet_text": "When n is not specified, the standard output stream is used. The following two commands, for example, are identical; both will redirect the command output (stdout) to a file.\n\n$ echo \"Linux is the future\" &gt; linux.txt\n$ echo \"Linux is the future\" 1&gt; linux.txt https://t.co/w7jNEcET9c",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlBDKldaAAADh_i.jpg\"]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:14.000Z"
+        },
+        {
+            "id": 6273,
+            "username": "linuxopsys",
+            "tweet_id": "1607858912107319296",
+            "tweet_text": "Redirecting Standard Output (STDOUT)\n\nRedirection is a method of capturing a program's output and sending it as input to another program or file.\n\nThe n&gt; operator, where n is the file descriptor number, can be used to redirect streams.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:11.000Z"
+        },
+        {
+            "id": 6274,
+            "username": "linuxopsys",
+            "tweet_id": "1607858909372616704",
+            "tweet_text": "Both the input and error streams are printed on the terminal screen by default.\n\nUsing the piping technique, the output of another program can be directed to the input stream of another program and act as the standard input.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:11.000Z"
+        },
+        {
+            "id": 6275,
+            "username": "linuxopsys",
+            "tweet_id": "1607858906692452352",
+            "tweet_text": "The input stream sends data to the program, typically by typing on the keyboard.\n\nThe program output is directed to the standard output stream, while program error messages are directed to the standard error stream.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:10.000Z"
+        },
+        {
+            "id": 6276,
+            "username": "linuxopsys",
+            "tweet_id": "1607858904012320768",
+            "tweet_text": "Here are the standard Linux I/O streams:\n\n\u2022 0 - stdin, the standard input stream.\n\u2022 1 - stdout, the standard output stream.\n\u2022 2 - stderr, the standard error stream.\n\nA file descriptor is basically a number that uniquely identifies an open file in a computer's operating system.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:09.000Z"
+        },
+        {
+            "id": 6277,
+            "username": "linuxopsys",
+            "tweet_id": "1607858901348913153",
+            "tweet_text": "When a program is executed in Bash or other Linux shells, it uses 3 different I/O streams. Each stream is represented by a numerical file descriptor.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:09.000Z"
+        },
+        {
+            "id": 6278,
+            "username": "linuxopsys",
+            "tweet_id": "1607858898647781376",
+            "tweet_text": "Similarly, by default, a command writes its output to standard output, which is your terminal.\n\nThe concept of redirection refers to the ability to redirect stdin, stdout, and stderr from their usual output locations to another file or command (or even peripheral devices).",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:08.000Z"
+        },
+        {
+            "id": 6279,
+            "username": "linuxopsys",
+            "tweet_id": "1607858895971848193",
+            "tweet_text": "Most Unix/Linux system commands accept input from your terminal and return the resulting output to it.\n\nA command normally reads its input from the standard input, which is usually your terminal.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:08.000Z"
+        },
+        {
+            "id": 6280,
+            "username": "linuxopsys",
+            "tweet_id": "1607858893262303233",
+            "tweet_text": "Input, Output, and Error Redirection in Linux explained (with examples):",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:07.000Z"
         }
     ]
 }
