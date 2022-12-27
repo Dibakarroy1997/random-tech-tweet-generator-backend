@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 6248
+        "entries": 6256
     },
     "tweets": [
         {
@@ -62482,6 +62482,86 @@
             "tweet_conversation_id": "1607739424129048577",
             "tweet_type": "Others",
             "created_at": "2022-12-27T14:05:23.000Z"
+        },
+        {
+            "id": 6249,
+            "username": "alexxubyte",
+            "tweet_id": "1607779643310080001",
+            "tweet_text": "/8 I hope you've found this thread helpful.\n\nFollow me @alexxubyte for more.\n\nLike/Retweet the first tweet below if you can: https://t.co/aWbAFdnfGj",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607779608346374146",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-27T16:45:12.000Z"
+        },
+        {
+            "id": 6250,
+            "username": "alexxubyte",
+            "tweet_id": "1607779640642502657",
+            "tweet_text": "/7 Applying these strict accounting rules makes reconciliation much easier!\n\nWhy is a credit card called a \u201c\ud835\udc1c\ud835\udc2b\ud835\udc1e\ud835\udc1d\ud835\udc22\ud835\udc2d\u201d card?\nWhy is a debit card called a \u201c\ud835\udc1d\ud835\udc1e\ud835\udc1b\ud835\udc22\ud835\udc2d\u201d card? \ud83d\udc47",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607779608346374146",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-27T16:45:12.000Z"
+        },
+        {
+            "id": 6251,
+            "username": "alexxubyte",
+            "tweet_id": "1607779637337419776",
+            "tweet_text": "/6 Bob\u2019s card is called a \u201cdebit\u201d card because it is a \ud835\udc1d\ud835\udc1e\ud835\udc1b\ud835\udc22\ud835\udc2d \ud835\udc2b\ud835\udc1e\ud835\udc1c\ud835\udc28\ud835\udc2b\ud835\udc1d when paying with a debit card.\n\n\ud83d\udc49 Why is this important?\n\nThis is how a ledger system is designed, only a real ledger is more complicated. https://t.co/eJG2jJvKJF",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk_7DmraMAA2SON.jpg\"]",
+            "tweet_conversation_id": "1607779608346374146",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-27T16:45:11.000Z"
+        },
+        {
+            "id": 6252,
+            "username": "alexxubyte",
+            "tweet_id": "1607779629355642881",
+            "tweet_text": "/5 This is a \ud835\udc1d\ud835\udc1e\ud835\udc1b\ud835\udc22\ud835\udc2d record.\n\n2. Journal line 2 - Bank\u2019s cash is an \ud835\udc1a\ud835\udc2c\ud835\udc2c\ud835\udc1e\ud835\udc2d and the bank\u2019s cash is deducted by $100.\n\nThis is a \ud835\udc1c\ud835\udc2b\ud835\udc1e\ud835\udc1d\ud835\udc22\ud835\udc2d record.\n\nThe balance sheet equation still balances with the two journal lines recorded in the ledger. https://t.co/b064f20Lsz",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk_7DJOaMAggupx.jpg\"]",
+            "tweet_conversation_id": "1607779608346374146",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-27T16:45:09.000Z"
+        },
+        {
+            "id": 6253,
+            "username": "alexxubyte",
+            "tweet_id": "1607779621302603777",
+            "tweet_text": "/4 Bob pays $100 to the merchant with a debit card. We have two accounts involved in this transaction:\n\n1. Journal line 1 - From the issuing bank\u2019s point of view, Bob\u2019s bank account is a \ud835\udc25\ud835\udc22\ud835\udc1a\ud835\udc1b\ud835\udc22\ud835\udc25\ud835\udc22\ud835\udc2d\ud835\udc32 (because the bank owes Bob money). Bob\u2019s bank account is deducted by $100. https://t.co/n0HoEhX5Cq",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk_7Cs2aMAEXcUY.jpg\"]",
+            "tweet_conversation_id": "1607779608346374146",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-27T16:45:07.000Z"
+        },
+        {
+            "id": 6254,
+            "username": "alexxubyte",
+            "tweet_id": "1607779614155501569",
+            "tweet_text": "/3 \n\ud83d\udd38 Each journal line is booked to an account.\n\ud83d\udd38 Each account belongs to one of the three components in the balance sheet:\n\n\ud83d\udca1Asset = Liability + Equity\n\nLet\u2019s look at the issuing bank\u2019s ledger as an example:",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607779608346374146",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-27T16:45:05.000Z"
+        },
+        {
+            "id": 6255,
+            "username": "alexxubyte",
+            "tweet_id": "1607779611563413504",
+            "tweet_text": "/2 \n\ud83d\udd38 Each transaction in the business system is transformed into at least two journal lines in the ledger system. This is called \ud835\udc1d\ud835\udc28\ud835\udc2e\ud835\udc1b\ud835\udc25\ud835\udc1e-\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc2b\ud835\udc32 accounting, where every transaction must have a \ud835\udc2c\ud835\udc28\ud835\udc2e\ud835\udc2b\ud835\udc1c\ud835\udc1e account and a \ud835\udc2d\ud835\udc1a\ud835\udc2b\ud835\udc20\ud835\udc1e\ud835\udc2d account.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607779608346374146",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-27T16:45:05.000Z"
+        },
+        {
+            "id": 6256,
+            "username": "alexxubyte",
+            "tweet_id": "1607779608346374146",
+            "tweet_text": "/1 Why is a credit card called a \u201c\ud835\udc1c\ud835\udc2b\ud835\udc1e\ud835\udc1d\ud835\udc22\ud835\udc2d\u201d card?\n\nWhy is a debit card called a \u201c\ud835\udc1d\ud835\udc1e\ud835\udc1b\ud835\udc22\ud835\udc2d\u201d card?\n\nAn example of a debit card payment is shown in the diagram below. \ud83d\udc47 https://t.co/t0nmXOZI6C",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk_7CCSaUAADTpp.jpg\"]",
+            "tweet_conversation_id": "1607779608346374146",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-27T16:45:04.000Z"
         }
     ]
 }
