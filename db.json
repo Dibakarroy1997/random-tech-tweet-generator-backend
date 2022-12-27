@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 6257
+        "entries": 6258
     },
     "tweets": [
         {
@@ -62572,6 +62572,16 @@
             "tweet_conversation_id": "1607798471033237504",
             "tweet_type": "Python tips",
             "created_at": "2022-12-27T18:00:01.000Z"
+        },
+        {
+            "id": 6258,
+            "username": "bascodes",
+            "tweet_id": "1607812803590496279",
+            "tweet_text": "What did you do before working in the tech industry?",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607812803590496279",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T18:56:58.000Z"
         }
     ]
 }
