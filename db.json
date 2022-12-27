@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 6256
+        "entries": 6257
     },
     "tweets": [
         {
@@ -62562,6 +62562,16 @@
             "tweet_conversation_id": "1607779608346374146",
             "tweet_type": "Systems Design",
             "created_at": "2022-12-27T16:45:04.000Z"
+        },
+        {
+            "id": 6257,
+            "username": "testdrivenio",
+            "tweet_id": "1607798471033237504",
+            "tweet_text": "Python tip:\n\nA list comprehension can be used strictly for building a list.\n\nIf you're using it for anything else (e.g., its side effects), you're doing it wrong. https://t.co/afZJA2C5Ij",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlAMMAaaYAAXutc.png\"]",
+            "tweet_conversation_id": "1607798471033237504",
+            "tweet_type": "Python tips",
+            "created_at": "2022-12-27T18:00:01.000Z"
         }
     ]
 }
