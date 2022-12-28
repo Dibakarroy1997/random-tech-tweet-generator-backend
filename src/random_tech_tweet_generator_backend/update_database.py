@@ -22,6 +22,7 @@ class TweetScrapper:
         self.db_file = db_file
 
     def get_tweet_data_for_db(self, tweet_id: int) -> Dict[str, Any]:
+        print(f"Getting information for tweet with id {tweet_id}")
         response = self.client.get_tweet(
             tweet_id,
             tweet_fields=["conversation_id", "attachments", "created_at"],
@@ -77,7 +78,7 @@ class TweetScrapper:
             tweets = db.get_all()
 
             for tweet in tweets:
-                tweet_data = self.get_tweet_data_for_db(tweet["id"])
+                tweet_data = self.get_tweet_data_for_db(tweet["tweet_id"])
                 db.update(
                     tweet_id=tweet_data["tweet_id"],
                     tweet_media=tweet_data["tweet_media"],
