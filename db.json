@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 6191
+        "entries": 6282
     },
     "tweets": [
         {
@@ -61912,6 +61912,916 @@
             "tweet_conversation_id": "1607207326250844160",
             "tweet_type": "Python tips",
             "created_at": "2022-12-26T02:51:01.000Z"
+        },
+        {
+            "id": 6192,
+            "username": "driscollis",
+            "tweet_id": "1607327351393615873",
+            "tweet_text": "If you pip install the `qrcode` package for #Python, you can also create QR codes on the command line using the `qr` script, like this: https://t.co/6rJ4EBV8S5",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk5ftA9WYAIcvGz.jpg\"]",
+            "tweet_conversation_id": "1607327346968633344",
+            "tweet_type": "Python tips",
+            "created_at": "2022-12-26T10:47:57.000Z"
+        },
+        {
+            "id": 6193,
+            "username": "driscollis",
+            "tweet_id": "1607327346968633344",
+            "tweet_text": "Did you know you can use #Python to create QR codes? \ud83d\udc0d\ud83d\udd25\n\nYou only need 3 lines of code with the `qrcode` package:\n\nhttps://t.co/G6QSBXLIi4 https://t.co/LTyQl9hd0e",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk5fszRXEAE7ND9.jpg\"]",
+            "tweet_conversation_id": "1607327346968633344",
+            "tweet_type": "Python tips",
+            "created_at": "2022-12-26T10:47:56.000Z"
+        },
+        {
+            "id": 6194,
+            "username": "bascodes",
+            "tweet_id": "1607345083170390021",
+            "tweet_text": "Thanks, 5k! \ud83e\udd73",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607345083170390021",
+            "tweet_type": "Others",
+            "created_at": "2022-12-26T11:58:25.000Z"
+        },
+        {
+            "id": 6195,
+            "username": "Rapid_API",
+            "tweet_id": "1607357347101294593",
+            "tweet_text": "That\u2019s all for now!\n\nFollow @Rapid_API for more exclusive content. \ud83d\udc19",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607357310875193350",
+            "tweet_type": "Others",
+            "created_at": "2022-12-26T12:47:09.000Z"
+        },
+        {
+            "id": 6196,
+            "username": "Rapid_API",
+            "tweet_id": "1607357343045492736",
+            "tweet_text": "3. OAuth\n\nOAuth is an open standard for authorization that provides a way for users to grant third-party access to their web resources without sharing their passwords.\n\nIt also allows for secure access to those resources by ensuring that only authorized users can access them.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607357310875193350",
+            "tweet_type": "Others",
+            "created_at": "2022-12-26T12:47:08.000Z"
+        },
+        {
+            "id": 6197,
+            "username": "Rapid_API",
+            "tweet_id": "1607357339035746304",
+            "tweet_text": "2. API Keys\n\nAn API key is a unique string/code used to access APIs.\n\nUsually, it is a lengthy list of letters and numbers.\n\nUsers' identities and use patterns are tracked via API keys.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607357310875193350",
+            "tweet_type": "Others",
+            "created_at": "2022-12-26T12:47:07.000Z"
+        },
+        {
+            "id": 6198,
+            "username": "Rapid_API",
+            "tweet_id": "1607357335084621824",
+            "tweet_text": "Additional details, such as the expiration date and the user's ID, are possible.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607357310875193350",
+            "tweet_type": "Others",
+            "created_at": "2022-12-26T12:47:06.000Z"
+        },
+        {
+            "id": 6199,
+            "username": "Rapid_API",
+            "tweet_id": "1607357331053985793",
+            "tweet_text": "1.3 JWT - Json Web Token\n\nOnly application-level security is provided via the API key (described below). It provides equal access to all users.\n\nThe JWT token, on the other hand, offers user-level access.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607357310875193350",
+            "tweet_type": "Others",
+            "created_at": "2022-12-26T12:47:05.000Z"
+        },
+        {
+            "id": 6200,
+            "username": "Rapid_API",
+            "tweet_id": "1607357327069282307",
+            "tweet_text": "1.2 Bearer HTTP Auth\n\nTo access a resource, the user must first authenticate using a bearer authentication, which often takes the form of a card or key.\n\nA username or other identity is often embedded within the token.\n\nAuthorization: Bearer &lt;token&gt;",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607357310875193350",
+            "tweet_type": "Others",
+            "created_at": "2022-12-26T12:47:04.000Z"
+        },
+        {
+            "id": 6201,
+            "username": "Rapid_API",
+            "tweet_id": "1607357323105689600",
+            "tweet_text": "It lessens the security of HTTP Basic authentication in comparison to the other techniques mentioned above.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607357310875193350",
+            "tweet_type": "Others",
+            "created_at": "2022-12-26T12:47:03.000Z"
+        },
+        {
+            "id": 6202,
+            "username": "Rapid_API",
+            "tweet_id": "1607357319058264065",
+            "tweet_text": "1.1. Basic HTTP Auth\n\nSending login information to a server may be done using HTTP Basic authentication.\n\nThe credentials are sent in an HTTP header, making them easily interceptable.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607357310875193350",
+            "tweet_type": "Others",
+            "created_at": "2022-12-26T12:47:02.000Z"
+        },
+        {
+            "id": 6203,
+            "username": "Rapid_API",
+            "tweet_id": "1607357314989694977",
+            "tweet_text": "Here, we'll discuss the three most commonly used API authentication techniques:\n\n- HTTP Authentication\n- API Keys (Bearer token, JSON Web Token)\n- OAuth",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607357310875193350",
+            "tweet_type": "Others",
+            "created_at": "2022-12-26T12:47:01.000Z"
+        },
+        {
+            "id": 6204,
+            "username": "Rapid_API",
+            "tweet_id": "1607357310875193350",
+            "tweet_text": "API Authentication methods\n\nThread \ud83e\uddf5\ud83d\udc47",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607357310875193350",
+            "tweet_type": "API tips",
+            "created_at": "2022-12-26T12:47:00.000Z"
+        },
+        {
+            "id": 6205,
+            "username": "driscollis",
+            "tweet_id": "1607357566631256065",
+            "tweet_text": "#Python Pop Quiz \ud83d\udc0d\u2753\n\nWhat is the output of this REPL session?\n\nA) 'Mike'\nB) 'Driscoll'\nC) ('Mike', 'Driscoll')\nD) ['Mike', 'Driscoll'] https://t.co/DHrF2o4NzY",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk57L56XgAARlLq.jpg\"]",
+            "tweet_conversation_id": "1607357566631256065",
+            "tweet_type": "Python tips",
+            "created_at": "2022-12-26T12:48:01.000Z"
+        },
+        {
+            "id": 6206,
+            "username": "bascodes",
+            "tweet_id": "1607365972549308417",
+            "tweet_text": "Check it out here:\nhttps://t.co/X4p38jI9vN",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607365970456190976",
+            "tweet_type": "Others",
+            "created_at": "2022-12-26T13:21:25.000Z"
+        },
+        {
+            "id": 6207,
+            "username": "bascodes",
+            "tweet_id": "1607365970456190976",
+            "tweet_text": "If you're using bookmarks on Twitter, have you checked out my little side project @bookmarksemail?\n\nYou get a daily digest of all your Twitter bookmarks without needing to publicly tag a bot",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607365970456190976",
+            "tweet_type": "Others",
+            "created_at": "2022-12-26T13:21:25.000Z"
+        },
+        {
+            "id": 6208,
+            "username": "bascodes",
+            "tweet_id": "1607384968392544262",
+            "tweet_text": "\"Any sufficiently complicated C or Fortran program contains an ad hoc, informally specified, bug-ridden, slow implementation of half of Common Lisp\"\n\u2013 Philip Greenspun",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607384968392544262",
+            "tweet_type": "Others",
+            "created_at": "2022-12-26T14:36:54.000Z"
+        },
+        {
+            "id": 6209,
+            "username": "driscollis",
+            "tweet_id": "1607403357387325441",
+            "tweet_text": "You can access #Python enums in a couple of different ways. \ud83d\udc0d\ud83d\udd25\n\nThe following demonstrates how to access by number. It also shows how to access an Enum using attributes.\n\nWhile not shown here, you also have dictionary-like access:\n\nLanguages[\"Python\"] https://t.co/JMc8BA7WkW",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk6k1Y3WAAAmTFj.jpg\"]",
+            "tweet_conversation_id": "1607403357387325441",
+            "tweet_type": "Python tips",
+            "created_at": "2022-12-26T15:49:59.000Z"
+        },
+        {
+            "id": 6210,
+            "username": "testdrivenio",
+            "tweet_id": "1607413437277278208",
+            "tweet_text": "Python tip:\n\nYou can see all attributes and methods that a Python object has with dir().\nThe method returns a sorted list of attributes and methods (including dunder methods).\n\nCalling it on an instance of a class will produce the same result as with the class itself. https://t.co/3mUhj1bj4G",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk6uACIaYAQMaId.png\"]",
+            "tweet_conversation_id": "1607413437277278208",
+            "tweet_type": "Python tips",
+            "created_at": "2022-12-26T16:30:02.000Z"
+        },
+        {
+            "id": 6211,
+            "username": "alexxubyte",
+            "tweet_id": "1607417272657915904",
+            "tweet_text": "/8 I hope you've found this thread helpful.\n\nFollow me @alexxubyte for more.\n\nLike/Retweet the first tweet below if you can: https://t.co/V8Cgw1WIwE",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607417223840411652",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-26T16:45:16.000Z"
+        },
+        {
+            "id": 6212,
+            "username": "alexxubyte",
+            "tweet_id": "1607417269919047684",
+            "tweet_text": "/7 Subscribe to our weekly newsletter to learn something new every week:\n\nhttps://t.co/dkjDPxaQMt",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607417223840411652",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-26T16:45:16.000Z"
+        },
+        {
+            "id": 6213,
+            "username": "alexxubyte",
+            "tweet_id": "1607417267272421377",
+            "tweet_text": "/6 \ud83d\udc49 Over to you: what comes into your mind when people talk about \u201ccloud native\u201d?",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607417223840411652",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-26T16:45:15.000Z"
+        },
+        {
+            "id": 6214,
+            "username": "alexxubyte",
+            "tweet_id": "1607417264609046528",
+            "tweet_text": "/5 \ud83d\udd39 4. Application infrastructure\nThe applications are massively deployed on cloud infrastructure instead of self-hosted servers.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607417223840411652",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-26T16:45:14.000Z"
+        },
+        {
+            "id": 6215,
+            "username": "alexxubyte",
+            "tweet_id": "1607417260347621377",
+            "tweet_text": "/4 \ud83d\udd39 3. Deployment &amp; packaging\nThe applications used to be deployed on physical servers. Then around 2000, the apps not sensitive to latency were usually deployed on virtual servers. With cloud-native, apps are packaged into docker images and deployed in containers https://t.co/WSXTIsQFA6",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk6xeVKagAAnf56.jpg\"]",
+            "tweet_conversation_id": "1607417223840411652",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-26T16:45:13.000Z"
+        },
+        {
+            "id": 6216,
+            "username": "alexxubyte",
+            "tweet_id": "1607417248016379909",
+            "tweet_text": "/3 \ud83d\udd39 2. Application architecture\nThe architecture has gone from monolithic to microservices. Each service is designed to be small, adaptive to the limited resources in cloud containers. https://t.co/Ohn8zYYRjP",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk6xdolaMAIll51.jpg\"]",
+            "tweet_conversation_id": "1607417223840411652",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-26T16:45:10.000Z"
+        },
+        {
+            "id": 6217,
+            "username": "alexxubyte",
+            "tweet_id": "1607417236482060290",
+            "tweet_text": "/2 This means the applications are designed to leverage cloud features, so they are resilient to load and easy to scale.\n\nCloud-native includes 4 aspects:\n\n\ud83d\udd39 1. Development process\nThis has progressed from waterfall to agile to DevOps. https://t.co/YI103DCgrt",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk6xc7YacAAviQO.jpg\"]",
+            "tweet_conversation_id": "1607417223840411652",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-26T16:45:08.000Z"
+        },
+        {
+            "id": 6218,
+            "username": "alexxubyte",
+            "tweet_id": "1607417223840411652",
+            "tweet_text": "/1 What is cloud-native?\n\nBelow is a diagram showing the evolution of architecture and processes since the 1980s.\n\nOrganizations can build and run scalable applications on public, private, and hybrid clouds using cloud-native technologies. https://t.co/B9nFW1rVS6",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk6xcSnaEAA-qBg.jpg\"]",
+            "tweet_conversation_id": "1607417223840411652",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-26T16:45:05.000Z"
+        },
+        {
+            "id": 6219,
+            "username": "driscollis",
+            "tweet_id": "1607412616720224264",
+            "tweet_text": "What did you do with #Python last week? \ud83d\udc0d\n\nI didn't get much done with Python because I was sick and trying to keep up with a blizzard",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607412616720224264",
+            "tweet_type": "Python tips",
+            "created_at": "2022-12-26T16:26:46.000Z"
+        },
+        {
+            "id": 6220,
+            "username": "bascodes",
+            "tweet_id": "1607482608295854080",
+            "tweet_text": "Make sure to subscribe here \ud83d\udc47\nhttps://t.co/TdYEGPVZ43",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607482604239953921",
+            "tweet_type": "Others",
+            "created_at": "2022-12-26T21:04:54.000Z"
+        },
+        {
+            "id": 6221,
+            "username": "bascodes",
+            "tweet_id": "1607482604239953921",
+            "tweet_text": "Newsletter goes out tomorrow!\n\nThis is the last newsletter of this year. It will include\n\ud83d\udcbb State of the tech industry\n\ud83c\udf86 My reflections on 2022 and a 2023 outlook\n\ud83d\udcdd Reflections on technical writing by @BhavaniRavi_",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607482604239953921",
+            "tweet_type": "Others",
+            "created_at": "2022-12-26T21:04:53.000Z"
+        },
+        {
+            "id": 6222,
+            "username": "Rapid_API",
+            "tweet_id": "1607542559592554497",
+            "tweet_text": "That\u2019s all for now!\n\nFollow @Rapid_API for more exclusive content. \ud83d\udc19",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607542503623860224",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T01:03:07.000Z"
+        },
+        {
+            "id": 6223,
+            "username": "Rapid_API",
+            "tweet_id": "1607542555566030849",
+            "tweet_text": "405 - Method Not Allowed\n\nThe HTTP response code 405 indicates that the request method is not allowed for the requested resource.\n\nIt is usually due to a problem with the server configuration.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607542503623860224",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T01:03:06.000Z"
+        },
+        {
+            "id": 6224,
+            "username": "Rapid_API",
+            "tweet_id": "1607542551619174400",
+            "tweet_text": "404 - Not Found\n\nIt is an error message that means the page you are looking for could not be found.\n\nThis can be due to several reasons, such as a typo in the URL or the page being moved or deleted.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607542503623860224",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T01:03:05.000Z"
+        },
+        {
+            "id": 6225,
+            "username": "Rapid_API",
+            "tweet_id": "1607542547668242433",
+            "tweet_text": "403 - Forbidden\n\nIt indicates that the client is not authorized to access the requested resource.\n\nIt is usually due to a lack of permissions.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607542503623860224",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T01:03:04.000Z"
+        },
+        {
+            "id": 6226,
+            "username": "Rapid_API",
+            "tweet_id": "1607542543419416577",
+            "tweet_text": "401 - Unauthorized\n\nIt indicates that the client is not authorized to access the requested resource.\n\nIt is usually due to an invalid or missing authorization header.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607542503623860224",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T01:03:03.000Z"
+        },
+        {
+            "id": 6227,
+            "username": "Rapid_API",
+            "tweet_id": "1607542539422154753",
+            "tweet_text": "400 - Bad request\n\nThis HTTP response code means that the server could not understand the request due to invalid syntax.\n\nIt is often caused by a client error, such as a malformed URL.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607542503623860224",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T01:03:02.000Z"
+        },
+        {
+            "id": 6228,
+            "username": "Rapid_API",
+            "tweet_id": "1607542535416684544",
+            "tweet_text": "304 - Not Modified\n\nIt indicates that previously cached response can be reused, as the requested resource has not been modified.\n\nThis can improve performance, as the client does not need to re-download the resource.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607542503623860224",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T01:03:01.000Z"
+        },
+        {
+            "id": 6229,
+            "username": "Rapid_API",
+            "tweet_id": "1607542531415330820",
+            "tweet_text": "302 - Found\n\nThe HTTP response status code 302 is similar to status 301, showing that the resource has been moved.\n\nHowever, unlike status 301, the 302 status code indicates that the redirect is only temporary.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607542503623860224",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T01:03:00.000Z"
+        },
+        {
+            "id": 6230,
+            "username": "Rapid_API",
+            "tweet_id": "1607542527472664578",
+            "tweet_text": "301 - Moved Permanently\n\nIt means that the resource you are trying to access has been moved permanently. It is usually the result of a website redesign or change in URL.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607542503623860224",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T01:02:59.000Z"
+        },
+        {
+            "id": 6231,
+            "username": "Rapid_API",
+            "tweet_id": "1607542523513262080",
+            "tweet_text": "204 - No Content\n\nHTTP response status code 204 indicates that the server has successfully processed the request and that there is no content to return.\n\nThis is often used when a request is made to update an existing resource, such as when updating a record in a database.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607542503623860224",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T01:02:58.000Z"
+        },
+        {
+            "id": 6232,
+            "username": "Rapid_API",
+            "tweet_id": "1607542519536943107",
+            "tweet_text": "202 - Accepted\n\nIt means that the server has accepted the request, but the processing has not been completed.\n\nIt is used when the client does not need to wait for the processing to finish before continuing.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607542503623860224",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T01:02:58.000Z"
+        },
+        {
+            "id": 6233,
+            "username": "Rapid_API",
+            "tweet_id": "1607542515581714435",
+            "tweet_text": "201 - Created\n\nThe HTTP response code 201 means that the request is successful and that a new resource has been created.\n\nIt is often the case when a new file or directory is uploaded to a web server.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607542503623860224",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T01:02:57.000Z"
+        },
+        {
+            "id": 6234,
+            "username": "Rapid_API",
+            "tweet_id": "1607542511550996483",
+            "tweet_text": "200 - OK\n\nThe HTTP response status code 200 is the standard response for successful HTTP requests.\n\nThe server responded with \"OK\" to indicate that the request was successful.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607542503623860224",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T01:02:56.000Z"
+        },
+        {
+            "id": 6235,
+            "username": "Rapid_API",
+            "tweet_id": "1607542507532963841",
+            "tweet_text": "Five categories are used to group the responses:\n\n1. Informational responses (100\u2013199)\n2. Successful responses (200\u2013299)\n3. Redirection messages (300\u2013399)\n4. Client error responses (400\u2013499)\n5. Server error responses (500\u2013599)",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607542503623860224",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T01:02:55.000Z"
+        },
+        {
+            "id": 6236,
+            "username": "Rapid_API",
+            "tweet_id": "1607542503623860224",
+            "tweet_text": "HTTP Status codes worth knowing about\n\nThread \ud83e\uddf5\ud83d\udc47",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607542503623860224",
+            "tweet_type": "API tips",
+            "created_at": "2022-12-27T01:02:54.000Z"
+        },
+        {
+            "id": 6237,
+            "username": "Rapid_API",
+            "tweet_id": "1607718439904333825",
+            "tweet_text": "That\u2019s all for now!\n\nFollow @Rapid_API for more exclusive content. \ud83d\udc19",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607718404038840320",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T12:42:00.000Z"
+        },
+        {
+            "id": 6238,
+            "username": "Rapid_API",
+            "tweet_id": "1607718435919728643",
+            "tweet_text": "The response may also include an \u2018Access-Control-Max-Age\u2019 header specifying the time the response must be cached within.\n\nWith this, the client won\u2019t need the preflight request whenever it wants to access the CORS resource.\n\nThe actual CORS request can now be made as usual.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607718404038840320",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T12:41:59.000Z"
+        },
+        {
+            "id": 6239,
+            "username": "Rapid_API",
+            "tweet_id": "1607718431918366720",
+            "tweet_text": "Preflight requests start by sending an HTTP OPTIONS request to the server.\n\nThe server responds with an \u2018Access-Control-Allow-Methods\u2019 header which states the HTTP Methods permitted to be used by the origin.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607718404038840320",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T12:41:58.000Z"
+        },
+        {
+            "id": 6240,
+            "username": "Rapid_API",
+            "tweet_id": "1607718427933687809",
+            "tweet_text": "That's the basics of a CORS request. However, some HTTP methods (Methods that are not GET, POST, or HEAD) require a preflight request before the actual request is made.\n\nDetails of Preflight requests \ud83d\udc47",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607718404038840320",
+            "tweet_type": "API tips",
+            "created_at": "2022-12-27T12:41:57.000Z"
+        },
+        {
+            "id": 6241,
+            "username": "Rapid_API",
+            "tweet_id": "1607718423949107200",
+            "tweet_text": "Next, the server responds and adds an \u2018Access-Control-Allow-Origin\u2019 header in the response.\n\nIf this header\u2019s origin is the same as the origin sent in the request, access to the resource will be allowed.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607718404038840320",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T12:41:56.000Z"
+        },
+        {
+            "id": 6242,
+            "username": "Rapid_API",
+            "tweet_id": "1607718420039999488",
+            "tweet_text": "When the browser makes a cross-origin request, it will add an \u2018Origin\u2019 header that states the scheme(protocol), domain, and port number.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607718404038840320",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T12:41:55.000Z"
+        },
+        {
+            "id": 6243,
+            "username": "Rapid_API",
+            "tweet_id": "1607718416038727681",
+            "tweet_text": "However, using CORS adds flexibility to Same-Origin Policy. A typical example is making a request to an API on a different domain.\n\nBelow is a breakdown of how CORS functions\ud83d\udc47\ud83c\udffc",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607718404038840320",
+            "tweet_type": "API tips",
+            "created_at": "2022-12-27T12:41:55.000Z"
+        },
+        {
+            "id": 6244,
+            "username": "Rapid_API",
+            "tweet_id": "1607718411974447104",
+            "tweet_text": "As a standard, browsers implement Same-Origin Policy, which means requesting data from the same origin is allowed but requesting data from another URL will throw an error.\n\nThis is implemented for security reasons.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607718404038840320",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T12:41:54.000Z"
+        },
+        {
+            "id": 6245,
+            "username": "Rapid_API",
+            "tweet_id": "1607718407960510465",
+            "tweet_text": "CORS (Cross-Origin Resource Sharing) is an HTTP-based mechanism that enables the browser to access resources outside a given domain.\n\nIn other words, resources can be requested from one URL to another.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607718404038840320",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T12:41:53.000Z"
+        },
+        {
+            "id": 6246,
+            "username": "Rapid_API",
+            "tweet_id": "1607718404038840320",
+            "tweet_text": "What exactly is CORS, and how does it work?\n\nThread \ud83e\uddf5",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607718404038840320",
+            "tweet_type": "API tips",
+            "created_at": "2022-12-27T12:41:52.000Z"
+        },
+        {
+            "id": 6247,
+            "username": "bascodes",
+            "tweet_id": "1607738098871373826",
+            "tweet_text": "Newsletter goes out in two hours!\n\nThis is the last newsletter of this year. It will include\n\ud83d\udcbb State of the tech industry\n\ud83c\udf86 My reflections on 2022 and a 2023 outlook\n\ud83d\udcdd Reflections on technical writing by @BhavaniRavi_\n\nSubscribe here \ud83d\udc47\nhttps://t.co/TdYEGPVZ43",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607738098871373826",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T14:00:07.000Z"
+        },
+        {
+            "id": 6248,
+            "username": "testdrivenio",
+            "tweet_id": "1607739424129048577",
+            "tweet_text": "Dynamic Secret Generation with Vault and Flask\n\nhttps://t.co/uZBztCRw2K\n\nReal-world example of using Hashicorp's Vault and Consul to create dynamic Postgres credentials for a Flask web app.\n\n#Vault #Flask #DevOps @HashiCorp",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607739424129048577",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T14:05:23.000Z"
+        },
+        {
+            "id": 6249,
+            "username": "alexxubyte",
+            "tweet_id": "1607779643310080001",
+            "tweet_text": "/8 I hope you've found this thread helpful.\n\nFollow me @alexxubyte for more.\n\nLike/Retweet the first tweet below if you can: https://t.co/aWbAFdnfGj",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607779608346374146",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-27T16:45:12.000Z"
+        },
+        {
+            "id": 6250,
+            "username": "alexxubyte",
+            "tweet_id": "1607779640642502657",
+            "tweet_text": "/7 Applying these strict accounting rules makes reconciliation much easier!\n\nWhy is a credit card called a \u201c\ud835\udc1c\ud835\udc2b\ud835\udc1e\ud835\udc1d\ud835\udc22\ud835\udc2d\u201d card?\nWhy is a debit card called a \u201c\ud835\udc1d\ud835\udc1e\ud835\udc1b\ud835\udc22\ud835\udc2d\u201d card? \ud83d\udc47",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607779608346374146",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-27T16:45:12.000Z"
+        },
+        {
+            "id": 6251,
+            "username": "alexxubyte",
+            "tweet_id": "1607779637337419776",
+            "tweet_text": "/6 Bob\u2019s card is called a \u201cdebit\u201d card because it is a \ud835\udc1d\ud835\udc1e\ud835\udc1b\ud835\udc22\ud835\udc2d \ud835\udc2b\ud835\udc1e\ud835\udc1c\ud835\udc28\ud835\udc2b\ud835\udc1d when paying with a debit card.\n\n\ud83d\udc49 Why is this important?\n\nThis is how a ledger system is designed, only a real ledger is more complicated. https://t.co/eJG2jJvKJF",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk_7DmraMAA2SON.jpg\"]",
+            "tweet_conversation_id": "1607779608346374146",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-27T16:45:11.000Z"
+        },
+        {
+            "id": 6252,
+            "username": "alexxubyte",
+            "tweet_id": "1607779629355642881",
+            "tweet_text": "/5 This is a \ud835\udc1d\ud835\udc1e\ud835\udc1b\ud835\udc22\ud835\udc2d record.\n\n2. Journal line 2 - Bank\u2019s cash is an \ud835\udc1a\ud835\udc2c\ud835\udc2c\ud835\udc1e\ud835\udc2d and the bank\u2019s cash is deducted by $100.\n\nThis is a \ud835\udc1c\ud835\udc2b\ud835\udc1e\ud835\udc1d\ud835\udc22\ud835\udc2d record.\n\nThe balance sheet equation still balances with the two journal lines recorded in the ledger. https://t.co/b064f20Lsz",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk_7DJOaMAggupx.jpg\"]",
+            "tweet_conversation_id": "1607779608346374146",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-27T16:45:09.000Z"
+        },
+        {
+            "id": 6253,
+            "username": "alexxubyte",
+            "tweet_id": "1607779621302603777",
+            "tweet_text": "/4 Bob pays $100 to the merchant with a debit card. We have two accounts involved in this transaction:\n\n1. Journal line 1 - From the issuing bank\u2019s point of view, Bob\u2019s bank account is a \ud835\udc25\ud835\udc22\ud835\udc1a\ud835\udc1b\ud835\udc22\ud835\udc25\ud835\udc22\ud835\udc2d\ud835\udc32 (because the bank owes Bob money). Bob\u2019s bank account is deducted by $100. https://t.co/n0HoEhX5Cq",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk_7Cs2aMAEXcUY.jpg\"]",
+            "tweet_conversation_id": "1607779608346374146",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-27T16:45:07.000Z"
+        },
+        {
+            "id": 6254,
+            "username": "alexxubyte",
+            "tweet_id": "1607779614155501569",
+            "tweet_text": "/3 \n\ud83d\udd38 Each journal line is booked to an account.\n\ud83d\udd38 Each account belongs to one of the three components in the balance sheet:\n\n\ud83d\udca1Asset = Liability + Equity\n\nLet\u2019s look at the issuing bank\u2019s ledger as an example:",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607779608346374146",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-27T16:45:05.000Z"
+        },
+        {
+            "id": 6255,
+            "username": "alexxubyte",
+            "tweet_id": "1607779611563413504",
+            "tweet_text": "/2 \n\ud83d\udd38 Each transaction in the business system is transformed into at least two journal lines in the ledger system. This is called \ud835\udc1d\ud835\udc28\ud835\udc2e\ud835\udc1b\ud835\udc25\ud835\udc1e-\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc2b\ud835\udc32 accounting, where every transaction must have a \ud835\udc2c\ud835\udc28\ud835\udc2e\ud835\udc2b\ud835\udc1c\ud835\udc1e account and a \ud835\udc2d\ud835\udc1a\ud835\udc2b\ud835\udc20\ud835\udc1e\ud835\udc2d account.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607779608346374146",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-27T16:45:05.000Z"
+        },
+        {
+            "id": 6256,
+            "username": "alexxubyte",
+            "tweet_id": "1607779608346374146",
+            "tweet_text": "/1 Why is a credit card called a \u201c\ud835\udc1c\ud835\udc2b\ud835\udc1e\ud835\udc1d\ud835\udc22\ud835\udc2d\u201d card?\n\nWhy is a debit card called a \u201c\ud835\udc1d\ud835\udc1e\ud835\udc1b\ud835\udc22\ud835\udc2d\u201d card?\n\nAn example of a debit card payment is shown in the diagram below. \ud83d\udc47 https://t.co/t0nmXOZI6C",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fk_7CCSaUAADTpp.jpg\"]",
+            "tweet_conversation_id": "1607779608346374146",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-27T16:45:04.000Z"
+        },
+        {
+            "id": 6257,
+            "username": "testdrivenio",
+            "tweet_id": "1607798471033237504",
+            "tweet_text": "Python tip:\n\nA list comprehension can be used strictly for building a list.\n\nIf you're using it for anything else (e.g., its side effects), you're doing it wrong. https://t.co/afZJA2C5Ij",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlAMMAaaYAAXutc.png\"]",
+            "tweet_conversation_id": "1607798471033237504",
+            "tweet_type": "Python tips",
+            "created_at": "2022-12-27T18:00:01.000Z"
+        },
+        {
+            "id": 6258,
+            "username": "bascodes",
+            "tweet_id": "1607812803590496279",
+            "tweet_text": "What did you do before working in the tech industry?",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607812803590496279",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T18:56:58.000Z"
+        },
+        {
+            "id": 6259,
+            "username": "driscollis",
+            "tweet_id": "1607852461326311426",
+            "tweet_text": "I've been busy working on The Python Quiz Book today and contemplating how and what I want to write in a potential Python newsletter.\n\nWhat have you been working on?",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607852461326311426",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T21:34:33.000Z"
+        },
+        {
+            "id": 6260,
+            "username": "linuxopsys",
+            "tweet_id": "1607858997289451523",
+            "tweet_text": "That's all! Thank you for getting this far. I hope you find this thread useful.\n\nIf you found this thread helpful\n\n1. Toss us a follow for more daily threads on Linux, sysadmin, and DevOps\u2192@linuxopsys\n2. Like and RT the first tweet so that other Linux users can find it as well.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:32.000Z"
+        },
+        {
+            "id": 6261,
+            "username": "linuxopsys",
+            "tweet_id": "1607858994496016384",
+            "tweet_text": "For a more in-depth guide on how to use command line redirections, check out this article on our website.\n\nBash Command Line Chain Operators in Linux with Examples:\nhttps://t.co/WBdy2lAyMR",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:31.000Z"
+        },
+        {
+            "id": 6262,
+            "username": "linuxopsys",
+            "tweet_id": "1607858991413219329",
+            "tweet_text": "Many people would, for example, use the preceding example with cat and then pipe the output of cat to the second command to act as in the input. To be honest, there is no need to use the cat command here.\n\n$ cat file.txt | wc https://t.co/q2GJti1CnU",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlBDOo8agAAKccn.jpg\"]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:30.000Z"
+        },
+        {
+            "id": 6263,
+            "username": "linuxopsys",
+            "tweet_id": "1607858983846674433",
+            "tweet_text": "Here is an example of input redirection in use:\n\n$ wc &lt; file.txt\n\nThough stdin is rarely used, it is preferable to pipe, especially to avoid the needless use of the cat command. https://t.co/YuiAx6ujOo",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlBDOKoagAAJT3P.jpg\"]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:28.000Z"
+        },
+        {
+            "id": 6264,
+            "username": "linuxopsys",
+            "tweet_id": "1607858976057851904",
+            "tweet_text": "The input redirection\n\nYou can use stdin redirection to pass the contents of a text file to a command.\nStdin is rarely used. Because most Linux commands accept filenames as arguments, stdin redirection is often unnecessary.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:27.000Z"
+        },
+        {
+            "id": 6265,
+            "username": "linuxopsys",
+            "tweet_id": "1607858972660486144",
+            "tweet_text": "The &amp;&gt; construct can also be used to redirect stderr to stdout. &amp;&gt; has the same meaning in Bash as 2&gt;&amp;1:\n\n$ cmd &amp;&gt; file.txt https://t.co/QjJPW5qObx",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlBDNigaYAAYpNY.jpg\"]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:26.000Z"
+        },
+        {
+            "id": 6266,
+            "username": "linuxopsys",
+            "tweet_id": "1607858964838109184",
+            "tweet_text": "It is important to note that the order of redirection is crucial. The following example, for example, redirects only stdout to the file. This occurs because STDERR is redirected to STDOUT before STDOUT is redirected to the file.\n\n$ cmd 2&gt;&amp;1 &gt; file https://t.co/Q0uKIe311q",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlBDNE0aEAAGfBJ.jpg\"]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:24.000Z"
+        },
+        {
+            "id": 6267,
+            "username": "linuxopsys",
+            "tweet_id": "1607858956806017024",
+            "tweet_text": "Use the following command to redirect stderr to stdout and have error messages written to the same file as the standard output:\n\n$ cmd &gt; file.txt 2&gt;&amp;1\n\n&gt; file redirects stdout to file.txt, and 2&gt;&amp;1 redirects stderr to the current stdout location. https://t.co/2DtOOkLYS8",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlBDMlnakAArjUN.jpg\"]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:22.000Z"
+        },
+        {
+            "id": 6268,
+            "username": "linuxopsys",
+            "tweet_id": "1607858948950065152",
+            "tweet_text": "Redirecting stderr to stdout\n\nWhen storing the program's output to a file, it's usual practice to redirect stderr to stdout so that everything goes into a single file.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:20.000Z"
+        },
+        {
+            "id": 6269,
+            "username": "linuxopsys",
+            "tweet_id": "1607858945800155136",
+            "tweet_text": "In most cases, you may not want to log the error messages to a file or standard error; instead, redirect stderr to a special location on your Linux system called /dev/null:\n\nHere is an example of how you can do it:\n\n$ cmd 2&gt;/dev/null https://t.co/039aRuHVKw",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlBDL_VagAENH02.jpg\"]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:19.000Z"
+        },
+        {
+            "id": 6270,
+            "username": "linuxopsys",
+            "tweet_id": "1607858938242019329",
+            "tweet_text": "Both stderr and stdout can be written into separate files. Here is an example:\n\n$ cmd 2&gt; error.txt &gt; output.txt\n\nThis will redirect the errors produced by the cmd command to the error.txt file and the output produced to the output.txt file. https://t.co/qeuZFWWN44",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlBDLiKaEAA2hcS.jpg\"]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:18.000Z"
+        },
+        {
+            "id": 6271,
+            "username": "linuxopsys",
+            "tweet_id": "1607858930323165184",
+            "tweet_text": "If you want to redirect the standard error (stderr) to a file using the file descriptor of 2 and the &gt;. Here is an example:\n\n$ ping https://t.co/mEMVF2HE1P 2&gt; error.txt\n\nThis will redirect the errors produced by the above command to a file called error.txt. https://t.co/FgM82cK18n",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlBDLDMaEAI5SFY.jpg\"]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:16.000Z"
+        },
+        {
+            "id": 6272,
+            "username": "linuxopsys",
+            "tweet_id": "1607858921854898177",
+            "tweet_text": "When n is not specified, the standard output stream is used. The following two commands, for example, are identical; both will redirect the command output (stdout) to a file.\n\n$ echo \"Linux is the future\" &gt; linux.txt\n$ echo \"Linux is the future\" 1&gt; linux.txt https://t.co/w7jNEcET9c",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlBDKldaAAADh_i.jpg\"]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:14.000Z"
+        },
+        {
+            "id": 6273,
+            "username": "linuxopsys",
+            "tweet_id": "1607858912107319296",
+            "tweet_text": "Redirecting Standard Output (STDOUT)\n\nRedirection is a method of capturing a program's output and sending it as input to another program or file.\n\nThe n&gt; operator, where n is the file descriptor number, can be used to redirect streams.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:11.000Z"
+        },
+        {
+            "id": 6274,
+            "username": "linuxopsys",
+            "tweet_id": "1607858909372616704",
+            "tweet_text": "Both the input and error streams are printed on the terminal screen by default.\n\nUsing the piping technique, the output of another program can be directed to the input stream of another program and act as the standard input.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:11.000Z"
+        },
+        {
+            "id": 6275,
+            "username": "linuxopsys",
+            "tweet_id": "1607858906692452352",
+            "tweet_text": "The input stream sends data to the program, typically by typing on the keyboard.\n\nThe program output is directed to the standard output stream, while program error messages are directed to the standard error stream.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:10.000Z"
+        },
+        {
+            "id": 6276,
+            "username": "linuxopsys",
+            "tweet_id": "1607858904012320768",
+            "tweet_text": "Here are the standard Linux I/O streams:\n\n\u2022 0 - stdin, the standard input stream.\n\u2022 1 - stdout, the standard output stream.\n\u2022 2 - stderr, the standard error stream.\n\nA file descriptor is basically a number that uniquely identifies an open file in a computer's operating system.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:09.000Z"
+        },
+        {
+            "id": 6277,
+            "username": "linuxopsys",
+            "tweet_id": "1607858901348913153",
+            "tweet_text": "When a program is executed in Bash or other Linux shells, it uses 3 different I/O streams. Each stream is represented by a numerical file descriptor.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:09.000Z"
+        },
+        {
+            "id": 6278,
+            "username": "linuxopsys",
+            "tweet_id": "1607858898647781376",
+            "tweet_text": "Similarly, by default, a command writes its output to standard output, which is your terminal.\n\nThe concept of redirection refers to the ability to redirect stdin, stdout, and stderr from their usual output locations to another file or command (or even peripheral devices).",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:08.000Z"
+        },
+        {
+            "id": 6279,
+            "username": "linuxopsys",
+            "tweet_id": "1607858895971848193",
+            "tweet_text": "Most Unix/Linux system commands accept input from your terminal and return the resulting output to it.\n\nA command normally reads its input from the standard input, which is usually your terminal.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:08.000Z"
+        },
+        {
+            "id": 6280,
+            "username": "linuxopsys",
+            "tweet_id": "1607858893262303233",
+            "tweet_text": "Input, Output, and Error Redirection in Linux explained (with examples):",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1607858893262303233",
+            "tweet_type": "Others",
+            "created_at": "2022-12-27T22:00:07.000Z"
+        },
+        {
+            "id": 6281,
+            "username": "driscollis",
+            "tweet_id": "1607894877991276545",
+            "tweet_text": "You can also create QR Codes in PDFs with #Python and #ReportLab!\n\n\ud83d\udc0d\ud83d\udd25\n\nHere's a short example: https://t.co/DGxA2B4IWN",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlBj3YLWYAIhFBl.jpg\", \"https://pbs.twimg.com/media/FlBj3nwX0AAOMKg.jpg\"]",
+            "tweet_conversation_id": "1607894877991276545",
+            "tweet_type": "Python tips",
+            "created_at": "2022-12-28T00:23:06.000Z"
+        },
+        {
+            "id": 6282,
+            "username": "Rapid_API",
+            "tweet_id": "1607913741215207424",
+            "tweet_text": "What is an API? https://t.co/FBQfcGDsdh",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlB1BlbWIAAPr2B.jpg\"]",
+            "tweet_conversation_id": "1607913741215207424",
+            "tweet_type": "Others",
+            "created_at": "2022-12-28T01:38:04.000Z"
         }
     ]
 }
