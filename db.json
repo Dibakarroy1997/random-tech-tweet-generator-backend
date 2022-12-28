@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 6281
+        "entries": 6282
     },
     "tweets": [
         {
@@ -62812,6 +62812,16 @@
             "tweet_conversation_id": "1607894877991276545",
             "tweet_type": "Python tips",
             "created_at": "2022-12-28T00:23:06.000Z"
+        },
+        {
+            "id": 6282,
+            "username": "Rapid_API",
+            "tweet_id": "1607913741215207424",
+            "tweet_text": "What is an API? https://t.co/FBQfcGDsdh",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlB1BlbWIAAPr2B.jpg\"]",
+            "tweet_conversation_id": "1607913741215207424",
+            "tweet_type": "Others",
+            "created_at": "2022-12-28T01:38:04.000Z"
         }
     ]
 }
