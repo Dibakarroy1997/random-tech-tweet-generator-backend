@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 6308
+        "entries": 6310
     },
     "tweets": [
         {
@@ -63082,6 +63082,26 @@
             "tweet_conversation_id": "1608112865910611974",
             "tweet_type": "Python tips",
             "created_at": "2022-12-28T14:49:19.000Z"
+        },
+        {
+            "id": 6309,
+            "username": "bascodes",
+            "tweet_id": "1608136071388303361",
+            "tweet_text": "Are you currently learning about ML/AI in Python?\n\nWhere do you struggle?",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608136071388303361",
+            "tweet_type": "Others",
+            "created_at": "2022-12-28T16:21:31.000Z"
+        },
+        {
+            "id": 6310,
+            "username": "driscollis",
+            "tweet_id": "1608122571970547713",
+            "tweet_text": "#Python 101 Tip\n\nThere are lots of different ways to add items to a #Python list. One of the most common is to use the `append()` method: https://t.co/n76JvenJiI",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlEy9NUXEAA_QAS.png\"]",
+            "tweet_conversation_id": "1608122571970547713",
+            "tweet_type": "Python tips",
+            "created_at": "2022-12-28T15:27:53.000Z"
         }
     ]
 }
