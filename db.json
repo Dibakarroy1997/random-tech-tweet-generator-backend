@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 6295
+        "entries": 6307
     },
     "tweets": [
         {
@@ -62952,6 +62952,126 @@
             "tweet_conversation_id": "1608077094952607746",
             "tweet_type": "API tips",
             "created_at": "2022-12-28T12:27:10.000Z"
+        },
+        {
+            "id": 6296,
+            "username": "testdrivenio",
+            "tweet_id": "1608098923255562243",
+            "tweet_text": "Django Stripe Tutorial\n\nhttps://t.co/8Bz6p6GIo8\n\nConfigure a new Django website from scratch to accept one-time payments with Stripe Checkout.\n\n#Django #Stripe #Python @StripeDev",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608098923255562243",
+            "tweet_type": "Others",
+            "created_at": "2022-12-28T13:53:54.000Z"
+        },
+        {
+            "id": 6297,
+            "username": "bascodes",
+            "tweet_id": "1608100029960445953",
+            "tweet_text": "With \ud835\ude8a\ud835\ude9c\ud835\udea2\ud835\ude97\ud835\ude8c coroutines, you can run these download tasks simultaneously. So the second download does not need to wait for the first one.\n\nSo, downloading two files just takes approx the time for the slower URL. https://t.co/wsPjry1BQ8",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlEeaOCX0AIb0Es.jpg\"]",
+            "tweet_conversation_id": "1608099983483445248",
+            "tweet_type": "Others",
+            "created_at": "2022-12-28T13:58:18.000Z"
+        },
+        {
+            "id": 6298,
+            "username": "bascodes",
+            "tweet_id": "1608100025929695232",
+            "tweet_text": "No! \ud835\ude8a\ud835\ude9c\ud835\udea2\ud835\ude97\ud835\ude8c/\ud835\ude8a\ud835\udea0\ud835\ude8a\ud835\ude92\ud835\ude9d really shines when you would otherwise wait for I/O (network or disk operations).\n\nLet's say you want to download two files from the internet. \nEach download takes 5 seconds. Total time will be 10 seconds if you process the files synchronously.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608099983483445248",
+            "tweet_type": "Others",
+            "created_at": "2022-12-28T13:58:17.000Z"
+        },
+        {
+            "id": 6299,
+            "username": "bascodes",
+            "tweet_id": "1608100021865439232",
+            "tweet_text": "Okay, that works, but what's the benefit?\n\nFor now, it looks like a very complicated way to write code.\n\nDid we just introduce a solution to a non-existing problem?",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608099983483445248",
+            "tweet_type": "Others",
+            "created_at": "2022-12-28T13:58:16.000Z"
+        },
+        {
+            "id": 6300,
+            "username": "bascodes",
+            "tweet_id": "1608100016937132033",
+            "tweet_text": "What we need is an event loop. The event loop manages the \ud835\ude8a\ud835\udea0\ud835\ude8a\ud835\ude92\ud835\ude9d statements and your coroutines. https://t.co/vW0liq040V",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlEeZ8ZXgAEKt9X.jpg\"]",
+            "tweet_conversation_id": "1608099983483445248",
+            "tweet_type": "Others",
+            "created_at": "2022-12-28T13:58:15.000Z"
+        },
+        {
+            "id": 6301,
+            "username": "bascodes",
+            "tweet_id": "1608100011614543873",
+            "tweet_text": "Note, that our \ud835\ude96\ud835\ude8a\ud835\ude92\ud835\ude97() function itself is a coroutine. So, how do we run it in the first place? https://t.co/JaKYbENxAl",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlEeZnJXwAA30mJ.jpg\"]",
+            "tweet_conversation_id": "1608099983483445248",
+            "tweet_type": "Others",
+            "created_at": "2022-12-28T13:58:14.000Z"
+        },
+        {
+            "id": 6302,
+            "username": "bascodes",
+            "tweet_id": "1608100006984130561",
+            "tweet_text": "This is the point where we need to understand \ud835\ude8a\ud835\ude9c\ud835\udea2\ud835\ude97\ud835\ude8c/\ud835\ude8a\ud835\udea0\ud835\ude8a\ud835\ude92\ud835\ude9d.\n\nA coroutine does not *run* immediately. Instead, it gets executed if and when it gets \ud835\ude8a\ud835\udea0\ud835\ude8a\ud835\ude92\ud835\ude9ded. https://t.co/Hc45gzmSHM",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlEeZXeX0AAB_I4.jpg\"]",
+            "tweet_conversation_id": "1608099983483445248",
+            "tweet_type": "Others",
+            "created_at": "2022-12-28T13:58:13.000Z"
+        },
+        {
+            "id": 6303,
+            "username": "bascodes",
+            "tweet_id": "1608100003012124672",
+            "tweet_text": "If we call that function, we get back something like \n\n&lt;\ud835\ude8c\ud835\ude98\ud835\ude9b\ud835\ude98\ud835\ude9e\ud835\ude9d\ud835\ude92\ud835\ude97\ud835\ude8e \ud835\ude98\ud835\ude8b\ud835\ude93\ud835\ude8e\ud835\ude8c\ud835\ude9d \ud835\ude9d\ud835\ude8a\ud835\ude9c\ud835\ude94 \ud835\ude8a\ud835\ude9d \ud835\udff6\ud835\udea1\ud835\udff7\ud835\udff6\ud835\udffa\ud835\udff7\ud835\udff9\ud835\ude8e\ud835\udfff\ud835\udffa\ud835\udff6&gt;\n\nbut it never gets executed.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608099983483445248",
+            "tweet_type": "Others",
+            "created_at": "2022-12-28T13:58:12.000Z"
+        },
+        {
+            "id": 6304,
+            "username": "bascodes",
+            "tweet_id": "1608099997647777793",
+            "tweet_text": "Coroutines\n\nIn a similar way, we can create a coroutine, or, an async function. https://t.co/E94PcMUuma",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlEeZEaWIAArKxS.jpg\"]",
+            "tweet_conversation_id": "1608099983483445248",
+            "tweet_type": "Others",
+            "created_at": "2022-12-28T13:58:11.000Z"
+        },
+        {
+            "id": 6305,
+            "username": "bascodes",
+            "tweet_id": "1608099992333438982",
+            "tweet_text": "Another way of writing generators is using the \ud835\udea2\ud835\ude92\ud835\ude8e\ud835\ude95\ud835\ude8d keyword.\n\nThe code does not run if you call the function unless you iterate over the result in a loop. https://t.co/2Wy0TKGk17",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlEeYrDWYAE442B.jpg\"]",
+            "tweet_conversation_id": "1608099983483445248",
+            "tweet_type": "Others",
+            "created_at": "2022-12-28T13:58:09.000Z"
+        },
+        {
+            "id": 6306,
+            "username": "bascodes",
+            "tweet_id": "1608099987530940416",
+            "tweet_text": "Generators\n\nGenerators are expressions in Python that are \"lazy\", i.e. the code is only executed when needed in the context of an iteration.\n\nThe most prominent examples are list comprehensions: https://t.co/G7CZU8TaIh",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlEeYaoXoAA-7qQ.jpg\"]",
+            "tweet_conversation_id": "1608099983483445248",
+            "tweet_type": "Others",
+            "created_at": "2022-12-28T13:58:08.000Z"
+        },
+        {
+            "id": 6307,
+            "username": "bascodes",
+            "tweet_id": "1608099983483445248",
+            "tweet_text": "\ud83d\udc0d\ud83d\udca1 Running tasks in parallel is a common requirement in software. How can we do that in Python?\n\nLet's have a look at \ud835\udea2\ud835\ude92\ud835\ude8e\ud835\ude95\ud835\ude8d, \ud835\ude8a\ud835\ude9c\ud835\udea2\ud835\ude97\ud835\ude8c, and generator objects \ud83d\udc47",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608099983483445248",
+            "tweet_type": "Python tips",
+            "created_at": "2022-12-28T13:58:07.000Z"
         }
     ]
 }
