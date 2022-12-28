@@ -2,9 +2,9 @@ name: Update existing tweets in database
 
 concurrency: DatabaseUpdate
 
-on: 
-  schedule:
-    - cron: '*/59 * * * *'
+on: workflow_dispatch
+
+
 jobs:
   update_tweet_db:
     runs-on: ubuntu-latest
