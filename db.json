@@ -2308,7 +2308,7 @@
             "username": "alexxubyte",
             "tweet_id": "1561734208422178816",
             "tweet_text": "/1 I\u2019ve been writing for over 3 years with two System Design books and recently a newsletter. To make it a sustainable business, I'd like to explore monetizing options for the newsletter (100k subs)\n\nI made a Sponsor Kit and would love to get:\n\n1. Potential sponsors\n\n2. Feedback https://t.co/8BCB0r9zbQ",
-            "tweet_media": "[]",
+            "tweet_media": "[\"https://video.twimg.com/tweet_video/Faxk-ycVUAEZewI.mp4\"]",
             "tweet_conversation_id": "1561734208422178816",
             "tweet_type": "Systems Design",
             "created_at": "2022-08-22T15:17:05.000Z"
@@ -4560,7 +4560,7 @@
             "tweet_text": "Python Clean Code Tip:\n\nUse docstrings to document usage of your modules, classes, and functions\n\n\ud83d\udc47 https://t.co/Zxps7k4p9o",
             "tweet_media": "[\"https://pbs.twimg.com/media/FcJYtKBakAANIA8.png\"]",
             "tweet_conversation_id": "1567913157418696704",
-            "tweet_type": "Others",
+            "tweet_type": "Python tips",
             "created_at": "2022-09-08T16:30:01.000Z"
         },
         {
@@ -4740,7 +4740,7 @@
             "tweet_text": "Python Clean Code Tip:\n\nAvoid storing things like secret keys, passwords, connection strings, and API keys inside your code. Instead, use a secrets management solution like AWS Secrets Manager or Vault\n\n\ud83d\udc47 https://t.co/G6OnIDfa7M",
             "tweet_media": "[\"https://pbs.twimg.com/media/FcOiS6PakAIrc0i.png\"]",
             "tweet_conversation_id": "1568275546538405889",
-            "tweet_type": "Others",
+            "tweet_type": "Python tips",
             "created_at": "2022-09-09T16:30:02.000Z"
         },
         {
@@ -4780,7 +4780,7 @@
             "tweet_text": "Python Clean Code Tip:\n\nFavor real objects over primitive types such as dictionaries.\n\nWhy?\n\nIt's easier to type https://t.co/KhyjYCFNSh rather than user['name']\nYou'll get help from your IDE\nYou can actually check your code before it runs with mypy\nIt makes your code more clear https://t.co/bAkXMqpBma",
             "tweet_media": "[\"https://pbs.twimg.com/media/FcTr5khagAAgtyn.png\"]",
             "tweet_conversation_id": "1568637949184712708",
-            "tweet_type": "Others",
+            "tweet_type": "Python tips",
             "created_at": "2022-09-10T16:30:05.000Z"
         },
         {
@@ -4830,7 +4830,7 @@
             "tweet_text": "Python Clean Code Tip:\n\nUse min to find an element with minimal value inside an iterable. You can provide a custom function as a key argument to serve as a key for the min comparison\n\n\ud83d\udc47 https://t.co/C10wZo7XJb",
             "tweet_media": "[\"https://pbs.twimg.com/media/FcY1eZpakAEyIDu.png\"]",
             "tweet_conversation_id": "1569000321976004608",
-            "tweet_type": "Others",
+            "tweet_type": "Python tips",
             "created_at": "2022-09-11T16:30:02.000Z"
         },
         {
@@ -5050,7 +5050,7 @@
             "tweet_text": "Python Clean Code Tip:\n\nBe consistent with the order of parameters for similar functions/methods.\n\nDon't confuse your readers.\n\n\ud83d\udc47 https://t.co/RIjCuLovZq",
             "tweet_media": "[\"https://pbs.twimg.com/media/Fcd_EGGaIAA7KNL.png\"]",
             "tweet_conversation_id": "1569362707450843136",
-            "tweet_type": "Others",
+            "tweet_type": "Python tips",
             "created_at": "2022-09-12T16:30:01.000Z"
         },
         {
@@ -5230,7 +5230,7 @@
             "tweet_text": "Python Clean Code Tip:\n\nAvoid using floats when you need precise results. Use Decimal instead.\ne.g. prices\n\n\ud83d\udc47 https://t.co/NKgJm0cpJm",
             "tweet_media": "[\"https://pbs.twimg.com/media/FcjIq8yaQAARoQP.png\"]",
             "tweet_conversation_id": "1569725114341814272",
-            "tweet_type": "Others",
+            "tweet_type": "Python tips",
             "created_at": "2022-09-13T16:30:05.000Z"
         },
         {
@@ -5370,7 +5370,7 @@
             "tweet_text": "Python Clean Code Tip:\n\nAvoid setting attributes of your objects outside of the constructor. Instead, implement methods that map to real-world concepts.\n\nWhy?\nTo ensure attributes exist and are easily discoverable.\n\n\ud83d\udc47 https://t.co/pEuDpAADyt",
             "tweet_media": "[\"https://pbs.twimg.com/media/FcoSPm2aAAA3ljt.png\"]",
             "tweet_conversation_id": "1570087484461314050",
-            "tweet_type": "Others",
+            "tweet_type": "Python tips",
             "created_at": "2022-09-14T16:30:01.000Z"
         },
         {
@@ -5430,7 +5430,7 @@
             "tweet_text": "Python Clean Code Tip:\n\nAvoid using too many attributes on a single object. Try to cluster them to improve cohesion, reduce coupling, and improve readability\n\n\ud83d\udc47 https://t.co/N9kIRiGMV7",
             "tweet_media": "[\"https://pbs.twimg.com/media/Fctb1WoaAAAyRVY.png\"]",
             "tweet_conversation_id": "1570449871060242434",
-            "tweet_type": "Others",
+            "tweet_type": "Python tips",
             "created_at": "2022-09-15T16:30:01.000Z"
         },
         {
@@ -5600,7 +5600,7 @@
             "tweet_text": "Python Clean Code Tip:\n\nAvoid empty except blocks -&gt; try-except-pass.\n\nThey lead to hard-to-find bugs.\n\n\ud83d\udc47 https://t.co/3fJWU2HFxy",
             "tweet_media": "[\"https://pbs.twimg.com/media/FcylbLragAAxrf_.png\"]",
             "tweet_conversation_id": "1570812261027180544",
-            "tweet_type": "Others",
+            "tweet_type": "Python tips",
             "created_at": "2022-09-16T16:30:01.000Z"
         },
         {
@@ -5640,7 +5640,7 @@
             "tweet_text": "Python Clean Code Tip:\n\nUse upper case names for constants\n\n\ud83d\udc47 https://t.co/nZq7dSHiDQ",
             "tweet_media": "[\"https://pbs.twimg.com/media/Fc3vA1gaEAEiqPl.png\"]",
             "tweet_conversation_id": "1571174646816591872",
-            "tweet_type": "Others",
+            "tweet_type": "Python tips",
             "created_at": "2022-09-17T16:30:01.000Z"
         },
         {
@@ -5690,7 +5690,7 @@
             "tweet_text": "Python Clean Code Tip:\n\nUse *in* to check whether an iterable contains a specific element.\n\n\ud83d\udc47 https://t.co/8bSXrqsKO6",
             "tweet_media": "[\"https://pbs.twimg.com/media/Fc84mlIaEAEokJ4.png\"]",
             "tweet_conversation_id": "1571537034745090051",
-            "tweet_type": "Others",
+            "tweet_type": "Python tips",
             "created_at": "2022-09-18T16:30:01.000Z"
         },
         {
@@ -5820,7 +5820,7 @@
             "tweet_text": "Python Clean Code Tip:\n\nAvoid using the variable/parameter type inside your variable/parameter name. Use type hints instead.\n\n\ud83d\udc47 https://t.co/W0fSkoMfHr",
             "tweet_media": "[\"https://pbs.twimg.com/media/FdCCMV2akAc93mt.png\"]",
             "tweet_conversation_id": "1571899422510043139",
-            "tweet_type": "Others",
+            "tweet_type": "Python tips",
             "created_at": "2022-09-19T16:30:01.000Z"
         },
         {
@@ -5880,7 +5880,7 @@
             "tweet_text": "Python Clean Code Tip:\n\nUse HTTPStatus from http (it's inside the standard library) to avoid \"magic\" numbers for statuses inside your code.\n\n\ud83d\udc47 https://t.co/Tm0S1CUIhX",
             "tweet_media": "[\"https://pbs.twimg.com/media/FdHLyKtacAAxENZ.png\"]",
             "tweet_conversation_id": "1572261811491336193",
-            "tweet_type": "Others",
+            "tweet_type": "Python tips",
             "created_at": "2022-09-20T16:30:01.000Z"
         },
         {
@@ -6030,7 +6030,7 @@
             "tweet_text": "Python Clean Code Tip:\n\nWhen your module becomes too big you can restructure it to a package while keeping all the imports from the module as they were.\n\n\ud83d\udc47 https://t.co/JMulQ3noYJ",
             "tweet_media": "[\"https://pbs.twimg.com/media/FdMVX2BakAEzoxH.png\"]",
             "tweet_conversation_id": "1572624198396411907",
-            "tweet_type": "Others",
+            "tweet_type": "Python tips",
             "created_at": "2022-09-21T16:30:01.000Z"
         },
         {
@@ -6150,7 +6150,7 @@
             "tweet_text": "Python Clean Code Tip:\n\nUse preconditions to ensure the integrity of your objects.\n\n\ud83d\udc47 https://t.co/sptB3JuiCU",
             "tweet_media": "[\"https://pbs.twimg.com/media/FdRe-EDagAIVx3h.png\"]",
             "tweet_conversation_id": "1572986594264780800",
-            "tweet_type": "Others",
+            "tweet_type": "Python tips",
             "created_at": "2022-09-22T16:30:03.000Z"
         },
         {
@@ -6410,7 +6410,7 @@
             "tweet_text": "Python Clean Code Tip:\n\nUse operator overloading to enable the usage of operators such as +, -, /, *, ... on your instances.\n\n\ud83d\udc47 https://t.co/YG5SqxeDfH",
             "tweet_media": "[\"https://pbs.twimg.com/media/FdWokJiacAA3QMe.png\"]",
             "tweet_conversation_id": "1573348987549396992",
-            "tweet_type": "Others",
+            "tweet_type": "Python tips",
             "created_at": "2022-09-23T16:30:04.000Z"
         },
         {
@@ -6460,7 +6460,7 @@
             "tweet_text": "Python Clean Code Tip:\n\nUse chained comparison when you need to check whether some variable is between MIN and MAX values.\n\n\ud83d\udc47 https://t.co/qBtHHx1MvV",
             "tweet_media": "[\"https://pbs.twimg.com/media/FdbyJRFaMAAkA8X.png\"]",
             "tweet_conversation_id": "1573711364433924097",
-            "tweet_type": "Others",
+            "tweet_type": "Python tips",
             "created_at": "2022-09-24T16:30:02.000Z"
         },
         {
@@ -6510,7 +6510,7 @@
             "tweet_text": "Python Clean Code Tip:\n\nUse __all__ to define exported members of your package.\n\nHint: IDEs will do a much better job at importing and autocomplete.\n\n\ud83d\udc47 https://t.co/xn4zZf2uZO",
             "tweet_media": "[\"https://pbs.twimg.com/media/Fdg7u2hUoAE7mBM.png\"]",
             "tweet_conversation_id": "1574073749414244352",
-            "tweet_type": "Others",
+            "tweet_type": "Python tips",
             "created_at": "2022-09-25T16:30:01.000Z"
         },
         {
@@ -6600,7 +6600,7 @@
             "tweet_text": "Python Clean Code Tip:\n\nUse sum to sum the values of all elements inside an iterable instead of a for loop.\nWhy?\nDon't re-invent the wheel!\nsum is much faster\n\ud83d\udc47 https://t.co/1HNSeJwBye",
             "tweet_media": "[\"https://pbs.twimg.com/media/FdmFUlPaEAAgW2U.png\"]",
             "tweet_conversation_id": "1574436137002999808",
-            "tweet_type": "Others",
+            "tweet_type": "Python tips",
             "created_at": "2022-09-26T16:30:01.000Z"
         },
         {
@@ -6700,7 +6700,7 @@
             "tweet_text": "Python Clean Code Tip:\n\nUse dataclasses when only storing attributes inside your class instances to reduce the amount of boilerplate code.\n\n\ud83d\udc47 https://t.co/5e831gEX58",
             "tweet_media": "[\"https://pbs.twimg.com/media/FdrO6eHUYAEQxrt.png\"]",
             "tweet_conversation_id": "1574798528345300994",
-            "tweet_type": "Others",
+            "tweet_type": "Python tips",
             "created_at": "2022-09-27T16:30:02.000Z"
         },
         {
@@ -6840,7 +6840,7 @@
             "tweet_text": "Python Clean Code Tip:\n\nCheck the quality of your code inside your CI pipeline.\n\n- flake8 - style guide enforcer\n- black - code formatting\n- isort - optimize imports\n- bandit - check for security vulnerabilities\n- safety - check for security vulnerabilities of dependencies\n\n\ud83d\udc47 https://t.co/sUCK1T0n7Z",
             "tweet_media": "[\"https://pbs.twimg.com/media/FdwYgIXagAAuvX1.png\"]",
             "tweet_conversation_id": "1575160914135089152",
-            "tweet_type": "Others",
+            "tweet_type": "Python tips",
             "created_at": "2022-09-28T16:30:01.000Z"
         },
         {
@@ -6950,7 +6950,7 @@
             "tweet_text": "Python Clean Code Tip:\n\nDon't use flags in functions.\nFlags are variables passed to functions, which the function uses to determine its behavior. \n\nThis should be avoided - functions should only perform a single task. \n\nSplit your function into smaller functions.\n\n\ud83d\udc47 https://t.co/OptYvMyC0X",
             "tweet_media": "[\"https://pbs.twimg.com/media/Fd1iF2-akAAgyNV.png\"]",
             "tweet_conversation_id": "1575523302038470657",
-            "tweet_type": "Others",
+            "tweet_type": "Python tips",
             "created_at": "2022-09-29T16:30:01.000Z"
         },
         {
@@ -7190,7 +7190,7 @@
             "tweet_text": "Python Clean Code Tip:\n\nDon't add redundant context.\n\nDo not add unnecessary data to variable names, especially if you're working with classes.\n\n\ud83d\udc47 https://t.co/xGeyQV8wu4",
             "tweet_media": "[\"https://pbs.twimg.com/media/Fd6rrsFUoAQTwYE.png\"]",
             "tweet_conversation_id": "1575885690604240897",
-            "tweet_type": "Others",
+            "tweet_type": "Python tips",
             "created_at": "2022-09-30T16:30:01.000Z"
         },
         {
@@ -7260,7 +7260,7 @@
             "tweet_text": "Python Clean Code Tip:\n\nFunctions should only perform a single task\nHint: If your function contains the keyword 'and', you can probably split it into two functions.\n\n\ud83d\udc47 https://t.co/Ajd2eNVYIo",
             "tweet_media": "[\"https://pbs.twimg.com/media/Fd_1RV9UYAE_axz.png\"]",
             "tweet_conversation_id": "1576248077308104705",
-            "tweet_type": "Others",
+            "tweet_type": "Python tips",
             "created_at": "2022-10-01T16:30:01.000Z"
         },
         {
@@ -7290,7 +7290,7 @@
             "tweet_text": "Python Clean Code Tip:\n\nKeep your arguments at a minimum.\nIdeally, your functions should only have one to two arguments. If you need to provide more arguments to the function, you can create a config object which you pass to the function or split it into multiple functions.\n\n\ud83d\udc47 https://t.co/xV5rBLscWe",
             "tweet_media": "[\"https://pbs.twimg.com/media/FeE-3GzaYAAh3dF.png\"]",
             "tweet_conversation_id": "1576610465211625475",
-            "tweet_type": "Others",
+            "tweet_type": "Python tips",
             "created_at": "2022-10-02T16:30:01.000Z"
         },
         {
@@ -7380,7 +7380,7 @@
             "tweet_text": "Python Clean Code Tip:\n\nDon't use \"magic numbers\".\n\nMagic numbers are strange numbers that appear in code that do not have a clear meaning.\n\n\ud83d\udc47 https://t.co/Z9iTZABeA0",
             "tweet_media": "[\"https://pbs.twimg.com/media/FeKIc78UUAQwPek.png\"]",
             "tweet_conversation_id": "1576972853815414785",
-            "tweet_type": "Others",
+            "tweet_type": "Python tips",
             "created_at": "2022-10-03T16:30:01.000Z"
         },
         {
@@ -7580,7 +7580,7 @@
             "tweet_text": "Python Clean Code Tip:\n\nUse __post_init__ hook when working with dataclasses to apply preconditions to ensure the integrity of your objects.\n\n\ud83d\udc47 https://t.co/csnGldxt1M",
             "tweet_media": "[\"https://pbs.twimg.com/media/FeUboauacAAIWhj.png\"]",
             "tweet_conversation_id": "1577697630519709696",
-            "tweet_type": "Others",
+            "tweet_type": "Python tips",
             "created_at": "2022-10-05T16:30:01.000Z"
         },
         {
@@ -10348,7 +10348,7 @@
             "username": "alexxubyte",
             "tweet_id": "1587833190365872129",
             "tweet_text": "Very nice illustration of the Data Pipeline by @Semantixai. It may provide some insights into understanding data pipelines.\n\nJoin a growing community of more than 150,000 readers who love System Design. Subscribe here: https://t.co/dkjDPxrTOt https://t.co/6S7eb86fKx",
-            "tweet_media": "[]",
+            "tweet_media": "[\"https://video.twimg.com/tweet_video/Fgkd2vwVEAA343V.mp4\"]",
             "tweet_conversation_id": "1587833190365872129",
             "tweet_type": "Others",
             "created_at": "2022-11-02T15:45:07.000Z"
@@ -10688,7 +10688,7 @@
             "username": "alexxubyte",
             "tweet_id": "1588917696258666496",
             "tweet_text": "Next week, we will cover:\n\ud83d\udd39 RPC - gRPC\n\ud83d\udd39 RPC - Avro\n\ud83d\udd39 Domain-driven design (DDD)\n\ud83d\udd39 SQL optimization\n\ud83d\udd39 API first design\n\nSubscribe to our weekly newsletter to learn something new every week: https://t.co/dkjDPxrTOt https://t.co/OqPRNA0ldI",
-            "tweet_media": "[]",
+            "tweet_media": "[\"https://video.twimg.com/tweet_video/Fgz4NPKUYAAOuJm.mp4\"]",
             "tweet_conversation_id": "1588917696258666496",
             "tweet_type": "Others",
             "created_at": "2022-11-05T15:34:34.000Z"
@@ -14168,7 +14168,7 @@
             "username": "alexxubyte",
             "tweet_id": "1598358394397552649",
             "tweet_text": "RPC vs. gRPC\n\nA remote procedure call (RPC) enables one machine to invoke some code on another machine as if it is a local function call\n\ngRPC is an open-source RPC framework created by Google in 2016. What makes gRPC so popular?\n\nWatch  here: https://t.co/bcBHiVqPus https://t.co/h4qLpDAwAL",
-            "tweet_media": "[]",
+            "tweet_media": "[\"https://video.twimg.com/tweet_video/Fi6CadNUcAIHcps.mp4\"]",
             "tweet_conversation_id": "1598358394397552649",
             "tweet_type": "Systems Design",
             "created_at": "2022-12-01T16:48:31.000Z"
@@ -14868,7 +14868,7 @@
             "username": "bascodes",
             "tweet_id": "1600002030059372546",
             "tweet_text": "exa is a modern replacement for `ls` with very nice outputs.\nhttps://t.co/QI4FrNuCAm https://t.co/7FylFl9qoE",
-            "tweet_media": "[]",
+            "tweet_media": "[\"https://video.twimg.com/tweet_video/FjRXyqWWIAAebs-.mp4\"]",
             "tweet_conversation_id": "1600002022220206086",
             "tweet_type": "Others",
             "created_at": "2022-12-06T05:39:45.000Z"
@@ -14888,7 +14888,7 @@
             "username": "bascodes",
             "tweet_id": "1600002038875783168",
             "tweet_text": "tldr is a collection of cheat sheets for console commands.\nhttps://t.co/nkwC25JM3I https://t.co/cUCNlcCL2b",
-            "tweet_media": "[]",
+            "tweet_media": "[\"https://video.twimg.com/tweet_video/FjRX0UdWYAM-856.mp4\"]",
             "tweet_conversation_id": "1600002022220206086",
             "tweet_type": "Others",
             "created_at": "2022-12-06T05:39:47.000Z"
@@ -14898,7 +14898,7 @@
             "username": "bascodes",
             "tweet_id": "1600002043225178112",
             "tweet_text": "With howdoi you can browse the internet for coding snippets right from your terminal.\nhttps://t.co/2ZmPvI9LHI https://t.co/L17vSmCWW3",
-            "tweet_media": "[]",
+            "tweet_media": "[\"https://video.twimg.com/tweet_video/FjRX1w3XgAEXdVf.mp4\"]",
             "tweet_conversation_id": "1600002022220206086",
             "tweet_type": "Others",
             "created_at": "2022-12-06T05:39:48.000Z"
@@ -14908,7 +14908,7 @@
             "username": "bascodes",
             "tweet_id": "1600002047625019392",
             "tweet_text": "rebound is a command-line tool that instantly fetches Stack Overflow results when an exception in your Python code is thrown.\nhttps://t.co/ar31noqv3m https://t.co/zrgeL2gkkV",
-            "tweet_media": "[]",
+            "tweet_media": "[\"https://video.twimg.com/tweet_video/FjRX3TNXgAAle8O.mp4\"]",
             "tweet_conversation_id": "1600002022220206086",
             "tweet_type": "Others",
             "created_at": "2022-12-06T05:39:49.000Z"
@@ -14948,7 +14948,7 @@
             "username": "bascodes",
             "tweet_id": "1600002064582688768",
             "tweet_text": "ack is like `grep` but faster and more user friendly.\nhttps://t.co/HVXXwiwEcO https://t.co/CKoYLwr2aG",
-            "tweet_media": "[]",
+            "tweet_media": "[\"https://video.twimg.com/tweet_video/FjRZR5HXgAEbpu9.mp4\"]",
             "tweet_conversation_id": "1600002022220206086",
             "tweet_type": "Others",
             "created_at": "2022-12-06T05:39:53.000Z"
@@ -14978,7 +14978,7 @@
             "username": "bascodes",
             "tweet_id": "1600002076851019776",
             "tweet_text": "tig is a visual git client on the console.\nhttps://t.co/xAGUa2MvTU https://t.co/qA6xNVH1Hu",
-            "tweet_media": "[]",
+            "tweet_media": "[\"https://video.twimg.com/tweet_video/FjRZTfIWYAEFoR5.mp4\"]",
             "tweet_conversation_id": "1600002022220206086",
             "tweet_type": "Others",
             "created_at": "2022-12-06T05:39:56.000Z"
@@ -18258,7 +18258,7 @@
             "username": "mathsppblog",
             "tweet_id": "1600499932003274759",
             "tweet_text": "As a wise uncle once said, https://t.co/c55H22EPjJ",
-            "tweet_media": "[]",
+            "tweet_media": "[\"https://video.twimg.com/tweet_video/FjYeM1MXoAA146L.mp4\"]",
             "tweet_conversation_id": "1600499911690166275",
             "tweet_type": "Others",
             "created_at": "2022-12-07T14:38:14.000Z"
@@ -18378,7 +18378,7 @@
             "username": "mathsppblog",
             "tweet_id": "1598678306282414080",
             "tweet_text": "Gotta take a detour here.\n\nFound the source of the bug and I think I know how to fix it.\n\nLet me add some (failing) tests and see if I can fix them. https://t.co/HzG0Xm33Iw",
-            "tweet_media": "[]",
+            "tweet_media": "[\"https://video.twimg.com/tweet_video/Fi-lcSPWIAAC0k-.mp4\"]",
             "tweet_conversation_id": "1598634598220681219",
             "tweet_type": "Others",
             "created_at": "2022-12-02T13:59:44.000Z"
@@ -21458,7 +21458,7 @@
             "username": "mathsppblog",
             "tweet_id": "1547729770619711488",
             "tweet_text": "Bonus points: what's wrong with this code?\n\nThe code works fine for this case, but can you find an example of a bag of words for which the anagrams are wrongly computed? https://t.co/gJeY3ZCug6",
-            "tweet_media": "[]",
+            "tweet_media": "[\"https://video.twimg.com/tweet_video/FXqkBNyUsAE14sd.mp4\"]",
             "tweet_conversation_id": "1547493884384710656",
             "tweet_type": "Others",
             "created_at": "2022-07-14T23:48:27.000Z"
@@ -22518,7 +22518,7 @@
             "username": "mathsppblog",
             "tweet_id": "1540804824345653249",
             "tweet_text": "Next up I did something that maybe I should've done earlier:\n\nAdd tests!\n\nPoetry already created the `tests` directory AND a test file, so I really just need to put some tests in there!\n\nIt feels nice when all your tests pass \ud83d\udc4d https://t.co/ATkktICwbE",
-            "tweet_media": "[]",
+            "tweet_media": "[\"https://video.twimg.com/tweet_video/FWIJzuVUEAAsyYF.mp4\"]",
             "tweet_conversation_id": "1539140936336392193",
             "tweet_type": "Others",
             "created_at": "2022-06-25T21:11:11.000Z"
@@ -22698,7 +22698,7 @@
             "username": "mathsppblog",
             "tweet_id": "1539226945380032513",
             "tweet_text": "Ok, I've done the next step enough times already:\n\nSet up a (GitHub) repo.\n\nLet's init, commit what we have, and push to remote!\n\n_My_ repo is now live:\n\nhttps://t.co/TuEN5S6ZET https://t.co/vkNBmHLogF",
-            "tweet_media": "[]",
+            "tweet_media": "[\"https://video.twimg.com/tweet_video/FVxuvkJXEAEfshQ.mp4\"]",
             "tweet_conversation_id": "1539140936336392193",
             "tweet_type": "Others",
             "created_at": "2022-06-21T12:41:15.000Z"
@@ -34210,7 +34210,7 @@
             "tweet_text": "#python tip:  Here are several ways to interactively display intermediate results during a calculation.\n\n# Two liner\n&gt;&gt;&gt; q = 3.5 * 1.5\n&gt;&gt;&gt; q\n5.25\n\n# Second expression\n&gt;&gt;&gt; q = 3.5 * 1.5; q\n5.25\n\n# Walrus\n&gt;&gt;&gt; (q := 3.5 * 1.5)\n5.25\n\n# Invisible\n&gt;&gt;&gt; q = 3.5 * 1.5",
             "tweet_media": "[]",
             "tweet_conversation_id": "1297586506626785280",
-            "tweet_type": "Others",
+            "tweet_type": "Python tips",
             "created_at": "2020-08-23T17:28:25.000Z"
         },
         {
@@ -34240,7 +34240,7 @@
             "tweet_text": "#python tip:  To update a list in-place, use a slice-assignment\n\nt = s\n...\ns[:] = [f(x) for x in s if c(x)]\n\nNow, both \"s\" and \"t\" reflect the new data.",
             "tweet_media": "[]",
             "tweet_conversation_id": "1297244672759230464",
-            "tweet_type": "Others",
+            "tweet_type": "Python tips",
             "created_at": "2020-08-22T18:50:06.000Z"
         },
         {
@@ -37628,7 +37628,7 @@
             "username": "bbelderbos",
             "tweet_id": "1518902928916062209",
             "tweet_text": "Eagerly waiting for Martin Fowler's Refactoring 2nd ed ... https://t.co/2vEM2hIOFL",
-            "tweet_media": "[]",
+            "tweet_media": "[\"https://video.twimg.com/tweet_video/FRQ6JIEWYAMNTJY.mp4\"]",
             "tweet_conversation_id": "1518902928916062209",
             "tweet_type": "Others",
             "created_at": "2022-04-26T10:40:52.000Z"
@@ -41278,7 +41278,7 @@
             "username": "Rapid_API",
             "tweet_id": "1604459553369776128",
             "tweet_text": "Rapid Week Tip \ud83d\udc19\n\n\ud83d\udd39 Import cURL requests to RapidAPI for Mac by @alpha_beta_rtm\n\nIf you have copied a cURL command on your clipboard, you can quickly import and test it inside RapidAPI for Mac. https://t.co/F0AJJt2Csy",
-            "tweet_media": "[]",
+            "tweet_media": "[\"https://video.twimg.com/tweet_video/FkQvcB8XgAMl8Cp.mp4\"]",
             "tweet_conversation_id": "1604459553369776128",
             "tweet_type": "Others",
             "created_at": "2022-12-18T12:52:21.000Z"
@@ -41298,7 +41298,7 @@
             "username": "Rapid_API",
             "tweet_id": "1604238018491056128",
             "tweet_text": "Rapid Week Tip \ud83d\udc19\n\n\ud83d\udd39 API Testing with RapidAPI Studio by @rotem_yohanan\n\nRapidAPI Studio houses an extremely powerful API testing tool that can:\n\n\u2013 Create complex API tests\n\u2013 Schedule tests in 9 locations\n\u2013 Set up email alerts in case the test fails\n\u2013 Generate execution reports https://t.co/Dmk56O3jqY",
-            "tweet_media": "[]",
+            "tweet_media": "[\"https://video.twimg.com/tweet_video/FkNl8YBXwAQscLO.mp4\"]",
             "tweet_conversation_id": "1604238018491056128",
             "tweet_type": "Others",
             "created_at": "2022-12-17T22:12:03.000Z"
@@ -41618,7 +41618,7 @@
             "username": "Rapid_API",
             "tweet_id": "1603026802049417216",
             "tweet_text": "Rapid Week Tip \ud83d\udc19\n\n\ud83d\udd39 Test Fragments in RapidAPI Studio by @stanisgiovanni\n\nThere's a chance you'll have to repeat the same steps from one API test to another in RapidAPI Studio.\n\nHere, we can use Test Fragments by creating a child test and using its response in our test. https://t.co/XriEAWM6AP",
-            "tweet_media": "[]",
+            "tweet_media": "[\"https://video.twimg.com/tweet_video/Fj8YV4WXwAAovq0.mp4\"]",
             "tweet_conversation_id": "1603026802049417216",
             "tweet_type": "Others",
             "created_at": "2022-12-14T13:59:07.000Z"
@@ -41818,7 +41818,7 @@
             "username": "Rapid_API",
             "tweet_id": "1602674453346918401",
             "tweet_text": "Rapid Week Tip \ud83d\udc19\n\n\ud83d\udd39 Quickly generate API tests using Request Generator by @jevgeniazi\n\nIn RapidAPI Studio, you can use the Request Generator to easily create and run extensive tests for your APIs. https://t.co/K0b41DNfWW",
-            "tweet_media": "[]",
+            "tweet_media": "[\"https://video.twimg.com/tweet_video/Fj3X5JXWQAQdtNE.mp4\"]",
             "tweet_conversation_id": "1602674453346918401",
             "tweet_type": "Others",
             "created_at": "2022-12-13T14:39:00.000Z"
@@ -41998,7 +41998,7 @@
             "username": "Rapid_API",
             "tweet_id": "1602302003539058691",
             "tweet_text": "Rapid Week Tip \ud83d\udc19\n\n\ud83d\udd39 Publicly share an API  request response with RapidAPI for Mac by @seaotta\n\nIn RapidAPI for Mac, you can share an API request and response by generating a link and sharing it with others.\n\nThis way, anyone can view the API response within their browser. https://t.co/SkufKyhFj6",
-            "tweet_media": "[]",
+            "tweet_media": "[\"https://video.twimg.com/tweet_video/FjyFJxcWYAkoj4D.mp4\"]",
             "tweet_conversation_id": "1602302003539058691",
             "tweet_type": "Others",
             "created_at": "2022-12-12T13:59:01.000Z"
@@ -42838,7 +42838,7 @@
             "username": "Rapid_API",
             "tweet_id": "1600129171295858692",
             "tweet_text": "RapidAPI Client for VS Code Tip! \ud83d\udc19\n\nUse environment variables as API request parameters.\n\nRapidAPI Client lets you define and use environment variables for API calls in VS Code. https://t.co/pjMYYlFkDl",
-            "tweet_media": "[]",
+            "tweet_media": "[\"https://video.twimg.com/tweet_video/FjTMmiWXgAQpS-1.mp4\"]",
             "tweet_conversation_id": "1600129171295858692",
             "tweet_type": "VS Code tips",
             "created_at": "2022-12-06T14:04:58.000Z"
@@ -43038,7 +43038,7 @@
             "username": "Rapid_API",
             "tweet_id": "1599776729693765634",
             "tweet_text": "\ud83d\udccc Generate API request snippets\n\nOne of the features that RapidAPI Client offers is that you can generate code snippets for implementing API requests in your applications. \n\nThe RapidAPI extension automatically generates code snippets in 40+ languages. https://t.co/bmIWh2KjIL",
-            "tweet_media": "[]",
+            "tweet_media": "[\"https://video.twimg.com/tweet_video/FjOMXbeXwAA6iWy.mp4\"]",
             "tweet_conversation_id": "1599776723582611456",
             "tweet_type": "Others",
             "created_at": "2022-12-05T14:44:29.000Z"
@@ -43088,7 +43088,7 @@
             "username": "Rapid_API",
             "tweet_id": "1599400632284323843",
             "tweet_text": "RapidAPI Client for VS Code Tip! \ud83d\udc19\n\nGot a URL in your clipboard or a cURL command? \n\nThen you can use the RapidAPI: Create new request from clipboard command to create the request automatically. https://t.co/UIWsfpI5rF",
-            "tweet_media": "[]",
+            "tweet_media": "[\"https://video.twimg.com/tweet_video/FjI2XwmXgAIfFqT.mp4\"]",
             "tweet_conversation_id": "1599400632284323843",
             "tweet_type": "VS Code tips",
             "created_at": "2022-12-04T13:50:00.000Z"
@@ -44988,7 +44988,7 @@
             "username": "Rapid_API",
             "tweet_id": "1595039236637413376",
             "tweet_text": "State of APIs Developer Survey! \ud83d\udc19\n\n\ud83d\udce3 Calling all API developers to participate in the world's largest API survey. \n\n\ud83d\udd25 Remember the fun interactive website from last year? We are bringing it back this year with all the new API trends.\n\n\ud83d\udd17 https://t.co/RyKpTqfSrl https://t.co/hDTIESu58c",
-            "tweet_media": "[]",
+            "tweet_media": "[\"https://video.twimg.com/tweet_video/FiK3rK-WQAAcVCN.mp4\"]",
             "tweet_conversation_id": "1595039236637413376",
             "tweet_type": "Others",
             "created_at": "2022-11-22T12:59:23.000Z"
@@ -50518,7 +50518,7 @@
             "username": "driscollis",
             "tweet_id": "1606496385867472896",
             "tweet_text": "My #Python Countdown to Christmas is happening NOW!\n\nIt will finish tomorrow when I give away over 400 MORE eBooks! \ud83d\udc0d\ud83c\udf85\ud83c\udf84\n\nMerry Christmas! https://t.co/68CQhthRAN",
-            "tweet_media": "[]",
+            "tweet_media": "[\"https://video.twimg.com/tweet_video/FktCtkLWIAAjdJZ.mp4\"]",
             "tweet_conversation_id": "1606496385867472896",
             "tweet_type": "Python tips",
             "created_at": "2022-12-24T03:46:00.000Z"
@@ -51348,7 +51348,7 @@
             "username": "driscollis",
             "tweet_id": "1603058953130229760",
             "tweet_text": "Only 2\u20e3 more days until my #Python Countdown to Christmas \ud83c\udf84 Sale / Giveaway starts!\n\n\ud83d\udc0d\ud83c\udf85\ud83c\udf84\ud83d\udc0d\ud83c\udf85\ud83c\udf84\ud83d\udc0d\ud83c\udf85\ud83c\udf84 https://t.co/OwBx1WpIqC",
-            "tweet_media": "[]",
+            "tweet_media": "[\"https://video.twimg.com/tweet_video/Fj81Ty0WYAEwtVf.mp4\"]",
             "tweet_conversation_id": "1603058953130229760",
             "tweet_type": "Python tips",
             "created_at": "2022-12-14T16:06:52.000Z"
@@ -51578,7 +51578,7 @@
             "username": "driscollis",
             "tweet_id": "1602421821613162496",
             "tweet_text": "I'm going to start giving away hundreds of #Python books later this week! Make a New Year's resolution to start learning Python with me or one of my books!\n\n\ud83d\udc0d\ud83d\udd25\ud83d\udcda https://t.co/oWHOOsFVqT",
-            "tweet_media": "[]",
+            "tweet_media": "[\"https://video.twimg.com/tweet_video/FjzyIDKXoAAdiB7.mp4\"]",
             "tweet_conversation_id": "1602421821613162496",
             "tweet_type": "Python tips",
             "created_at": "2022-12-12T21:55:08.000Z"
@@ -51888,7 +51888,7 @@
             "username": "driscollis",
             "tweet_id": "1600555517881073678",
             "tweet_text": "Did you know that #pandas can create output that has a hover effect? \ud83d\udc0d\ud83d\udc3c\n\nIn this example, Pandas creates a table where each row's background color turns yellow when it is moused over\n\n#Python https://t.co/slED13XvYM",
-            "tweet_media": "[]",
+            "tweet_media": "[\"https://video.twimg.com/tweet_video/FjZQvYQXwAcTICq.mp4\"]",
             "tweet_conversation_id": "1600555517881073678",
             "tweet_type": "Python tips",
             "created_at": "2022-12-07T18:19:07.000Z"
@@ -51908,7 +51908,7 @@
             "username": "driscollis",
             "tweet_id": "1600496689080565760",
             "tweet_text": "and here's the turtle making a graph! https://t.co/VS5DebOYOf",
-            "tweet_media": "[]",
+            "tweet_media": "[\"https://video.twimg.com/tweet_video/FjYbNBbWYAMRYCQ.mp4\"]",
             "tweet_conversation_id": "1600496678179667969",
             "tweet_type": "Others",
             "created_at": "2022-12-07T14:25:21.000Z"
@@ -52058,7 +52058,7 @@
             "username": "driscollis",
             "tweet_id": "1599814620566327296",
             "tweet_text": "90,000+ Followers! \ud83e\udd2f\n\nHere's a secret I've been planning for a few weeks: I'm going to give away HUNDREDS of #Python eBooks, starting sometime next week! \ud83c\udf84\ud83c\udf85\ud83d\udc0d https://t.co/Fce59zNUVD",
-            "tweet_media": "[]",
+            "tweet_media": "[\"https://video.twimg.com/tweet_video/FjOu6niXEAI1mJD.mp4\"]",
             "tweet_conversation_id": "1599814620566327296",
             "tweet_type": "Python tips",
             "created_at": "2022-12-05T17:15:03.000Z"
@@ -56540,7 +56540,7 @@
             "tweet_text": "For a more in-depth guide on how to use command line redirections, check out this article on our website.\n\nBash Command Line Chain Operators in Linux with Examples:\nhttps://t.co/WBdy2lRBOR",
             "tweet_media": "[]",
             "tweet_conversation_id": "1582861168250540032",
-            "tweet_type": "Others",
+            "tweet_type": "Linux tips",
             "created_at": "2022-10-19T22:28:16.000Z"
         },
         {
@@ -62610,7 +62610,7 @@
             "tweet_text": "For a more in-depth guide on how to use command line redirections, check out this article on our website.\n\nBash Command Line Chain Operators in Linux with Examples:\nhttps://t.co/WBdy2lAyMR",
             "tweet_media": "[]",
             "tweet_conversation_id": "1607858893262303233",
-            "tweet_type": "Others",
+            "tweet_type": "Linux tips",
             "created_at": "2022-12-27T22:00:31.000Z"
         },
         {
@@ -62800,7 +62800,7 @@
             "tweet_text": "Input, Output, and Error Redirection in Linux explained (with examples):",
             "tweet_media": "[]",
             "tweet_conversation_id": "1607858893262303233",
-            "tweet_type": "Others",
+            "tweet_type": "Linux tips",
             "created_at": "2022-12-27T22:00:07.000Z"
         },
         {
