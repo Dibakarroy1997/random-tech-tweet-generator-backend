@@ -71,6 +71,33 @@ VALUES
         )
         self.conn.commit()
 
+    def update(
+        self,
+        tweet_id: int,
+        tweet_media: List[str],
+        tweet_type: int,
+    ) -> None:
+        print(
+            f"""Updating:
+{tweet_id = }
+{tweet_media = }
+{tweet_type = }
+"""
+        )
+
+        self.cursor.execute(
+            """Update 
+  tweets 
+SET 
+  tweet_media = ?, 
+  tweet_type = ? 
+WHERE 
+  tweet_id = ?
+""",
+            (json.dumps(tweet_media), tweet_type, tweet_id),
+        )
+        self.conn.commit()
+
     def get_last_tweet_for_user(self, username: str) -> Dict[str, Any]:
         self.cursor.execute(
             """SELECT 
