@@ -124,10 +124,10 @@ if __name__ == "__main__":
 
     scrapper = TweetScrapper(bearer=twitter_api_bearer_token)
 
-    if len(sys.argv) < 1:
+    if len(sys.argv) < 2:
         raise SystemExit("Need at least 1 argument i.e. 'new' or 'update'")
 
-    argument = sys.argv[0].strip().lower()
+    argument = sys.argv[1].strip().lower()
     if argument == "new":
         category_identifier = CategoryIdentifier(None)
         for user in category_identifier.users.keys():
