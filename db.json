@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 6282
+        "entries": 6295
     },
     "tweets": [
         {
@@ -62822,6 +62822,136 @@
             "tweet_conversation_id": "1607913741215207424",
             "tweet_type": "Others",
             "created_at": "2022-12-28T01:38:04.000Z"
+        },
+        {
+            "id": 6283,
+            "username": "Rapid_API",
+            "tweet_id": "1608077143040212992",
+            "tweet_text": "That\u2019s all for now!\n\nFollow @Rapid_API for more exclusive content. \ud83d\udc19",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608077094952607746",
+            "tweet_type": "Others",
+            "created_at": "2022-12-28T12:27:22.000Z"
+        },
+        {
+            "id": 6284,
+            "username": "Rapid_API",
+            "tweet_id": "1608077139017973763",
+            "tweet_text": "Attributes can be anything that can be used to describe a user, such as their role, department, or location. \n\nABAC is often used with other access control methods, such as role-based access control (RBAC).",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608077094952607746",
+            "tweet_type": "Others",
+            "created_at": "2022-12-28T12:27:21.000Z"
+        },
+        {
+            "id": 6285,
+            "username": "Rapid_API",
+            "tweet_id": "1608077135050149890",
+            "tweet_text": "2. Attribute-based access control (ABAC)\n\nAttribute-based access control (ABAC) is a type of access control that uses attributes to determine whether a user has access to a resource.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608077094952607746",
+            "tweet_type": "Others",
+            "created_at": "2022-12-28T12:27:20.000Z"
+        },
+        {
+            "id": 6286,
+            "username": "Rapid_API",
+            "tweet_id": "1608077131086499843",
+            "tweet_text": "In RBAC, each user is assigned a role, and the role determines the user's permissions. \n\nFor example, a user with the role of \"manager\" may have access to all resources, while a user with the role of \"employee\" may only have access to specific resources.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608077094952607746",
+            "tweet_type": "Others",
+            "created_at": "2022-12-28T12:27:19.000Z"
+        },
+        {
+            "id": 6287,
+            "username": "Rapid_API",
+            "tweet_id": "1608077127047315458",
+            "tweet_text": "1. Role-based access control (RBAC) \n\nIt is a security model that defines roles and permissions for users. \n\nRBAC controls access to resources, such as files, applications, and database records.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608077094952607746",
+            "tweet_type": "Others",
+            "created_at": "2022-12-28T12:27:18.000Z"
+        },
+        {
+            "id": 6288,
+            "username": "Rapid_API",
+            "tweet_id": "1608077123142434817",
+            "tweet_text": "Let's describe the two most common access models.\n\n1. Role-based access control (RBAC) \n\n2. Attribute-based access control (ABAC)",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608077094952607746",
+            "tweet_type": "Others",
+            "created_at": "2022-12-28T12:27:17.000Z"
+        },
+        {
+            "id": 6289,
+            "username": "Rapid_API",
+            "tweet_id": "1608077119178899460",
+            "tweet_text": "Authorization rules for the user are predefined, and the user cannot change them.\n\nThe organization's settings determine how authorization works (access rules settings).",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608077094952607746",
+            "tweet_type": "Others",
+            "created_at": "2022-12-28T12:27:16.000Z"
+        },
+        {
+            "id": 6290,
+            "username": "Rapid_API",
+            "tweet_id": "1608077115156561926",
+            "tweet_text": "2. API Authorization\n\nAPI authorization is the process of authorizing an application to access a user's data. \n\nThe authorization's purpose is to ensure the user has access to information.\n\nAuthorization always comes after authentication.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608077094952607746",
+            "tweet_type": "Others",
+            "created_at": "2022-12-28T12:27:15.000Z"
+        },
+        {
+            "id": 6291,
+            "username": "Rapid_API",
+            "tweet_id": "1608077111226499072",
+            "tweet_text": "In contrast with authorization, the user can see and change some aspects of the authentication process (e.g. email or password)",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608077094952607746",
+            "tweet_type": "Others",
+            "created_at": "2022-12-28T12:27:14.000Z"
+        },
+        {
+            "id": 6292,
+            "username": "Rapid_API",
+            "tweet_id": "1608077107258703872",
+            "tweet_text": "There are various methods of API authentication, such as OAuth, API Keys, and Basic Authentication.\n\nThe access management process always starts with authentication.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608077094952607746",
+            "tweet_type": "Others",
+            "created_at": "2022-12-28T12:27:13.000Z"
+        },
+        {
+            "id": 6293,
+            "username": "Rapid_API",
+            "tweet_id": "1608077103240560645",
+            "tweet_text": "1. API Authentication\n\nAPI authentication is the process of authenticating an application or user before making API calls.\n\nThis process ensures that only authorized applications or users can access the API and its data.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608077094952607746",
+            "tweet_type": "Others",
+            "created_at": "2022-12-28T12:27:12.000Z"
+        },
+        {
+            "id": 6294,
+            "username": "Rapid_API",
+            "tweet_id": "1608077098916134913",
+            "tweet_text": "There is a common misconception that authentication and authorization are the same when, in fact, they are two very different processes used to protect an API from cyber-attacks.\n\nLet's talk about the differences and understand them better.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608077094952607746",
+            "tweet_type": "Others",
+            "created_at": "2022-12-28T12:27:11.000Z"
+        },
+        {
+            "id": 6295,
+            "username": "Rapid_API",
+            "tweet_id": "1608077094952607746",
+            "tweet_text": "Difference between API Authentication and API Authorization.\n\nThread \ud83e\uddf5\ud83d\udc47",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608077094952607746",
+            "tweet_type": "API tips",
+            "created_at": "2022-12-28T12:27:10.000Z"
         }
     ]
 }
