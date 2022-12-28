@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 6310
+        "entries": 6320
     },
     "tweets": [
         {
@@ -63102,6 +63102,106 @@
             "tweet_conversation_id": "1608122571970547713",
             "tweet_type": "Python tips",
             "created_at": "2022-12-28T15:27:53.000Z"
+        },
+        {
+            "id": 6311,
+            "username": "testdrivenio",
+            "tweet_id": "1608160858332618752",
+            "tweet_text": "Python tip: \n\nDictionary comprehension works similarly to list comprehension, except the result is a dictionary. \n\nThe pattern for dict comprehension from dict: \n{ key: value for (key, value) in dict.items() if condition }\n\nYou can use any iterable as the source (not just dict). https://t.co/9VA3NIwSHr",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlFVxuCagAAnfaP.png\"]",
+            "tweet_conversation_id": "1608160858332618752",
+            "tweet_type": "Python tips",
+            "created_at": "2022-12-28T18:00:01.000Z"
+        },
+        {
+            "id": 6312,
+            "username": "alexxubyte",
+            "tweet_id": "1608142017787486210",
+            "tweet_text": "/7 I hope you've found this thread helpful.\n\nFollow me @alexxubyte for more.\n\nLike/Retweet the first tweet below if you can: https://t.co/4yvvFyJaBT",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608141999940726784",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-28T16:45:09.000Z"
+        },
+        {
+            "id": 6313,
+            "username": "alexxubyte",
+            "tweet_id": "1608142015291850752",
+            "tweet_text": "/6 \ud83d\udc49 Over to you: of the 4 solutions (long polling, short polling, SSE, WebSocket), which ones are commonly used, for what use cases?",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608141999940726784",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-28T16:45:08.000Z"
+        },
+        {
+            "id": 6314,
+            "username": "alexxubyte",
+            "tweet_id": "1608142012708159489",
+            "tweet_text": "/5 The difference is that SSE is uni-directional so the browser cannot send new request to server, while WebSocket is fully-duplex so the browser could keep sending new requests.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608141999940726784",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-28T16:45:08.000Z"
+        },
+        {
+            "id": 6315,
+            "username": "alexxubyte",
+            "tweet_id": "1608142010095136770",
+            "tweet_text": "/4 \ud83d\udd39HTTP server and web browser cooperate: WebSocket or SSE (server-sent event). In both cases, the HTTP server could directly send the latest data to the browser after the connection is established.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608141999940726784",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-28T16:45:07.000Z"
+        },
+        {
+            "id": 6316,
+            "username": "alexxubyte",
+            "tweet_id": "1608142007440113665",
+            "tweet_text": "/3 \ud83d\udd39Web browsers do the heavy lifting: short polling or long polling. With short polling, the browser will retry until it gets the latest data. With long polling, the HTTP server doesn\u2019t return results until new data has arrived.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608141999940726784",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-28T16:45:07.000Z"
+        },
+        {
+            "id": 6317,
+            "username": "alexxubyte",
+            "tweet_id": "1608142004889976833",
+            "tweet_text": "/2 Both the web browser and the HTTP server could be responsible for this task.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608141999940726784",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-28T16:45:06.000Z"
+        },
+        {
+            "id": 6318,
+            "username": "alexxubyte",
+            "tweet_id": "1608141999940726784",
+            "tweet_text": "/1 Can a web server provide real-time updates?\n\nAn HTTP server cannot automatically initiate a connection to a browser. As a result, the web browser is the initiator. What should we do next to get real-time updates from the HTTP server? https://t.co/gI05i1o8yS",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlFEnvpaMAUncs6.jpg\"]",
+            "tweet_conversation_id": "1608141999940726784",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-28T16:45:05.000Z"
+        },
+        {
+            "id": 6319,
+            "username": "driscollis",
+            "tweet_id": "1608203611498070017",
+            "tweet_text": "#Python has another handy string method called `endswith()`\n\nYou can use `endswith()` to find sub-strings at the end of the target string.\n\nHere's an example: https://t.co/nHooodUnvl",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlF8qV3X0AI5bAr.jpg\"]",
+            "tweet_conversation_id": "1608203611498070017",
+            "tweet_type": "Python tips",
+            "created_at": "2022-12-28T20:49:54.000Z"
+        },
+        {
+            "id": 6320,
+            "username": "driscollis",
+            "tweet_id": "1608160827646906375",
+            "tweet_text": "Have you ever needed to `zip()` uneven lists in #Python? You can either accept that one list will be truncated or you can use `https://t.co/PHXhHZtF4Q_longest()` \ud83d\udc0d\ud83d\udd25\n\nCheck it out: https://t.co/Ad0TZH37FC",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlFVv8iX0AEnyDE.jpg\"]",
+            "tweet_conversation_id": "1608160827646906375",
+            "tweet_type": "Python tips",
+            "created_at": "2022-12-28T17:59:54.000Z"
         }
     ]
 }
