@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 6372
+        "entries": 6373
     },
     "tweets": [
         {
@@ -63722,6 +63722,16 @@
             "tweet_conversation_id": "1608443951840632835",
             "tweet_type": "API tips",
             "created_at": "2022-12-29T12:44:56.000Z"
+        },
+        {
+            "id": 6373,
+            "username": "testdrivenio",
+            "tweet_id": "1608462635476844546",
+            "tweet_text": "Deploying Django to Heroku With Docker\n\nhttps://t.co/jRv2u0bq5X\n\nLooks at how to deploy a Django app to Heroku with Docker via the Heroku Container Runtime.\n\n#Django #Docker #DevOps",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608462635476844546",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T13:59:10.000Z"
         }
     ]
 }
