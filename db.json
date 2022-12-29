@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 6320
+        "entries": 6321
     },
     "tweets": [
         {
@@ -63202,6 +63202,16 @@
             "tweet_conversation_id": "1608160827646906375",
             "tweet_type": "Python tips",
             "created_at": "2022-12-28T17:59:54.000Z"
+        },
+        {
+            "id": 6321,
+            "username": "driscollis",
+            "tweet_id": "1608263513461653508",
+            "tweet_text": "If you need to know your computer's RAM amount, you can do that with #Python too.\n\nOne of the most convenient ways to get this information is with psutil, which can get you a lot more system info besides RAM\n\nhttps://t.co/QtSR4vODSg https://t.co/lcThmjE62e",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlGzI-yWAAESFiF.jpg\"]",
+            "tweet_conversation_id": "1608263513461653508",
+            "tweet_type": "Python tips",
+            "created_at": "2022-12-29T00:47:56.000Z"
         }
     ]
 }
