@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 6383
+        "entries": 6384
     },
     "tweets": [
         {
@@ -63832,6 +63832,16 @@
             "tweet_conversation_id": "1608510893184421890",
             "tweet_type": "Others",
             "created_at": "2022-12-29T17:10:56.000Z"
+        },
+        {
+            "id": 6384,
+            "username": "alexxubyte",
+            "tweet_id": "1608542661023260673",
+            "tweet_text": "Read more here: https://t.co/KxpTPVFErC",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608504387860860930",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T19:17:10.000Z"
         }
     ]
 }
