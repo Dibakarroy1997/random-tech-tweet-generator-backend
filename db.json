@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 6331
+        "entries": 6362
     },
     "tweets": [
         {
@@ -63312,6 +63312,316 @@
             "tweet_conversation_id": "1608342883685535745",
             "tweet_type": "Others",
             "created_at": "2022-12-29T06:57:41.000Z"
+        },
+        {
+            "id": 6332,
+            "username": "linuxopsys",
+            "tweet_id": "1608433006276153345",
+            "tweet_text": "That's all! Thank you for getting this far. I hope you find this thread useful.\n\nIf you found this thread helpful\n\n1. Toss us a follow for more daily threads on Linux, sysadmin, and DevOps\u2192@linuxopsys\n2. Like and RT the first tweet so that other Linux users can find it as well.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608432718668500993",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:01:26.000Z"
+        },
+        {
+            "id": 6333,
+            "username": "linuxopsys",
+            "tweet_id": "1608433000857088000",
+            "tweet_text": "20. r\n\nYou can also \"r\" command to  Re-run last executed commands in Linux.\n\nThis command  will save you a couple of keystrokes as compared to other alternative ways.\n\nr is a ZSH builtin, so this only works with ZSH. https://t.co/MpPVdoofEd",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlJNSHFaMAEBKGJ.png\"]",
+            "tweet_conversation_id": "1608432718668500993",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:01:25.000Z"
+        },
+        {
+            "id": 6334,
+            "username": "linuxopsys",
+            "tweet_id": "1608432987271757824",
+            "tweet_text": "29. duf\n\nIf you need a good replacement for the du command, the duf command is your best bet. Duff has the following capabilities:\n\n- Colorful, user-friendly output\n- Adapts to the theme and width of your terminal\n- Sort the results based on your requirements\n- etc https://t.co/GIC9ccHOXR",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlJNRZGaMAIfHCz.jpg\"]",
+            "tweet_conversation_id": "1608432718668500993",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:01:22.000Z"
+        },
+        {
+            "id": 6335,
+            "username": "linuxopsys",
+            "tweet_id": "1608432974915334144",
+            "tweet_text": "18. btop++\n\nAn excellent replacement for top/htop written in C++. Btop++ is a resource monitor that displays statistics and usage information for the processor, memory, disks, network, and processes. https://t.co/bvZ28O03ub",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlJNQsPagAAWEIt.jpg\"]",
+            "tweet_conversation_id": "1608432718668500993",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:01:19.000Z"
+        },
+        {
+            "id": 6336,
+            "username": "linuxopsys",
+            "tweet_id": "1608432960533061633",
+            "tweet_text": "This tool is useful when you only want to check the syntax of a few common commands without having to scroll through a detailed manpage.\n\n$ tldr exa https://t.co/netHmCZ4Vw",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlJNP0zacAAUV41.png\"]",
+            "tweet_conversation_id": "1608432718668500993",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:01:15.000Z"
+        },
+        {
+            "id": 6337,
+            "username": "linuxopsys",
+            "tweet_id": "1608432949745319937",
+            "tweet_text": "17. tldr\n\nThe TLDR (Too Long; Didn't Read) pages provides a summarized practical usage of Linux commands. They simplify man pages by providing practical examples.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608432718668500993",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:01:13.000Z"
+        },
+        {
+            "id": 6338,
+            "username": "linuxopsys",
+            "tweet_id": "1608432947119652864",
+            "tweet_text": "The nohup command also creates a file named nohup.out to store the command's output.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608432718668500993",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:01:12.000Z"
+        },
+        {
+            "id": 6339,
+            "username": "linuxopsys",
+            "tweet_id": "1608432940505264128",
+            "tweet_text": "For example, to compress large amount of data using tar command and ensure that the compression continues even if you close the terminal window accidentally, use the following command:\n\n$  nohup tar -cf archive.tar logs.txt app.jar https://t.co/ya29AMH6bt",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlJNOsyacAIS5rY.png\"]",
+            "tweet_conversation_id": "1608432718668500993",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:01:10.000Z"
+        },
+        {
+            "id": 6340,
+            "username": "linuxopsys",
+            "tweet_id": "1608432930136936449",
+            "tweet_text": "16. nohup\n\nIf you run the program in a terminal, it will be terminated as soon as your terminal session ends. To avoid this and keep the program running, use the nohup command, which stands for \"no hangup.\"",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608432718668500993",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:01:08.000Z"
+        },
+        {
+            "id": 6341,
+            "username": "linuxopsys",
+            "tweet_id": "1608432927553228800",
+            "tweet_text": "$ sodu mkdir demo\n$ ^sodu^sudo\n\nThis will replace \"sodu\" with \"sudo\" and re-rerun the command.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608432718668500993",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:01:07.000Z"
+        },
+        {
+            "id": 6342,
+            "username": "linuxopsys",
+            "tweet_id": "1608432924852125697",
+            "tweet_text": "15. ^foor^bar\n\nYou can use the ^foor^bar command to edit the command you ran previously and execute it again. This is very useful if want to correcting typos or mistakes on previous commands:",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608432718668500993",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:01:07.000Z"
+        },
+        {
+            "id": 6343,
+            "username": "linuxopsys",
+            "tweet_id": "1608432918833266689",
+            "tweet_text": "14. batcat\n\nInstead of using the cat command to view source code files, try the batcat command, which is a modern version of cat that includes syntax highlighting for many programming languages out of the box. https://t.co/VgTHZyZ9IG",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlJNNYtaMAQXjRQ.png\"]",
+            "tweet_conversation_id": "1608432718668500993",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:01:05.000Z"
+        },
+        {
+            "id": 6344,
+            "username": "linuxopsys",
+            "tweet_id": "1608432903234678787",
+            "tweet_text": "What if you don't want it to be placed in history for security reasons? Yes, you can do it, and it is very simple. Simply enter one or more white spaces before entering a command in the terminal, and your command will not be recorded. https://t.co/NnpVumNQ4T",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlJNMZ-akAAJ-la.png\"]",
+            "tweet_conversation_id": "1608432718668500993",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:01:02.000Z"
+        },
+        {
+            "id": 6345,
+            "username": "linuxopsys",
+            "tweet_id": "1608432891033456642",
+            "tweet_text": "&lt;space&gt; command\n\nEvery command you type in the terminal is saved in the history and can be retrieved using the history command.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608432718668500993",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:00:59.000Z"
+        },
+        {
+            "id": 6346,
+            "username": "linuxopsys",
+            "tweet_id": "1608432884695855105",
+            "tweet_text": "11. tac\n\nSimilar to the cat command, the tac command concatenate and print files contents  in reverse order. You can tell from the name that this command is the reverse version of the popular cat command.\n\n$ tac distros.txt https://t.co/8PzBsVSZCZ",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlJNLVwaYAEjUo8.png\"]",
+            "tweet_conversation_id": "1608432718668500993",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:00:57.000Z"
+        },
+        {
+            "id": 6347,
+            "username": "linuxopsys",
+            "tweet_id": "1608432869063655426",
+            "tweet_text": "10. &gt; file.txt\n\nThis command clears the contents of a file without the need to delete and recreate the file. This command is very useful in scripting when we need to log data on the same file repeatedly. https://t.co/B8w57oinYL",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlJNKcIagAEJOXX.png\"]",
+            "tweet_conversation_id": "1608432718668500993",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:00:53.000Z"
+        },
+        {
+            "id": 6348,
+            "username": "linuxopsys",
+            "tweet_id": "1608432854618509312",
+            "tweet_text": "9. nc -zv localhost &lt;port&gt;\n\nYou can make use of netcat to check which ports are open on your system: https://t.co/kNnhsWhrxe",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlJNJrVaEAEOKAQ.png\"]",
+            "tweet_conversation_id": "1608432718668500993",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:00:50.000Z"
+        },
+        {
+            "id": 6349,
+            "username": "linuxopsys",
+            "tweet_id": "1608432842073309184",
+            "tweet_text": "Here is an example  of using exa to  display a tree of files, three levels deep, as well as each file\u2019s metadata.\n\n$ exa --long --tree --level=3 https://t.co/rKrCD0IWWz",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlJNI7xacAIDmpz.jpg\"]",
+            "tweet_conversation_id": "1608432718668500993",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:00:47.000Z"
+        },
+        {
+            "id": 6350,
+            "username": "linuxopsys",
+            "tweet_id": "1608432831109419008",
+            "tweet_text": "It is familiar with symlinks, extended attributes, and Git. It's also small, fast, and only has one binary.\n\nExa attempts to be a more feature-rich, user-friendly version of ls by deliberately making some decisions differently.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608432718668500993",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:00:44.000Z"
+        },
+        {
+            "id": 6351,
+            "username": "linuxopsys",
+            "tweet_id": "1608432828408266754",
+            "tweet_text": "8. exa\n\nexa is another cool replacement for the venerable file-listing command-line program ls that comes with Unix and Linux operating systems, adding features and improving defaults. It uses colors to differentiate between file types and metadata.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608432718668500993",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:00:44.000Z"
+        },
+        {
+            "id": 6352,
+            "username": "linuxopsys",
+            "tweet_id": "1608432822909534210",
+            "tweet_text": "It is extremely useful when tracking user activity or investigating a possible security breach:\n\n$ last https://t.co/cSW55Xzcij",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlJNHzIaUAAMufs.jpg\"]",
+            "tweet_conversation_id": "1608432718668500993",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:00:42.000Z"
+        },
+        {
+            "id": 6353,
+            "username": "linuxopsys",
+            "tweet_id": "1608432811782057984",
+            "tweet_text": "7. last\n\nWhen managing a multiuser system, you'll frequently need to know who, when, and from where people are logging in.\n\nlast is a command-line utility that displays information about system users' most recent login sessions.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608432718668500993",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:00:40.000Z"
+        },
+        {
+            "id": 6354,
+            "username": "linuxopsys",
+            "tweet_id": "1608432807470301186",
+            "tweet_text": "6. ss\n\nUnlike the deprecated netstat command, the'ss' command is mostly used by sysadmins to dump network socket statics and display the information in a simpler, faster, and human readable format.\n\nIt has the ability to display more TCP and state information than other tools. https://t.co/3xfoJbj91W",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlJNG6gacAENCma.jpg\"]",
+            "tweet_conversation_id": "1608432718668500993",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:00:39.000Z"
+        },
+        {
+            "id": 6355,
+            "username": "linuxopsys",
+            "tweet_id": "1608432793356492800",
+            "tweet_text": "5. lsb_release\n\nprovides certain LSB (Linux Standard Base) and distribution-specific information. If this package is not installed on your system you may need to install  it  first using your distro package manager.\n\n$ lsb_release -a https://t.co/JwnAt8nV9D",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlJNGNaakAAEsRQ.png\"]",
+            "tweet_conversation_id": "1608432718668500993",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:00:35.000Z"
+        },
+        {
+            "id": 6356,
+            "username": "linuxopsys",
+            "tweet_id": "1608432780375126016",
+            "tweet_text": "The stat command displays the following infomation about a file:\n\n- File Size\n- Blocks\n- Access Permission\n- Date and Time of Last Access, Modify, Change, and so on:\n\n$ stat distros.txt https://t.co/emLtDepth8",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlJNFXCaYAASmGt.png\"]",
+            "tweet_conversation_id": "1608432718668500993",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:00:32.000Z"
+        },
+        {
+            "id": 6357,
+            "username": "linuxopsys",
+            "tweet_id": "1608432769729978370",
+            "tweet_text": "4. stat\n\nIn Linux, the stat command displays file or filesystem status information. The stat displays a wealth of information about the file passed as an argument.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608432718668500993",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:00:30.000Z"
+        },
+        {
+            "id": 6358,
+            "username": "linuxopsys",
+            "tweet_id": "1608432764231254018",
+            "tweet_text": "3. lsd\n\nlsd is the next-generation ls command. Try lsd instead of ls to list files in a directory. This project is a rewrite of GNU ls with many new features such as colors, icons, a tree-view, more formatting options, and so on: https://t.co/6UNTmj5lYJ",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlJNEeTagAAeVj4.png\"]",
+            "tweet_conversation_id": "1608432718668500993",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:00:28.000Z"
+        },
+        {
+            "id": 6359,
+            "username": "linuxopsys",
+            "tweet_id": "1608432750557810689",
+            "tweet_text": "2. pstree\n\nThis command displays all of the processes that are currently running, along with their associated child processes, in a tree-like format similar to the output of the 'tree' command: https://t.co/FvFPUKxyY8",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlJNDhEaYAE0PHn.png\"]",
+            "tweet_conversation_id": "1608432718668500993",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:00:25.000Z"
+        },
+        {
+            "id": 6360,
+            "username": "linuxopsys",
+            "tweet_id": "1608432735231836161",
+            "tweet_text": "Rather than going through the time-consuming process of manually numbering each line , you can simply use nl from the command line and be done in a matter of seconds. https://t.co/wQiFyGk61e",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlJNCp9aAAEppPq.png\"]",
+            "tweet_conversation_id": "1608432718668500993",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:00:21.000Z"
+        },
+        {
+            "id": 6361,
+            "username": "linuxopsys",
+            "tweet_id": "1608432721273159683",
+            "tweet_text": "1. nl command\n\nThe nl command in linux stands for number lines. If you ever had a large text document and needed to add lines to it, the nl command is your best friend.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608432718668500993",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:00:18.000Z"
+        },
+        {
+            "id": 6362,
+            "username": "linuxopsys",
+            "tweet_id": "1608432718668500993",
+            "tweet_text": "20 Lesser known useful Linux commands (with explanation + examples):",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608432718668500993",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:00:18.000Z"
         }
     ]
 }
