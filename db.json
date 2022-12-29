@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 6381
+        "entries": 6383
     },
     "tweets": [
         {
@@ -63812,6 +63812,26 @@
             "tweet_conversation_id": "1608497677754568706",
             "tweet_type": "Python tips",
             "created_at": "2022-12-29T16:18:25.000Z"
+        },
+        {
+            "id": 6382,
+            "username": "testdrivenio",
+            "tweet_id": "1608523248203100161",
+            "tweet_text": "Python tip: \n\nSet comprehension works similarly to list comprehension, except the result is a set.\n\nThe pattern for set comprehension is as it follows:\n{ expression for element in iterable if condition } https://t.co/xWLa6Zo8MA",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlKfXi1akAgmDAK.png\"]",
+            "tweet_conversation_id": "1608523248203100161",
+            "tweet_type": "Python tips",
+            "created_at": "2022-12-29T18:00:01.000Z"
+        },
+        {
+            "id": 6383,
+            "username": "bascodes",
+            "tweet_id": "1608510893184421890",
+            "tweet_text": "What if I told you that there will be big news? \ud83c\udfd6\ufe0f\n#summer2023 https://t.co/o4I2NxPNSV",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlKTglfWYAIayKv.jpg\"]",
+            "tweet_conversation_id": "1608510893184421890",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T17:10:56.000Z"
         }
     ]
 }
