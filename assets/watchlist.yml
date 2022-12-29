@@ -30,4 +30,4 @@ driscollis:
     category_regex: "#[p|P]ython"
 linuxopsys:
   - category_name: Linux tips
-    category_regex: (Linux user should know)|(bookmark this)|(↓)|(Linux tip of the day)|(Quick Linux Tip)|(with examples)
+    category_regex: (Linux user should know)|(bookmark this)|(↓)|(Linux tip of the day)|(Quick Linux Tip)|(with examples)|(with explanation)
