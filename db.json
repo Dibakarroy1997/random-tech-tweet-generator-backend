@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 6373
+        "entries": 6381
     },
     "tweets": [
         {
@@ -63732,6 +63732,86 @@
             "tweet_conversation_id": "1608462635476844546",
             "tweet_type": "Others",
             "created_at": "2022-12-29T13:59:10.000Z"
+        },
+        {
+            "id": 6374,
+            "username": "alexxubyte",
+            "tweet_id": "1608504445381533696",
+            "tweet_text": "/6 I hope you've found this thread helpful.\n\nFollow me @alexxubyte for more.\n\nLike/Retweet the first tweet below if you can: https://t.co/aH9UEeZE01",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608504387860860930",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-29T16:45:19.000Z"
+        },
+        {
+            "id": 6375,
+            "username": "alexxubyte",
+            "tweet_id": "1608504442797850625",
+            "tweet_text": "/5 Subscribe to our weekly newsletter to learn something new every week:\n\nhttps://t.co/dkjDPxaQMt",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608504387860860930",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-29T16:45:18.000Z"
+        },
+        {
+            "id": 6376,
+            "username": "alexxubyte",
+            "tweet_id": "1608504437844344834",
+            "tweet_text": "/4 Third gen: self-service, decentralized, and layered. As of early 2018, Uber had completely new business lines and numerous new applications. Freight, ATG, Elevate, groceries, and more are among the growing business lines. With a new set of goals comes the third generation. https://t.co/9Zx8gZEYsy",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlKOQM5acAEQiYL.jpg\"]",
+            "tweet_conversation_id": "1608504387860860930",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-29T16:45:17.000Z"
+        },
+        {
+            "id": 6377,
+            "username": "alexxubyte",
+            "tweet_id": "1608504420773560320",
+            "tweet_text": "/3 Second gen: the all-encompassing gateway. Uber adopted a microservice architecture very early on. By 2019, Uber's products were powered by 2,200+ microservices as a result of this architectural decision. https://t.co/RdMtJH6BHx",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlKOPKaaUAEVlpC.jpg\"]",
+            "tweet_conversation_id": "1608504387860860930",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-29T16:45:13.000Z"
+        },
+        {
+            "id": 6378,
+            "username": "alexxubyte",
+            "tweet_id": "1608504402448642053",
+            "tweet_text": "/2 First gen: the organic evolution. Uber's architecture in 2014 would have two key services: dispatch and API. A dispatch service connects a rider with a driver, while an API service stores the long-term data of users and trips. https://t.co/Xd3I0lResi",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlKOOTBaMAEK4w2.jpg\"]",
+            "tweet_conversation_id": "1608504387860860930",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-29T16:45:08.000Z"
+        },
+        {
+            "id": 6379,
+            "username": "alexxubyte",
+            "tweet_id": "1608504387860860930",
+            "tweet_text": "/1 Evolution of Uber\u2019s API layer\n\nUber\u2019s API gateway went through 3 main stages. https://t.co/yNFtLE0Ew3",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlKONmdakAAC4DX.jpg\"]",
+            "tweet_conversation_id": "1608504387860860930",
+            "tweet_type": "Systems Design",
+            "created_at": "2022-12-29T16:45:05.000Z"
+        },
+        {
+            "id": 6380,
+            "username": "bascodes",
+            "tweet_id": "1608502834487562240",
+            "tweet_text": "Did you find time to discover some great Python content during the holidays?\n\nShare it below \u2013 I'd love to include it in the last issue of #ThisWeekInPython\ud83d\udc0d of 2022!",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608502834487562240",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T16:38:54.000Z"
+        },
+        {
+            "id": 6381,
+            "username": "driscollis",
+            "tweet_id": "1608497677754568706",
+            "tweet_text": "I just had a nice chat with some of the creators of a new #Python Sandbox.\n\nIt looks really neat! You can even run basic GUIs and basic web frameworks in it!\n\nYou can check it out here:\n\nhttps://t.co/WFGs5gZQIC",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608497677754568706",
+            "tweet_type": "Python tips",
+            "created_at": "2022-12-29T16:18:25.000Z"
         }
     ]
 }
