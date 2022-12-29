@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 6321
+        "entries": 6329
     },
     "tweets": [
         {
@@ -63212,6 +63212,86 @@
             "tweet_conversation_id": "1608263513461653508",
             "tweet_type": "Python tips",
             "created_at": "2022-12-29T00:47:56.000Z"
+        },
+        {
+            "id": 6322,
+            "username": "Rapid_API",
+            "tweet_id": "1608267348359909376",
+            "tweet_text": "That\u2019s all for now!\n\nFollow @Rapid_API for more exclusive content. \ud83d\udc19",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608267311022211074",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T01:03:10.000Z"
+        },
+        {
+            "id": 6323,
+            "username": "Rapid_API",
+            "tweet_id": "1608267342479527936",
+            "tweet_text": "4\ufe0f\u20e3 Request verification + resources sent\n\nIn the last step, the resource server receives the request with the JWT.\n\nIt verifies the JSON web token authenticity.\n\nIf it's correct, it will read the resource and return it to the user. https://t.co/qhqbspAdNW",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlG2mEhWYAA03rx.png\"]",
+            "tweet_conversation_id": "1608267311022211074",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T01:03:09.000Z"
+        },
+        {
+            "id": 6324,
+            "username": "Rapid_API",
+            "tweet_id": "1608267335789604866",
+            "tweet_text": "3\ufe0f\u20e3 Access data\n\nThe client can use the generated and stored JWT to access protected data on the server.\n\nThe client will do this by including the JWT into the HTTP authorization header of every upcoming request it will make to the protected resource. https://t.co/LCDmnWbxab",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlG2lwFXkAE3Ls5.png\"]",
+            "tweet_conversation_id": "1608267311022211074",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T01:03:07.000Z"
+        },
+        {
+            "id": 6325,
+            "username": "Rapid_API",
+            "tweet_id": "1608267331121328128",
+            "tweet_text": "The JWT is usually stored on the client in the session data.\n\nFor this, cookies or databases can be used.\n\nIn the following, let's use a GET request as an example.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608267311022211074",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T01:03:06.000Z"
+        },
+        {
+            "id": 6326,
+            "username": "Rapid_API",
+            "tweet_id": "1608267325668745217",
+            "tweet_text": "2\ufe0f\u20e3 Verify + Generate JWT\n\nThe authentication server verifies the email/password combination.\n\nIf the combination is correct, it will generate the JSON web token.\n\nFor this, the secret salt or private key can be used.\n\nThe JWT is returned to the user. https://t.co/MxZZwiksOh",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlG2le1XwAUm2fo.png\"]",
+            "tweet_conversation_id": "1608267311022211074",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T01:03:05.000Z"
+        },
+        {
+            "id": 6327,
+            "username": "Rapid_API",
+            "tweet_id": "1608267320211959808",
+            "tweet_text": "1\ufe0f\u20e3 User signs up\n\nThe user will sign up with their email/password. \n\nThis information is received by the Authentication Server. https://t.co/fEw4zyKA7i",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlG2lN3XoAAj9AG.png\"]",
+            "tweet_conversation_id": "1608267311022211074",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T01:03:03.000Z"
+        },
+        {
+            "id": 6328,
+            "username": "Rapid_API",
+            "tweet_id": "1608267315631771649",
+            "tweet_text": "A JWT is a JSON Web Token, which is used to securely transmit information between parties.\n\nIn one of our previous tweets, we talked about the structure of the JWT and how it is generated.\n\nLet's explain now how the authentication process works.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608267311022211074",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T01:03:02.000Z"
+        },
+        {
+            "id": 6329,
+            "username": "Rapid_API",
+            "tweet_id": "1608267311022211074",
+            "tweet_text": "How does JSON web token (JWT) authentication work?\n\nThread \ud83e\uddf5\ud83d\udc47\ud83c\udffb",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608267311022211074",
+            "tweet_type": "API tips",
+            "created_at": "2022-12-29T01:03:01.000Z"
         }
     ]
 }
