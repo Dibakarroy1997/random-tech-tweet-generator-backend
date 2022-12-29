@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 6362
+        "entries": 6372
     },
     "tweets": [
         {
@@ -63622,6 +63622,106 @@
             "tweet_conversation_id": "1608432718668500993",
             "tweet_type": "Others",
             "created_at": "2022-12-29T12:00:18.000Z"
+        },
+        {
+            "id": 6363,
+            "username": "Rapid_API",
+            "tweet_id": "1608443987576213504",
+            "tweet_text": "That\u2019s all for now!\n\nFollow @Rapid_API for more exclusive content. \ud83d\udc19",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608443951840632835",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:45:04.000Z"
+        },
+        {
+            "id": 6364,
+            "username": "Rapid_API",
+            "tweet_id": "1608443983578947585",
+            "tweet_text": "It's important to note that not all apps that use internal APIs are Microservices.\n\nApps can still make use of internal APIs without following the microservice architecture.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608443951840632835",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:45:03.000Z"
+        },
+        {
+            "id": 6365,
+            "username": "Rapid_API",
+            "tweet_id": "1608443979556601857",
+            "tweet_text": "Microservices can differ widely in their purpose, but the underlying structure is the same: \n\nBreaking down an app into its service components to increase autonomy and efficiency.\n\nAPIs tie everything together within the Microservice.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608443951840632835",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:45:02.000Z"
+        },
+        {
+            "id": 6366,
+            "username": "Rapid_API",
+            "tweet_id": "1608443975618232321",
+            "tweet_text": "On the other hand, if an API is compromised, it can break the application and expose data, leaving it at risk to attackers.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608443951840632835",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:45:01.000Z"
+        },
+        {
+            "id": 6367,
+            "username": "Rapid_API",
+            "tweet_id": "1608443971637841920",
+            "tweet_text": "Microservices enable robust and flexible application design and break down app functions into modular programs.\n\nIf one service is compromised, it will affect only that service and not the entire application.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608443951840632835",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:45:00.000Z"
+        },
+        {
+            "id": 6368,
+            "username": "Rapid_API",
+            "tweet_id": "1608443967711895554",
+            "tweet_text": "An API is only the individual piece of software used for communication, so it is often a necessary part of any application structure.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608443951840632835",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:45:00.000Z"
+        },
+        {
+            "id": 6369,
+            "username": "Rapid_API",
+            "tweet_id": "1608443963744129025",
+            "tweet_text": "So what's the difference?\n\nEach individual service within a Microservice uses internal APIs to communicate with each other, which is why the difference between them is sometimes confused.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608443951840632835",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:44:59.000Z"
+        },
+        {
+            "id": 6370,
+            "username": "Rapid_API",
+            "tweet_id": "1608443959772078083",
+            "tweet_text": "Microservices are a part of the microservice architecture, an architectural style that focuses on maintaining several independent services that work collectively to create an application.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608443951840632835",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:44:58.000Z"
+        },
+        {
+            "id": 6371,
+            "username": "Rapid_API",
+            "tweet_id": "1608443955770789890",
+            "tweet_text": "As you may know, API (Application Programming Interface) is a communication channel between client and server that allows two applications to talk to each other.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608443951840632835",
+            "tweet_type": "Others",
+            "created_at": "2022-12-29T12:44:57.000Z"
+        },
+        {
+            "id": 6372,
+            "username": "Rapid_API",
+            "tweet_id": "1608443951840632835",
+            "tweet_text": "What is the difference between an API and a Microservice?\n\nThread \ud83e\uddf5\ud83d\udc47",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608443951840632835",
+            "tweet_type": "API tips",
+            "created_at": "2022-12-29T12:44:56.000Z"
         }
     ]
 }
