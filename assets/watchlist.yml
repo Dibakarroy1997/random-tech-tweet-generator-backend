@@ -31,3 +31,6 @@ driscollis:
 linuxopsys:
   - category_name: Linux tips
     category_regex: (Linux user should know)|(bookmark this)|(↓)|(Linux tip of the day)|(Quick Linux Tip)|(with examples)|(with explanation)
+vikasrajputin:
+  - category_name: Backend Tips
+    category_regex: "Like/Retweet the first tweet below"
