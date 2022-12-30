@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7115
+        "entries": 7116
     },
     "tweets": [
         {
@@ -71152,6 +71152,16 @@
             "tweet_conversation_id": "1608850626930266112",
             "tweet_type": "Python tips",
             "created_at": "2022-12-30T15:40:55.000Z"
+        },
+        {
+            "id": 7116,
+            "username": "alexxubyte",
+            "tweet_id": "1608866774237478920",
+            "tweet_text": "17 Equations That Changed the World. Happy Friday!\n\nSubscribe to our weekly newsletter to learn something new every week: https://t.co/0RYwcKdZ4q https://t.co/cpKmgDgrUv",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlPXzTHaYAIg0NZ.jpg\"]",
+            "tweet_conversation_id": "1608866774237478920",
+            "tweet_type": "Others",
+            "created_at": "2022-12-30T16:45:04.000Z"
         }
     ]
 }
