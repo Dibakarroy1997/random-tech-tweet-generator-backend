@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 6385
+        "entries": 6397
     },
     "tweets": [
         {
@@ -63852,6 +63852,126 @@
             "tweet_conversation_id": "1608583696352940032",
             "tweet_type": "Others",
             "created_at": "2022-12-29T22:00:13.000Z"
+        },
+        {
+            "id": 6386,
+            "username": "Rapid_API",
+            "tweet_id": "1608632975519846401",
+            "tweet_text": "That\u2019s all for now!\n\nFollow @Rapid_API for more exclusive content. \ud83d\udc19",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608632930720522244",
+            "tweet_type": "Others",
+            "created_at": "2022-12-30T01:16:02.000Z"
+        },
+        {
+            "id": 6387,
+            "username": "Rapid_API",
+            "tweet_id": "1608632971447222272",
+            "tweet_text": "10. Movie Details App\n\nhttps://t.co/9F1TOtHJEj",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608632930720522244",
+            "tweet_type": "Others",
+            "created_at": "2022-12-30T01:16:02.000Z"
+        },
+        {
+            "id": 6388,
+            "username": "Rapid_API",
+            "tweet_id": "1608632967332593666",
+            "tweet_text": "9. Text Sentiment Analysis App\n\nhttps://t.co/MOnxCvK4MO",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608632930720522244",
+            "tweet_type": "Others",
+            "created_at": "2022-12-30T01:16:01.000Z"
+        },
+        {
+            "id": 6389,
+            "username": "Rapid_API",
+            "tweet_id": "1608632963318665217",
+            "tweet_text": "8. Song Lyrics Finder App\n\nhttps://t.co/BxnMxkBuOy",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608632930720522244",
+            "tweet_type": "Others",
+            "created_at": "2022-12-30T01:16:00.000Z"
+        },
+        {
+            "id": 6390,
+            "username": "Rapid_API",
+            "tweet_id": "1608632959266947072",
+            "tweet_text": "7. Domain Search App\n\nhttps://t.co/R3fKAdzvSN",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608632930720522244",
+            "tweet_type": "Others",
+            "created_at": "2022-12-30T01:15:59.000Z"
+        },
+        {
+            "id": 6391,
+            "username": "Rapid_API",
+            "tweet_id": "1608632955177418753",
+            "tweet_text": "6. Email Validator App\n\nhttps://t.co/oxyKhX2ebv",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608632930720522244",
+            "tweet_type": "Others",
+            "created_at": "2022-12-30T01:15:58.000Z"
+        },
+        {
+            "id": 6392,
+            "username": "Rapid_API",
+            "tweet_id": "1608632951071281153",
+            "tweet_text": "5. Crypto News App\n\nhttps://t.co/5cQqWIZa63",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608632930720522244",
+            "tweet_type": "Others",
+            "created_at": "2022-12-30T01:15:57.000Z"
+        },
+        {
+            "id": 6393,
+            "username": "Rapid_API",
+            "tweet_id": "1608632947002720257",
+            "tweet_text": "4. Streaming Availability Checker App\n\nhttps://t.co/qXtJroZ0IO",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608632930720522244",
+            "tweet_type": "Others",
+            "created_at": "2022-12-30T01:15:56.000Z"
+        },
+        {
+            "id": 6394,
+            "username": "Rapid_API",
+            "tweet_id": "1608632942946930694",
+            "tweet_text": "3. Food Recipe App\n\nhttps://t.co/jrceskAnCk",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608632930720522244",
+            "tweet_type": "Others",
+            "created_at": "2022-12-30T01:15:55.000Z"
+        },
+        {
+            "id": 6395,
+            "username": "Rapid_API",
+            "tweet_id": "1608632938723164160",
+            "tweet_text": "2. Screenshot Generator App\n\nhttps://t.co/GlawkpoPQT",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608632930720522244",
+            "tweet_type": "Others",
+            "created_at": "2022-12-30T01:15:54.000Z"
+        },
+        {
+            "id": 6396,
+            "username": "Rapid_API",
+            "tweet_id": "1608632934768025600",
+            "tweet_text": "1. Real Estate App\n\nhttps://t.co/aZysnuSqSv",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608632930720522244",
+            "tweet_type": "Others",
+            "created_at": "2022-12-30T01:15:53.000Z"
+        },
+        {
+            "id": 6397,
+            "username": "Rapid_API",
+            "tweet_id": "1608632930720522244",
+            "tweet_text": "Ten API-based projects for developers:\n\n\ud83c\udfe0 Real Estate App\n\ud83d\uddbc\ufe0f Screenshot Generator\n\ud83e\udd58 Food Recipe App\n\ud83d\udcf9 Streaming Availability Checker\n\ud83d\udcb2 Crypto News App\n\ud83d\udce7 Email Validator\n\ud83d\udd0d Domain Search\n\ud83c\udfb5 Song Lyrics Finder\n\ud83d\udd21 Text Sentiment Analysis\n\ud83d\udcfa Movie Details App\n\nSource code: \ud83d\udc47",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608632930720522244",
+            "tweet_type": "API tips",
+            "created_at": "2022-12-30T01:15:52.000Z"
         }
     ]
 }
