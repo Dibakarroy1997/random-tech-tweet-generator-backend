@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7109
+        "entries": 7115
     },
     "tweets": [
         {
@@ -71092,6 +71092,66 @@
             "tweet_conversation_id": "1608825046750855169",
             "tweet_type": "API tips",
             "created_at": "2022-12-30T13:59:16.000Z"
+        },
+        {
+            "id": 7110,
+            "username": "driscollis",
+            "tweet_id": "1608850648660844544",
+            "tweet_text": "Thanks for checking out my mini-thread on `collections.ChainMap`!\n\nPython is an amazing language. Follow me to learn more! \ud83d\udc0d\ud83d\udd25",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608850626930266112",
+            "tweet_type": "Others",
+            "created_at": "2022-12-30T15:41:00.000Z"
+        },
+        {
+            "id": 7111,
+            "username": "driscollis",
+            "tweet_id": "1608850644672155648",
+            "tweet_text": "You can learn more about how the `ChainMap` in my tutorial @mousevspython\n\nhttps://t.co/AaydrrGPXc",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608850626930266112",
+            "tweet_type": "Others",
+            "created_at": "2022-12-30T15:40:59.000Z"
+        },
+        {
+            "id": 7112,
+            "username": "driscollis",
+            "tweet_id": "1608850640033161217",
+            "tweet_text": "Here's another example where you create a ChainMap that looks at the following mappings:\n\n\ud83d\udc0d  Command line arguments\n\ud83d\udc0d  Environment variables\n\ud83d\udc0d  A default mapping\n\nThis allows the user to override settings on the command line or fall back to env vars or the defaults https://t.co/r3t2x5ke9E",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlPJHhwXgAAVIf6.jpg\"]",
+            "tweet_conversation_id": "1608850626930266112",
+            "tweet_type": "Others",
+            "created_at": "2022-12-30T15:40:58.000Z"
+        },
+        {
+            "id": 7113,
+            "username": "driscollis",
+            "tweet_id": "1608850635079782401",
+            "tweet_text": "Let's look at an example of using `ChainMap` in #Python https://t.co/xuWWsk1eUR",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlPJHVaWYAEOHdv.jpg\"]",
+            "tweet_conversation_id": "1608850626930266112",
+            "tweet_type": "Python tips",
+            "created_at": "2022-12-30T15:40:57.000Z"
+        },
+        {
+            "id": 7114,
+            "username": "driscollis",
+            "tweet_id": "1608850631015407619",
+            "tweet_text": "A ChainMap takes one or more mappings or dictionaries and combines them into a single unit.\n\nWhen you do this, the ChainMap will go through each map in order to see if that key exists and has a value. If it does, then the ChainMap will return the first value it finds. \ud83d\udc0d\ud83d\udd25",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608850626930266112",
+            "tweet_type": "Others",
+            "created_at": "2022-12-30T15:40:56.000Z"
+        },
+        {
+            "id": 7115,
+            "username": "driscollis",
+            "tweet_id": "1608850626930266112",
+            "tweet_text": "Did you know #Python has a built-in way to chain multiple dictionaries together?\n\nIt's called `ChainMap` and it's part of the `collections` module.\n\nLet's talk a little about it today!\n\n\ud83e\uddf5\ud83d\udc0d\ud83d\udc47",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608850626930266112",
+            "tweet_type": "Python tips",
+            "created_at": "2022-12-30T15:40:55.000Z"
         }
     ]
 }
