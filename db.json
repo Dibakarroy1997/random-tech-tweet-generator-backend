@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7088
+        "entries": 7101
     },
     "tweets": [
         {
@@ -70882,6 +70882,136 @@
             "tweet_conversation_id": "1547025772887433216",
             "tweet_type": "Others",
             "created_at": "2022-07-13T01:11:03.000Z"
+        },
+        {
+            "id": 7089,
+            "username": "bascodes",
+            "tweet_id": "1608795312906436608",
+            "tweet_text": "By the way, did you know I started a newsletter?\n\nI share my takes on the latest tech buzz each week. Plus, there is another perspective of a fellow dev in each issue.\n\nCheck it out \ud83d\udc47\nhttps://t.co/TdYEGPWwTB",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608795280136351745",
+            "tweet_type": "Others",
+            "created_at": "2022-12-30T12:01:07.000Z"
+        },
+        {
+            "id": 7090,
+            "username": "bascodes",
+            "tweet_id": "1608795310238859264",
+            "tweet_text": "python-for-coding-interviews \u2013 Python for Coding Interviews\nhttps://t.co/0E58BSGyoh",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608795280136351745",
+            "tweet_type": "Others",
+            "created_at": "2022-12-30T12:01:06.000Z"
+        },
+        {
+            "id": 7091,
+            "username": "bascodes",
+            "tweet_id": "1608795307856515072",
+            "tweet_text": "statistically-correct-python \u2013 An approximate Python interpreter \u2013 by @fiiissshh\nhttps://t.co/I2XdJg4hCv",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608795280136351745",
+            "tweet_type": "Others",
+            "created_at": "2022-12-30T12:01:06.000Z"
+        },
+        {
+            "id": 7092,
+            "username": "bascodes",
+            "tweet_id": "1608795305042141185",
+            "tweet_text": "openai-gpt3-chatbot \u2013 A chatbot that uses speech to text for input, sends the text to OpenAI's GPT-3 text generation model and speaks the response using text to speech \nhttps://t.co/Revo8nEN2c",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608795280136351745",
+            "tweet_type": "Others",
+            "created_at": "2022-12-30T12:01:05.000Z"
+        },
+        {
+            "id": 7093,
+            "username": "bascodes",
+            "tweet_id": "1608795302622027776",
+            "tweet_text": "konsole \u2013 Readable, pleasing console output for Python \u2013 by @apparebit\nhttps://t.co/2yD2DJot3o",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608795280136351745",
+            "tweet_type": "Others",
+            "created_at": "2022-12-30T12:01:04.000Z"
+        },
+        {
+            "id": 7094,
+            "username": "bascodes",
+            "tweet_id": "1608795299946041344",
+            "tweet_text": "PyFlow \u2013 An open-source tool for visual and modular block programming in python \nhttps://t.co/7nwjsFVbrX",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608795280136351745",
+            "tweet_type": "Others",
+            "created_at": "2022-12-30T12:01:04.000Z"
+        },
+        {
+            "id": 7095,
+            "username": "bascodes",
+            "tweet_id": "1608795297379147776",
+            "tweet_text": "Extending Python with Rust \nhttps://t.co/3P9idpk2rc",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608795280136351745",
+            "tweet_type": "Others",
+            "created_at": "2022-12-30T12:01:03.000Z"
+        },
+        {
+            "id": 7096,
+            "username": "bascodes",
+            "tweet_id": "1608795294841569280",
+            "tweet_text": "Python libraries to make your code readable, reliable and maintainable \u2013 by @likid_geimfari\nhttps://t.co/sqfzsa4UNe",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608795280136351745",
+            "tweet_type": "Others",
+            "created_at": "2022-12-30T12:01:02.000Z"
+        },
+        {
+            "id": 7097,
+            "username": "bascodes",
+            "tweet_id": "1608795291729424384",
+            "tweet_text": "An Introduction to Just Enough Cython to be Useful\nhttps://t.co/nrpdB6TnFw",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608795280136351745",
+            "tweet_type": "Others",
+            "created_at": "2022-12-30T12:01:02.000Z"
+        },
+        {
+            "id": 7098,
+            "username": "bascodes",
+            "tweet_id": "1608795288705323008",
+            "tweet_text": "10 must-know patterns for writing clean code with Python \u2013 by @StepsizeHQ\nhttps://t.co/0RvvItFqw5",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608795280136351745",
+            "tweet_type": "Others",
+            "created_at": "2022-12-30T12:01:01.000Z"
+        },
+        {
+            "id": 7099,
+            "username": "bascodes",
+            "tweet_id": "1608795285786071041",
+            "tweet_text": "Where exactly does Python 3.11 get its ~25% Speedup? \u2013 by @beshr\nhttps://t.co/NgLPm9DWSE",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608795280136351745",
+            "tweet_type": "Others",
+            "created_at": "2022-12-30T12:01:00.000Z"
+        },
+        {
+            "id": 7100,
+            "username": "bascodes",
+            "tweet_id": "1608795282686504961",
+            "tweet_text": "+++\nAs always, this issue of #ThisWeekInPython\ud83d\udc0d is on my blog, too \ud83d\udc47\n+++\nhttps://t.co/i9c9tWHuN0",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608795280136351745",
+            "tweet_type": "Others",
+            "created_at": "2022-12-30T12:01:00.000Z"
+        },
+        {
+            "id": 7101,
+            "username": "bascodes",
+            "tweet_id": "1608795280136351745",
+            "tweet_text": "This is the last issue of #ThisWeekInPython\ud83d\udc0d in 2022 \ud83c\udf86\n\nCheck out some interesting articles and projects about and in Python!",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608795280136351745",
+            "tweet_type": "Others",
+            "created_at": "2022-12-30T12:00:59.000Z"
         }
     ]
 }
