@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7132
+        "entries": 7133
     },
     "tweets": [
         {
@@ -71322,6 +71322,16 @@
             "tweet_conversation_id": "1609043675132329985",
             "tweet_type": "Others",
             "created_at": "2022-12-31T04:28:01.000Z"
+        },
+        {
+            "id": 7133,
+            "username": "bascodes",
+            "tweet_id": "1609143326040621064",
+            "tweet_text": "The journey is on\n#YearInReview\nhttps://t.co/6YB4N88tSt",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1609143326040621064",
+            "tweet_type": "Others",
+            "created_at": "2022-12-31T11:04:00.000Z"
         }
     ]
 }
