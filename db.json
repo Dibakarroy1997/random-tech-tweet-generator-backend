@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7137
+        "entries": 7138
     },
     "tweets": [
         {
@@ -71372,6 +71372,16 @@
             "tweet_conversation_id": "1609270636949520385",
             "tweet_type": "Others",
             "created_at": "2022-12-31T19:29:53.000Z"
+        },
+        {
+            "id": 7138,
+            "username": "linuxopsys",
+            "tweet_id": "1609312159988879362",
+            "tweet_text": "Happy New Year Folks\ud83d\udc99! https://t.co/Pj1pPpMDxF",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlVs3kRaUAEQvo3.jpg\"]",
+            "tweet_conversation_id": "1609312159988879362",
+            "tweet_type": "Others",
+            "created_at": "2022-12-31T22:14:53.000Z"
         }
     ]
 }
