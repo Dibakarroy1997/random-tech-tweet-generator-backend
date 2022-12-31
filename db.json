@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7117
+        "entries": 7129
     },
     "tweets": [
         {
@@ -71172,6 +71172,126 @@
             "tweet_conversation_id": "1608885635561160704",
             "tweet_type": "Python tips",
             "created_at": "2022-12-30T18:00:01.000Z"
+        },
+        {
+            "id": 7118,
+            "username": "Rapid_API",
+            "tweet_id": "1609002528477167618",
+            "tweet_text": "That\u2019s all for now!\n\nFollow @Rapid_API for more exclusive content. \ud83d\udc19",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1609002496508284930",
+            "tweet_type": "Others",
+            "created_at": "2022-12-31T01:44:31.000Z"
+        },
+        {
+            "id": 7119,
+            "username": "Rapid_API",
+            "tweet_id": "1609002524329103361",
+            "tweet_text": "7\ufe0f\u20e3 Include versioning\n\nMake sure you create a new version of your API if you're making major changes that could break it.\n\nThis is usually indicated in endpoints by adding the version at the start of the endpoint. For example:\n\nhttps://example .com/api/v2/articles",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1609002496508284930",
+            "tweet_type": "Others",
+            "created_at": "2022-12-31T01:44:30.000Z"
+        },
+        {
+            "id": 7120,
+            "username": "Rapid_API",
+            "tweet_id": "1609002520315150343",
+            "tweet_text": "6\ufe0f\u20e3 Never use file extensions\n\nThere is no purpose in using file extensions in URIs. They are unnecessary and only make it harder to read clearly.\n\n\u274c https:// example .com/api/profiles.xml",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1609002496508284930",
+            "tweet_type": "Others",
+            "created_at": "2022-12-31T01:44:29.000Z"
+        },
+        {
+            "id": 7121,
+            "username": "Rapid_API",
+            "tweet_id": "1609002516338937857",
+            "tweet_text": "5\ufe0f\u20e3 Use hyphens to separate words\n\nWhen chaining words together, hyphens are the most user-friendly way and are a better choice than underscores. For example:\n\nhttps:// example .com/api/profiles/227/first-name",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1609002496508284930",
+            "tweet_type": "Others",
+            "created_at": "2022-12-31T01:44:28.000Z"
+        },
+        {
+            "id": 7122,
+            "username": "Rapid_API",
+            "tweet_id": "1609002512438132736",
+            "tweet_text": "4\ufe0f\u20e3 Lower case letters\n\nAs a standard, URLs are typed in lowercase. The same applies to API URIs.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1609002496508284930",
+            "tweet_type": "Others",
+            "created_at": "2022-12-31T01:44:27.000Z"
+        },
+        {
+            "id": 7123,
+            "username": "Rapid_API",
+            "tweet_id": "1609002508457762816",
+            "tweet_text": "3\ufe0f\u20e3 Use plural nouns\n\nThis makes it clear that there is more than one resource within a collection. Using singular nouns can be confusing. For example:\n\n\u274c https:// example .com/api/profile/21\n\u2705 http:// example .com/api/profiles/21",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1609002496508284930",
+            "tweet_type": "Others",
+            "created_at": "2022-12-31T01:44:26.000Z"
+        },
+        {
+            "id": 7124,
+            "username": "Rapid_API",
+            "tweet_id": "1609002504460668928",
+            "tweet_text": "2\ufe0f\u20e3 Use nouns, not verbs\n\nWhen naming the URIs, you should use nouns to describe what the resource is and not what it does. For example:\n\n\u274c https:// example .com/api/getProfiles\n\u2705 http:// example .com/api/profiles",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1609002496508284930",
+            "tweet_type": "Others",
+            "created_at": "2022-12-31T01:44:25.000Z"
+        },
+        {
+            "id": 7125,
+            "username": "Rapid_API",
+            "tweet_id": "1609002500471885825",
+            "tweet_text": "1\ufe0f\u20e3 Use forward slash\n\nUse forward slashes for resource hierarchy and to separate URI resources.\n\nExample: https:// example .com/articles/authors",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1609002496508284930",
+            "tweet_type": "Others",
+            "created_at": "2022-12-31T01:44:24.000Z"
+        },
+        {
+            "id": 7126,
+            "username": "Rapid_API",
+            "tweet_id": "1609002496508284930",
+            "tweet_text": "API endpoint naming best practices.\n\nThread \ud83e\uddf5\ud83d\udc47",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1609002496508284930",
+            "tweet_type": "API tips",
+            "created_at": "2022-12-31T01:44:23.000Z"
+        },
+        {
+            "id": 7127,
+            "username": "vikasrajputin",
+            "tweet_id": "1608999137084846080",
+            "tweet_text": "Thank you for your blessings, love and support!\n\nLove you all \u2665\ufe0f\u2665\ufe0f",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608999131640659971",
+            "tweet_type": "Others",
+            "created_at": "2022-12-31T01:31:02.000Z"
+        },
+        {
+            "id": 7128,
+            "username": "vikasrajputin",
+            "tweet_id": "1608999134404673538",
+            "tweet_text": "Here's what lined up for 2023:\n\n- Continue writing threads\n- Planning to be more active on twitter space (Evaluating LinkedIn as well)\n- Expanding more on LinkedIn &amp; IG\n- Coming up with more IG reels",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608999131640659971",
+            "tweet_type": "Others",
+            "created_at": "2022-12-31T01:31:02.000Z"
+        },
+        {
+            "id": 7129,
+            "username": "vikasrajputin",
+            "tweet_id": "1608999131640659971",
+            "tweet_text": "25K \u2665\ufe0f\ud83c\udf89\ud83c\udf8a\ud83d\ude80\n\nWhat a way to say goodbye to 2022!\n\nI've achieved more than I came here for, I'm grateful and gratified \ud83d\ude4f\n\nNo Goals for 2023, only habits!\n\nGood bye 2022\ud83d\udc4b\n\nSuper pumped up to enter into 2023!",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1608999131640659971",
+            "tweet_type": "Others",
+            "created_at": "2022-12-31T01:31:01.000Z"
         }
     ]
 }
