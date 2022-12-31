@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7135
+        "entries": 7136
     },
     "tweets": [
         {
@@ -71352,6 +71352,16 @@
             "tweet_conversation_id": "1609229165970214913",
             "tweet_type": "Others",
             "created_at": "2022-12-31T16:45:05.000Z"
+        },
+        {
+            "id": 7136,
+            "username": "testdrivenio",
+            "tweet_id": "1609248023284174850",
+            "tweet_text": "Python tip: \n\nAn immutable object can not be changed.\n\nWhat may seem like changing a variable is actually reusing it - the variable is pointing to a new object \ud83d\udc47 https://t.co/5iOdOzoBvQ",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlUyi9AaYAAI929.png\"]",
+            "tweet_conversation_id": "1609248023284174850",
+            "tweet_type": "Python tips",
+            "created_at": "2022-12-31T18:00:01.000Z"
         }
     ]
 }
