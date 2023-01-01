@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7140
+        "entries": 7149
     },
     "tweets": [
         {
@@ -71402,6 +71402,96 @@
             "tweet_conversation_id": "1609440506458644481",
             "tweet_type": "Others",
             "created_at": "2023-01-01T06:44:53.000Z"
+        },
+        {
+            "id": 7141,
+            "username": "bascodes",
+            "tweet_id": "1609543321730383872",
+            "tweet_text": "Interested in my takes on the tech industry? I send out a free weekly newsletter with the latest musings of other developers and my own.\n\nDon't forget to subscribe \ud83d\udc47\n\nhttps://t.co/TdYEGPVZ43",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1609543289077747713",
+            "tweet_type": "Others",
+            "created_at": "2023-01-01T13:33:26.000Z"
+        },
+        {
+            "id": 7142,
+            "username": "bascodes",
+            "tweet_id": "1609543317766766594",
+            "tweet_text": "My predictions are logged here for accountability:\nhttps://t.co/Buy2gAdsVX",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1609543289077747713",
+            "tweet_type": "Others",
+            "created_at": "2023-01-01T13:33:25.000Z"
+        },
+        {
+            "id": 7143,
+            "username": "bascodes",
+            "tweet_id": "1609543313773760512",
+            "tweet_text": "6. In tech, the trend towards oligopolies will accelerate sharply. Tech jobs in \"old economy\" organisations will diverge from \"new economy\" jobs even more. Shrinking economy+high interest rates will increase barriers to entry for startups. IPOs might drop by another 50%",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1609543289077747713",
+            "tweet_type": "Others",
+            "created_at": "2023-01-01T13:33:24.000Z"
+        },
+        {
+            "id": 7144,
+            "username": "bascodes",
+            "tweet_id": "1609543309835345921",
+            "tweet_text": "5. Europe's economy will cool down severely, but not collapse entirely. Europe's governments will try to absorb inflation with redistributing policies and probably ban anonymous (cash) transactions entirely",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1609543289077747713",
+            "tweet_type": "Others",
+            "created_at": "2023-01-01T13:33:23.000Z"
+        },
+        {
+            "id": 7145,
+            "username": "bascodes",
+            "tweet_id": "1609543305850765314",
+            "tweet_text": "4. Energy prices and supply chain issues won't resolve in 2023",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1609543289077747713",
+            "tweet_type": "Others",
+            "created_at": "2023-01-01T13:33:22.000Z"
+        },
+        {
+            "id": 7146,
+            "username": "bascodes",
+            "tweet_id": "1609543301824126977",
+            "tweet_text": "3. AI's flaws will become apparent when applied to more severe fields. A potentially life-threatening event is discussed throughout media and will lead to drastic regulations",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1609543289077747713",
+            "tweet_type": "Others",
+            "created_at": "2023-01-01T13:33:21.000Z"
+        },
+        {
+            "id": 7147,
+            "username": "bascodes",
+            "tweet_id": "1609543297785028610",
+            "tweet_text": "2. Generative AI will take over a large chunk of the content commodity market (editorial images and SEO copywriting). Google will react with significant changes to their search",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1609543289077747713",
+            "tweet_type": "Others",
+            "created_at": "2023-01-01T13:33:20.000Z"
+        },
+        {
+            "id": 7148,
+            "username": "bascodes",
+            "tweet_id": "1609543293775355904",
+            "tweet_text": "1. Tech layoffs will continue, especially in the US. Housing prices in most metropolitan areas will decline. Big names might hire more in Europe and Asia",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1609543289077747713",
+            "tweet_type": "Others",
+            "created_at": "2023-01-01T13:33:19.000Z"
+        },
+        {
+            "id": 7149,
+            "username": "bascodes",
+            "tweet_id": "1609543289077747713",
+            "tweet_text": "\ud83d\udd2eHere are my predictions for 2023 \ud83c\udf86\n\nHow do you see the world in 2023\u2753 https://t.co/lfZ2J92W5V",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlY_FwdWYAIsuoy.jpg\"]",
+            "tweet_conversation_id": "1609543289077747713",
+            "tweet_type": "Others",
+            "created_at": "2023-01-01T13:33:18.000Z"
         }
     ]
 }
