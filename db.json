@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7154
+        "entries": 7155
     },
     "tweets": [
         {
@@ -71542,6 +71542,16 @@
             "tweet_conversation_id": "1609610430909140992",
             "tweet_type": "Others",
             "created_at": "2023-01-01T18:00:06.000Z"
+        },
+        {
+            "id": 7155,
+            "username": "raymondh",
+            "tweet_id": "1609628333003653121",
+            "tweet_text": "#Python tip:  The difference between set.remove() and set.discard() is that the former raises a KeyError for missing keys and the latter is silent.\n\nFor the dicts, the equivalents are:\n\n   del d[k]           # noisy\n   d.pop(k, None)     # silent",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1609628333003653121",
+            "tweet_type": "Python tips",
+            "created_at": "2023-01-01T19:11:14.000Z"
         }
     ]
 }
