@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7139
+        "entries": 7140
     },
     "tweets": [
         {
@@ -71392,6 +71392,16 @@
             "tweet_conversation_id": "1609342309715288066",
             "tweet_type": "Others",
             "created_at": "2023-01-01T00:14:41.000Z"
+        },
+        {
+            "id": 7140,
+            "username": "bascodes",
+            "tweet_id": "1609440506458644481",
+            "tweet_text": "Happy new year, my friends!\n\ud83c\udf87\ud83c\udf86\nWhat are your dreams for 2023?",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1609440506458644481",
+            "tweet_type": "Others",
+            "created_at": "2023-01-01T06:44:53.000Z"
         }
     ]
 }
