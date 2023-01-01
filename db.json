@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7149
+        "entries": 7154
     },
     "tweets": [
         {
@@ -71492,6 +71492,56 @@
             "tweet_conversation_id": "1609543289077747713",
             "tweet_type": "Others",
             "created_at": "2023-01-01T13:33:18.000Z"
+        },
+        {
+            "id": 7150,
+            "username": "testdrivenio",
+            "tweet_id": "1609610420226248704",
+            "tweet_text": "Same goes for dictionaries (dict_1 |= dict_2 vs. dict_1 = dict_1 | dict_2). https://t.co/cn9WWB5FYL",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlZ8JRSaUAEVa1H.png\"]",
+            "tweet_conversation_id": "1609610410680025088",
+            "tweet_type": "Others",
+            "created_at": "2023-01-01T18:00:03.000Z"
+        },
+        {
+            "id": 7151,
+            "username": "testdrivenio",
+            "tweet_id": "1609610413091737606",
+            "tweet_text": "While the value of the result is the same, in the first case (+=), only the value changes, the object is the same.\nIn the other case ( + element), a result is a new object with a new value.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1609610410680025088",
+            "tweet_type": "Others",
+            "created_at": "2023-01-01T18:00:02.000Z"
+        },
+        {
+            "id": 7152,
+            "username": "testdrivenio",
+            "tweet_id": "1609610410680025088",
+            "tweet_text": "Python tip: \n\nContrary to a widespread opinion, \"list_1 += list_2\" and \"list_1 = list_1 + list_2\" are not exactly the same.\n\n\ud83e\uddf5 https://t.co/Xgm4XhcLnq",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlZ8ItGaUAA9xUv.png\"]",
+            "tweet_conversation_id": "1609610410680025088",
+            "tweet_type": "Python tips",
+            "created_at": "2023-01-01T18:00:01.000Z"
+        },
+        {
+            "id": 7153,
+            "username": "bascodes",
+            "tweet_id": "1609607100954546181",
+            "tweet_text": "What tech stuff do you want to learn in 2023?",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1609607100954546181",
+            "tweet_type": "Others",
+            "created_at": "2023-01-01T17:46:52.000Z"
+        },
+        {
+            "id": 7154,
+            "username": "linuxopsys",
+            "tweet_id": "1609610430909140992",
+            "tweet_text": "Hey there \ud83d\udc4b\n\nAre  you interested in:\n\n- Linux\n- Linux commands\n- Linux Tips\n- Shell Scripting\n- Bash Tips\n- Linux cheatsheets\n- Sysadmin\n- Tips for those who are unfamiliar with Linux\n- More Linux Stuff\n\nFollow us \u2705\n\nWe share daily \ud83d\udcc5 content that you won't want to miss.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1609610430909140992",
+            "tweet_type": "Others",
+            "created_at": "2023-01-01T18:00:06.000Z"
         }
     ]
 }
