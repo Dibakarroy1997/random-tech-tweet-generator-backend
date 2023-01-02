@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7172
+        "entries": 7173
     },
     "tweets": [
         {
@@ -71722,6 +71722,16 @@
             "tweet_conversation_id": "1610025866708361220",
             "tweet_type": "Python tips",
             "created_at": "2023-01-02T21:30:54.000Z"
+        },
+        {
+            "id": 7173,
+            "username": "driscollis",
+            "tweet_id": "1610047523464581122",
+            "tweet_text": "What was the best #Python book you read in 2022? \ud83d\udc0d \ud83d\udcda",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610047523464581122",
+            "tweet_type": "Python tips",
+            "created_at": "2023-01-02T22:56:57.000Z"
         }
     ]
 }
