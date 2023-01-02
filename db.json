@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7169
+        "entries": 7171
     },
     "tweets": [
         {
@@ -71692,6 +71692,26 @@
             "tweet_conversation_id": "1609975835980611587",
             "tweet_type": "Python tips",
             "created_at": "2023-01-02T18:12:05.000Z"
+        },
+        {
+            "id": 7170,
+            "username": "bascodes",
+            "tweet_id": "1609981859546423301",
+            "tweet_text": "Subscribe here:\nhttps://t.co/TdYEGPVZ43",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1609981855473799169",
+            "tweet_type": "Others",
+            "created_at": "2023-01-02T18:36:01.000Z"
+        },
+        {
+            "id": 7171,
+            "username": "bascodes",
+            "tweet_id": "1609981855473799169",
+            "tweet_text": "Newsletter goes out tomorrow! \n\nDon't miss the first issue of 2023\n\ud83d\udd2e Interesting predictions from around the web\n\ud83d\udcc8 Tech Economy\n\ud83e\udd1d Thoughts on the importance of Open Source by @eddiejaoude",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1609981855473799169",
+            "tweet_type": "Others",
+            "created_at": "2023-01-02T18:36:01.000Z"
         }
     ]
 }
