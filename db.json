@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7171
+        "entries": 7172
     },
     "tweets": [
         {
@@ -71712,6 +71712,16 @@
             "tweet_conversation_id": "1609981855473799169",
             "tweet_type": "Others",
             "created_at": "2023-01-02T18:36:01.000Z"
+        },
+        {
+            "id": 7172,
+            "username": "driscollis",
+            "tweet_id": "1610025866708361220",
+            "tweet_text": "Today I launched my own #Python newsletter. \ud83d\udc0d\ud83c\udf89\n\nI'll be talking about Python, engineering best practices, content creation, and lots more.\n\nYou can check it out and subscribe here:\n\nhttps://t.co/P1wMgHBVEu",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610025866708361220",
+            "tweet_type": "Python tips",
+            "created_at": "2023-01-02T21:30:54.000Z"
         }
     ]
 }
