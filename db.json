@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7161
+        "entries": 7168
     },
     "tweets": [
         {
@@ -71612,6 +71612,76 @@
             "tweet_conversation_id": "1609932767923429379",
             "tweet_type": "Others",
             "created_at": "2023-01-02T15:20:57.000Z"
+        },
+        {
+            "id": 7162,
+            "username": "testdrivenio",
+            "tweet_id": "1609957699088977920",
+            "tweet_text": "Django tip:\n\nAccording to Django docs, imports should be grouped in the following order:\n\n1. future\n2. standard library\n3. third-party libraries\n4. other Django components\n5. local Django component\n6. try/excepts\n\nMeaning imports in Django should look something like this \ud83d\udc47 https://t.co/rLjWggX6TP",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fle3_h4acAI4TqW.png\"]",
+            "tweet_conversation_id": "1609957699088977920",
+            "tweet_type": "Django tips",
+            "created_at": "2023-01-02T17:00:01.000Z"
+        },
+        {
+            "id": 7163,
+            "username": "testdrivenio",
+            "tweet_id": "1609948695323090945",
+            "tweet_text": "Combining Flask and Vue\n\nhttps://t.co/Q9hmiD4CbJ\n\nLooks at 3 different methods for combining #Flask and #Vue:\n\n(1) Use Vue on a Jinja template\n(2) Completely separate Flask and Vue (with and without #Nuxt) apps\n(3) Serve up Vue from a separate Flask blueprint\n\n#Python #JavaScript",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1609948695323090945",
+            "tweet_type": "Others",
+            "created_at": "2023-01-02T16:24:15.000Z"
+        },
+        {
+            "id": 7164,
+            "username": "alexxubyte",
+            "tweet_id": "1609954000841093127",
+            "tweet_text": "/4 I hope you've found this thread helpful.\n\nFollow me @alexxubyte for more.\n\nLike/Retweet the first tweet below if you can: https://t.co/Tr2mxB390y",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1609953957174218754",
+            "tweet_type": "Systems Design",
+            "created_at": "2023-01-02T16:45:19.000Z"
+        },
+        {
+            "id": 7165,
+            "username": "alexxubyte",
+            "tweet_id": "1609953998269992965",
+            "tweet_text": "/3 If the remote repository crashes, the files can be recovered from the local repositories.\n\n\ud83d\udc49 Over to you: Which Git command do you use to resolve conflicting changes?",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1609953957174218754",
+            "tweet_type": "Systems Design",
+            "created_at": "2023-01-02T16:45:19.000Z"
+        },
+        {
+            "id": 7166,
+            "username": "alexxubyte",
+            "tweet_id": "1609953992133730304",
+            "tweet_text": "/2 Git is a distributed version control system.\n\nEvery developer maintains a local copy of the main repository and edits and commits to the local copy.\n\nThe commit is very fast because the operation doesn\u2019t interact with the remote repository. https://t.co/cu3Q0p48H4",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fle0mhhakAI6WhD.jpg\"]",
+            "tweet_conversation_id": "1609953957174218754",
+            "tweet_type": "Systems Design",
+            "created_at": "2023-01-02T16:45:17.000Z"
+        },
+        {
+            "id": 7167,
+            "username": "alexxubyte",
+            "tweet_id": "1609953957174218754",
+            "tweet_text": "/1 How does Git Work?\n\nThe diagram below shows the Git workflow. https://t.co/0VcdsdSW1M",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fle0kkWaYAEAN1H.jpg\"]",
+            "tweet_conversation_id": "1609953957174218754",
+            "tweet_type": "Systems Design",
+            "created_at": "2023-01-02T16:45:09.000Z"
+        },
+        {
+            "id": 7168,
+            "username": "driscollis",
+            "tweet_id": "1609958111518785536",
+            "tweet_text": "The Python Papers: 2023 is the Year of Python! https://t.co/6cwESfEJUJ",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1609958111518785536",
+            "tweet_type": "Others",
+            "created_at": "2023-01-02T17:01:40.000Z"
         }
     ]
 }
