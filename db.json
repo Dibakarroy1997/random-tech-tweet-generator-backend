@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7155
+        "entries": 7156
     },
     "tweets": [
         {
@@ -71552,6 +71552,16 @@
             "tweet_conversation_id": "1609628333003653121",
             "tweet_type": "Python tips",
             "created_at": "2023-01-01T19:11:14.000Z"
+        },
+        {
+            "id": 7156,
+            "username": "bascodes",
+            "tweet_id": "1609878643911659520",
+            "tweet_text": "Is anyone still using Facebook? \ud83e\udd14",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1609878643911659520",
+            "tweet_type": "Others",
+            "created_at": "2023-01-02T11:45:53.000Z"
         }
     ]
 }
