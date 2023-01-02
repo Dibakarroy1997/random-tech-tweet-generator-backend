@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7157
+        "entries": 7158
     },
     "tweets": [
         {
@@ -71572,6 +71572,16 @@
             "tweet_conversation_id": "1609912302454685697",
             "tweet_type": "Others",
             "created_at": "2023-01-02T13:59:38.000Z"
+        },
+        {
+            "id": 7158,
+            "username": "driscollis",
+            "tweet_id": "1609921387363188736",
+            "tweet_text": "HI \ud83d\udc4b\n\nI'm Mike!\n\n2023 is a great year to learn #Python \ud83d\udc0d\n\nIf you're interested, I cover the following topics:\n\n\ud83d\udc0d GUIs and Python\n\ud83d\udc0d Excel and Python\n\ud83d\udc0d Python basics\n\ud83d\udc0d Intermediate and advanced Python\n\ud83d\udc0d PDF processing and Python\n\ud83d\udc0d Jupyter Notebook\n\ud83d\udc0d and more!\n\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1609921387363188736",
+            "tweet_type": "Python tips",
+            "created_at": "2023-01-02T14:35:44.000Z"
         }
     ]
 }
