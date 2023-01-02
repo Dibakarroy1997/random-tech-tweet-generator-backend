@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7168
+        "entries": 7169
     },
     "tweets": [
         {
@@ -71682,6 +71682,16 @@
             "tweet_conversation_id": "1609958111518785536",
             "tweet_type": "Others",
             "created_at": "2023-01-02T17:01:40.000Z"
+        },
+        {
+            "id": 7169,
+            "username": "driscollis",
+            "tweet_id": "1609975835980611587",
+            "tweet_text": "#Python Pop Quiz \n\nHow many items does Python think is in this list?\n\nA) 5\nB) 4\nC) 3\nD) 2 https://t.co/nxGeYhNcMB",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlfIfRtXwAA5mCJ.jpg\"]",
+            "tweet_conversation_id": "1609975835980611587",
+            "tweet_type": "Python tips",
+            "created_at": "2023-01-02T18:12:05.000Z"
         }
     ]
 }
