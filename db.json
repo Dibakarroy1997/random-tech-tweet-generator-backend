@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7158
+        "entries": 7161
     },
     "tweets": [
         {
@@ -71582,6 +71582,36 @@
             "tweet_conversation_id": "1609921387363188736",
             "tweet_type": "Python tips",
             "created_at": "2023-01-02T14:35:44.000Z"
+        },
+        {
+            "id": 7159,
+            "username": "bascodes",
+            "tweet_id": "1609932776031113217",
+            "tweet_text": "If you want to know what I'm reading, subscribe to my weekly newsletter\nhttps://t.co/TdYEGPVZ43",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1609932767923429379",
+            "tweet_type": "Others",
+            "created_at": "2023-01-02T15:20:59.000Z"
+        },
+        {
+            "id": 7160,
+            "username": "bascodes",
+            "tweet_id": "1609932772021358592",
+            "tweet_text": "Coffee Chats \u2615\nhttps://t.co/pwQjByKbgW",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1609932767923429379",
+            "tweet_type": "Others",
+            "created_at": "2023-01-02T15:20:58.000Z"
+        },
+        {
+            "id": 7161,
+            "username": "bascodes",
+            "tweet_id": "1609932767923429379",
+            "tweet_text": "A new year \ud83c\udf86, a new week \ud83d\udc68\u200d\ud83d\udcbb, and lots of new followers \uea00\n\nTime for a re-introduction \ud83d\udd01\n\nI'm Bas, software developer for 15+ yrs, I love Python\ud83d\udc0d, Databases\ud83d\uddc4\ufe0f and the cloud\u2601\ufe0f\n\nI would like to know you better, so introduce yourself \ud83d\udc47 or let's have a #coffeechat\u2615 (\ud83d\udd17 below)",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1609932767923429379",
+            "tweet_type": "Others",
+            "created_at": "2023-01-02T15:20:57.000Z"
         }
     ]
 }
