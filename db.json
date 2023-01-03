@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7195
+        "entries": 7235
     },
     "tweets": [
         {
@@ -71952,6 +71952,406 @@
             "tweet_conversation_id": "1610161523309043713",
             "tweet_type": "Python tips",
             "created_at": "2023-01-03T06:29:57.000Z"
+        },
+        {
+            "id": 7196,
+            "username": "linuxopsys",
+            "tweet_id": "1610199533304283138",
+            "tweet_text": "Here is an example of listing the permissions and other metadata of every file that the find command finds:\n\n$ find ~/ -type f -name \"*.sh\" -exec ls -lah {} +\n$ $ find ~/ -type f -name \"*.sh\" -exec ls -lah {} \\;",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:59.000Z"
+        },
+        {
+            "id": 7197,
+            "username": "linuxopsys",
+            "tweet_id": "1610199530594762754",
+            "tweet_text": "12. Perform actions on each matched result\n\nThe `find` command has a useful option for calling external programs to perform specific actions on the returned files that matched a certain criteria.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:58.000Z"
+        },
+        {
+            "id": 7198,
+            "username": "linuxopsys",
+            "tweet_id": "1610199527000268800",
+            "tweet_text": "11. Find empty files\n\nThe find command also allows you to locate empty files by using:\n\n$ find /home/linuxopsys -type f -empty https://t.co/M8mY47j5Fp",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FliT7l5aAAY2iku.jpg\"]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:57.000Z"
+        },
+        {
+            "id": 7199,
+            "username": "linuxopsys",
+            "tweet_id": "1610199517315620865",
+            "tweet_text": "\u26a0\ufe0f Caution\n\nUse this option only when you are certain that the result matches the files you want to delete. Before using the -delete option, it is always a good idea to print the matched files.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:55.000Z"
+        },
+        {
+            "id": 7200,
+            "username": "linuxopsys",
+            "tweet_id": "1610199513784025088",
+            "tweet_text": "Here is an example, to delete all files ending with .py from the /home/linuxopsys/, you would use:\n\n$ find /home/linuxopsys -name \"*.py\" -delete https://t.co/z72DTTxDQj",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FliT60UagAIBbiY.jpg\"]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:54.000Z"
+        },
+        {
+            "id": 7201,
+            "username": "linuxopsys",
+            "tweet_id": "1610199503868661761",
+            "tweet_text": "10. Find and delete files\n\nYou can use the -delete option to delete every file that match a certain criteria. It is important to note that the -delete option will not delete not-empty directories.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:52.000Z"
+        },
+        {
+            "id": 7202,
+            "username": "linuxopsys",
+            "tweet_id": "1610199500337090560",
+            "tweet_text": "You can easily filter all files in your home directory that end in .md and were modified within the last five days:\n\n$ find /home/linuxopsys -mtime 5 -name \"*.md\" https://t.co/JsVJXA9dby",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FliT6J5aMAAc1LI.jpg\"]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:51.000Z"
+        },
+        {
+            "id": 7203,
+            "username": "linuxopsys",
+            "tweet_id": "1610199492405649408",
+            "tweet_text": "This will allow you to find files that were modified within a specified range of time.\n\nAssume you modified one of your markdown files a few days ago but have forgotten which one.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:49.000Z"
+        },
+        {
+            "id": 7204,
+            "username": "linuxopsys",
+            "tweet_id": "1610199489809375232",
+            "tweet_text": "9. Find files by modification date\n\nThe find command can also look for files based on when they were last modified, accessed, or changed.\n\nYou can also use the plus and minus symbols to indicate \"greater than\" or \"less than\" when searching by modification data.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:49.000Z"
+        },
+        {
+            "id": 7205,
+            "username": "linuxopsys",
+            "tweet_id": "1610199486315528194",
+            "tweet_text": "8. Find files by owner or group\n\nUse the -user and -group options to find files owned by a specific user or group.\n\nFor example, to find all files and directories owned by the user linuxopsys use the following command:\n\n$ find /home/linuxopsys -user linuxopsys https://t.co/JcqtZfCj4H",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FliT5P6aEAEWkNu.jpg\"]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:48.000Z"
+        },
+        {
+            "id": 7206,
+            "username": "linuxopsys",
+            "tweet_id": "1610199476207251458",
+            "tweet_text": "The following command will search for files that have read, write and executable permission for the owner and group and are executable by other users:\n\n$ find /home/linuxopsys -perm -771 https://t.co/WHDHTq8LT3",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FliT4seagAAf2hM.jpg\"]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:45.000Z"
+        },
+        {
+            "id": 7207,
+            "username": "linuxopsys",
+            "tweet_id": "1610199467483099136",
+            "tweet_text": "If minus - is used as the prefix, then for the file to match, at least the specified bits must be set.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:43.000Z"
+        },
+        {
+            "id": 7208,
+            "username": "linuxopsys",
+            "tweet_id": "1610199464811323392",
+            "tweet_text": "The above command will match all the files with execute permissions set for either user, group, or others.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:43.000Z"
+        },
+        {
+            "id": 7209,
+            "username": "linuxopsys",
+            "tweet_id": "1610199461334224896",
+            "tweet_text": "The numeric mode can be prefixed with minus / or slash -.\n\nWhen the prefix is slash /, at least one category (user, group, or others) must have at least the respective bits set in order for a file to match.\n\nConsider the following an example: https://t.co/wkHA25slRD",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FliT31HaUAgaVsV.jpg\"]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:42.000Z"
+        },
+        {
+            "id": 7210,
+            "username": "linuxopsys",
+            "tweet_id": "1610199451876102151",
+            "tweet_text": "7. Find files by their permissions\n\nTo find files based on their permissions, you use the -perm option.\n\nFor example, to find all files with permissions of exactly `755` inside the `/home/linuxopsys` directory, you would use:\n\n$ find /home/linuxopsys -perm 755 https://t.co/ou8Cp0ZgwV",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FliT3SlaEAAWGYg.jpg\"]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:40.000Z"
+        },
+        {
+            "id": 7211,
+            "username": "linuxopsys",
+            "tweet_id": "1610199442631823362",
+            "tweet_text": "The find command also allows you to look for files within a size range. The following command will search for all  the files with size between 5K and 20K:\n\n$ find /home/linuxopsys -size +5k -size -20k https://t.co/1IZBK4quR3",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FliT2u4aMAAH1PU.jpg\"]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:37.000Z"
+        },
+        {
+            "id": 7212,
+            "username": "linuxopsys",
+            "tweet_id": "1610199433035276289",
+            "tweet_text": "If you want to search for files larger than a certain size, you must use the plus + symbol. Here is an example searching for files larger than 600k:\n\n$ find /home/linuxopsys -size +600k https://t.co/dFeUIrbRjh",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FliT2OcakAAFtnW.jpg\"]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:35.000Z"
+        },
+        {
+            "id": 7213,
+            "username": "linuxopsys",
+            "tweet_id": "1610199424676007937",
+            "tweet_text": "Take note of the minus - symbol preceding the size value:\n\n$ find /home/linuxopsys -size -600k https://t.co/UahPhdq7e2",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FliT1vVakAEaJ8u.jpg\"]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:33.000Z"
+        },
+        {
+            "id": 7214,
+            "username": "linuxopsys",
+            "tweet_id": "1610199416773935104",
+            "tweet_text": "You can also use the find command to look for files that are larger or smaller than a certain size.\n\nIn the following example, we look for files that are less than 600k in the effective user's home directory.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:31.000Z"
+        },
+        {
+            "id": 7215,
+            "username": "linuxopsys",
+            "tweet_id": "1610199412739026949",
+            "tweet_text": "The following command will find all files in the home directory that are exactly 600k in size:\n\n$ find /home/linuxopsys -size 600k https://t.co/o8C9Qvv2je",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FliT0_gakAEfNg9.jpg\"]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:30.000Z"
+        },
+        {
+            "id": 7216,
+            "username": "linuxopsys",
+            "tweet_id": "1610199403956166664",
+            "tweet_text": "6. Find files by size\n\nUse the -size parameter along with the size criteria to find files based on file size. To specify the file size, use the following suffixes:\n\n\u2022 b - 512-byte blocks\n\u2022 c - bytes\n\u2022 k - Kilobytes\n\u2022 G - Gigabyte\n\u2022 M - Megabytes\n\u2022 w - two-byte words",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:28.000Z"
+        },
+        {
+            "id": 7217,
+            "username": "linuxopsys",
+            "tweet_id": "1610199400483282944",
+            "tweet_text": "Here's an example of searching for all directories within a specific directory while excluding files, symbolic links, character devices, and so on.\n\n$ find /home/linuxopsys -name docs -type d https://t.co/i4AvJUFlrS",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FliT0VfaMAAyep2.jpg\"]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:27.000Z"
+        },
+        {
+            "id": 7218,
+            "username": "linuxopsys",
+            "tweet_id": "1610199392765759490",
+            "tweet_text": "\u2022 p - a named pipe (FIFO)\n\u2022 s - a socket\n\u2022 D - door (Solaris)",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:25.000Z"
+        },
+        {
+            "id": 7219,
+            "username": "linuxopsys",
+            "tweet_id": "1610199390110765059",
+            "tweet_text": "To search for files based on their type, use the -type option and one of the file descriptors listed below:\n\n\u2022 b - block (buffered) special\n\u2022 c - block (buffered) special\n\u2022 d - a directory `f`: a regular file\n\u2022 l - a symbolic link",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:25.000Z"
+        },
+        {
+            "id": 7220,
+            "username": "linuxopsys",
+            "tweet_id": "1610199387451580417",
+            "tweet_text": "5. Find files by type\n\nYou may need to search for specific file types such as regular files, directories, or symlinks on occasion. Everything in Linux is a file.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:24.000Z"
+        },
+        {
+            "id": 7221,
+            "username": "linuxopsys",
+            "tweet_id": "1610199384175804416",
+            "tweet_text": "4. Negating your search\n\nAt times , you may want to find files that do not match a certain criteria; to do so, use the find command's -not option. Here's an example of how to find all files that do not match the pattern \"*.txt\".\n\n$ find ~/ -not -name \"*.txt\" https://t.co/HsNTE2WMlE",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FliTzTxaAAYLExd.jpg\"]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:23.000Z"
+        },
+        {
+            "id": 7222,
+            "username": "linuxopsys",
+            "tweet_id": "1610199374889615360",
+            "tweet_text": "It's important to note that if you don't want the shell to interpret the asterisk * symbol , you escape it with a backslash or place it in quotaions.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:21.000Z"
+        },
+        {
+            "id": 7223,
+            "username": "linuxopsys",
+            "tweet_id": "1610199371366432768",
+            "tweet_text": "For example, to find all python scripts inside the\nuser's home directory, you would type:\n\n$ find ~/ -name \"*.txt\" https://t.co/Jqqzpw2K7I",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FliTymFaUAE_9Cl.jpg\"]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:20.000Z"
+        },
+        {
+            "id": 7224,
+            "username": "linuxopsys",
+            "tweet_id": "1610199362524839936",
+            "tweet_text": "3. Find files by extension\n\nSearching for files by extension is similar to searching for files by name, with the exception that you will use the * wildcard meta character.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:18.000Z"
+        },
+        {
+            "id": 7225,
+            "username": "linuxopsys",
+            "tweet_id": "1610199358959677441",
+            "tweet_text": "In this example, the find command will only search one directory down and discard the sub-directories.\n\n$ find /home/linuxopsys -maxdepth 1 -iname log.txt https://t.co/PHhJ1fMUPC",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FliTx2XakAEp6kz.jpg\"]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:17.000Z"
+        },
+        {
+            "id": 7226,
+            "username": "linuxopsys",
+            "tweet_id": "1610199349866430465",
+            "tweet_text": "You can control this by passing the -maxdepth option to the find command, which instructs it to search the specified number of directories down.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:15.000Z"
+        },
+        {
+            "id": 7227,
+            "username": "linuxopsys",
+            "tweet_id": "1610199347198840838",
+            "tweet_text": "2. Find files on in the parent directory\n\nFind searches for files in specified directories (parent directory) and sub-directories within the parent directory by default.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:15.000Z"
+        },
+        {
+            "id": 7228,
+            "username": "linuxopsys",
+            "tweet_id": "1610199343675629568",
+            "tweet_text": "The preceding search is case sensitive; to make your -name option case insensitive, prepend i to it so it becomes -iname. The example below will match log.txt, LOG.txt, Log.txt etc.\n\n$ find /home/linuxopsys -iname log.txt https://t.co/j2gJa8cCgc",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FliTw_PakAghIkO.jpg\"]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:14.000Z"
+        },
+        {
+            "id": 7229,
+            "username": "linuxopsys",
+            "tweet_id": "1610199334041321472",
+            "tweet_text": "To find a file named log.txt in the home directory, for example, use the following command:\n\n$ find /home/linuxopsys -name log.txt https://t.co/uaA8pfzdVJ",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FliTwY6aAAAkJng.jpg\"]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:11.000Z"
+        },
+        {
+            "id": 7230,
+            "username": "linuxopsys",
+            "tweet_id": "1610199322389540869",
+            "tweet_text": "1. Find files by name:\n\nFinding files by name is most likely the most common and basic application of the find command. To find a specific file by name, use the -name option followed by the file name you want to find.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:09.000Z"
+        },
+        {
+            "id": 7231,
+            "username": "linuxopsys",
+            "tweet_id": "1610199319638048776",
+            "tweet_text": "\u2022 [path]: It defines the directory where to begin searching.\n\n\u2022 [options]: It defines the criteria of filtering e.g. searching a file/folder by its name, permission, time, or date.\n\n\u2022 [action]: It defines what actions to perform with the file.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:08.000Z"
+        },
+        {
+            "id": 7232,
+            "username": "linuxopsys",
+            "tweet_id": "1610199316928528385",
+            "tweet_text": "Basic syntax of the find command:\n\nThe find command syntax if very simple to understand, here is the basic find command syntax:\n\n$ find [path] [options] [action]",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:07.000Z"
+        },
+        {
+            "id": 7233,
+            "username": "linuxopsys",
+            "tweet_id": "1610199314202230784",
+            "tweet_text": "You can not only use the find command to search for files on your system, but you can also use external commands to perform actions on those files, such as deleting them with the rm command, checking their permissions with the ls command, copying them with the cp command etc.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:07.000Z"
+        },
+        {
+            "id": 7234,
+            "username": "linuxopsys",
+            "tweet_id": "1610199311543046145",
+            "tweet_text": "The Linux find command is a powerful tool that allows system administrators to search for and manage files and directories that match a set of criteria in the filesystem.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:06.000Z"
+        },
+        {
+            "id": 7235,
+            "username": "linuxopsys",
+            "tweet_id": "1610199308976156674",
+            "tweet_text": "how to use the find command to search for files and directories  in Linux:",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T09:00:05.000Z"
         }
     ]
 }
