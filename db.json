@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7250
+        "entries": 7252
     },
     "tweets": [
         {
@@ -72502,6 +72502,26 @@
             "tweet_conversation_id": "1610305876031578117",
             "tweet_type": "Others",
             "created_at": "2023-01-03T16:03:33.000Z"
+        },
+        {
+            "id": 7251,
+            "username": "testdrivenio",
+            "tweet_id": "1610320088225419266",
+            "tweet_text": "Did you know?\n\nPython caches integers between -5 and 256.\nSo, when you create an integer in that range, you're not creating it, just referencing it.\n\nThis is called small integer caching (and it's just an implementation detail, don't count on it). https://t.co/f7vsHajsZ0",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlkBlXsaUAE18G9.png\"]",
+            "tweet_conversation_id": "1610320088225419266",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T17:00:01.000Z"
+        },
+        {
+            "id": 7252,
+            "username": "alexxubyte",
+            "tweet_id": "1610313304060342272",
+            "tweet_text": "What is the CAP theorem? How useful is it to system design?\n\nThe CAP theorem is a concept in CS that explains the trade-offs between consistency, availability, and partition tolerance in distributed systems.\n\nWatch and subscribe here (YouTube video): https://t.co/hIUTMfjwJg https://t.co/LzktRGw5qX",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Flj7aaHaMAERlfI.jpg\"]",
+            "tweet_conversation_id": "1610313304060342272",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T16:33:04.000Z"
         }
     ]
 }
