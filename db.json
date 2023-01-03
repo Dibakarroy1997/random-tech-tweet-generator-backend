@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7252
+        "entries": 7253
     },
     "tweets": [
         {
@@ -72522,6 +72522,16 @@
             "tweet_conversation_id": "1610313304060342272",
             "tweet_type": "Others",
             "created_at": "2023-01-03T16:33:04.000Z"
+        },
+        {
+            "id": 7253,
+            "username": "driscollis",
+            "tweet_id": "1610363117317267456",
+            "tweet_text": "#Python can get your computer's IP address programmatically using the `socket` module \ud83d\udd0c\ud83d\udc0d\n\nHere are two ways to do it: https://t.co/0nWW9Mm6j8",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlkouGdX0AkQG7V.jpg\"]",
+            "tweet_conversation_id": "1610363117317267456",
+            "tweet_type": "Python tips",
+            "created_at": "2023-01-03T19:51:00.000Z"
         }
     ]
 }
