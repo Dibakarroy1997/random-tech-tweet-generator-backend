@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7173
+        "entries": 7181
     },
     "tweets": [
         {
@@ -71732,6 +71732,86 @@
             "tweet_conversation_id": "1610047523464581122",
             "tweet_type": "Python tips",
             "created_at": "2023-01-02T22:56:57.000Z"
+        },
+        {
+            "id": 7174,
+            "username": "Rapid_API",
+            "tweet_id": "1610084281149267969",
+            "tweet_text": "That\u2019s all for now!\n\nFollow @Rapid_API for more exclusive content. \ud83d\udc19",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610084253311684611",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T01:23:01.000Z"
+        },
+        {
+            "id": 7175,
+            "username": "Rapid_API",
+            "tweet_id": "1610084277105954818",
+            "tweet_text": "5\ufe0f\u20e3 Async API\n\nThese APIs work on the principle of Event-Driven Architecture (EDA). \n\nIn AsyncAPIs, multiple Subscribers can subscribe to a Publisher. \n\nWhen an event occurs, the Publisher can notify all the Subscribers via the Message broker.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610084253311684611",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T01:23:00.000Z"
+        },
+        {
+            "id": 7176,
+            "username": "Rapid_API",
+            "tweet_id": "1610084273163214848",
+            "tweet_text": "The three capabilities are:\n\n\ud83d\udc49 Publishing and subscribing to the streams of events,\n\ud83d\udc49 Storing streams of events durably and reliably\n\ud83d\udc49 Processing streams of events as they occur.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610084253311684611",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T01:22:59.000Z"
+        },
+        {
+            "id": 7177,
+            "username": "Rapid_API",
+            "tweet_id": "1610084269254217728",
+            "tweet_text": "4\ufe0f\u20e3 Kafka API\n\nApache Kafka is an event streaming platform that combines three capabilities so that you can implement different use cases.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610084253311684611",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T01:22:58.000Z"
+        },
+        {
+            "id": 7178,
+            "username": "Rapid_API",
+            "tweet_id": "1610084265248579584",
+            "tweet_text": "3\ufe0f\u20e3 SOAP API\n\nSOAP API is another kind of web service that allows communication between client and server using the Simple Object Access Protocol (SOAP). \n\nThe protocol is defined by the W3C. SOAP APIs rely heavily on XML, and they are considered safer than REST APIs.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610084253311684611",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T01:22:57.000Z"
+        },
+        {
+            "id": 7179,
+            "username": "Rapid_API",
+            "tweet_id": "1610084261272473601",
+            "tweet_text": "2\ufe0f\u20e3 GraphQL\n\n It is a query language that lets client request the precise data they require from the server. \n\nThus, eliminating the issues of under-fetching and over-fetching.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610084253311684611",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T01:22:56.000Z"
+        },
+        {
+            "id": 7180,
+            "username": "Rapid_API",
+            "tweet_id": "1610084257250025480",
+            "tweet_text": "1\ufe0f\u20e3 REST API\n\nREST APIs allow you to perform CRUD (create, read, update, and delete) operations between a client and a server. \n\nIt provides multiple API endpoints to manipulate data.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610084253311684611",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T01:22:55.000Z"
+        },
+        {
+            "id": 7181,
+            "username": "Rapid_API",
+            "tweet_id": "1610084253311684611",
+            "tweet_text": "Types of APIs in terms of architecture\n\n- REST API\n- GraphQL\n- SOAP API\n- Kafka API\n- Async API\n\nThread \ud83e\uddf5\ud83d\udc47",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610084253311684611",
+            "tweet_type": "API tips",
+            "created_at": "2023-01-03T01:22:54.000Z"
         }
     ]
 }
