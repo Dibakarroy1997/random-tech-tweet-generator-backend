@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7248
+        "entries": 7249
     },
     "tweets": [
         {
@@ -72482,6 +72482,16 @@
             "tweet_conversation_id": "1610274861045227520",
             "tweet_type": "Others",
             "created_at": "2023-01-03T14:00:18.000Z"
+        },
+        {
+            "id": 7249,
+            "username": "driscollis",
+            "tweet_id": "1610285838209847299",
+            "tweet_text": "The PyDev of the Week this week is Kevin McAleer!\n\nKevin likes making robots, using #Python, and sharing that passion on social media, such as YouTube.\n\nhttps://t.co/VRUYPzZwIj @kevmac",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610285838209847299",
+            "tweet_type": "Python tips",
+            "created_at": "2023-01-03T14:43:56.000Z"
         }
     ]
 }
