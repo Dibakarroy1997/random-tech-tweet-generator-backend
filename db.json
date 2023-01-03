@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7235
+        "entries": 7246
     },
     "tweets": [
         {
@@ -72352,6 +72352,116 @@
             "tweet_conversation_id": "1610199308976156674",
             "tweet_type": "Others",
             "created_at": "2023-01-03T09:00:05.000Z"
+        },
+        {
+            "id": 7236,
+            "username": "Rapid_API",
+            "tweet_id": "1610240056492494848",
+            "tweet_text": "Thanks for reading!\n\nFollow us @Rapid_API for more exclusive content. \ud83d\udc19\ud83d\udc99",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610240020459274240",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T11:42:00.000Z"
+        },
+        {
+            "id": 7237,
+            "username": "Rapid_API",
+            "tweet_id": "1610240052507860993",
+            "tweet_text": "7\ufe0f\u20e3 Keep it up-to-date\n\nKeep your API documentation up-to-date as you make changes to your API. \n\nThis will help ensure that developers have accurate and current information.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610240020459274240",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T11:41:59.000Z"
+        },
+        {
+            "id": 7238,
+            "username": "Rapid_API",
+            "tweet_id": "1610240048498188294",
+            "tweet_text": "6\ufe0f\u20e3 Use a consistent format\n\nUse a consistent format and layout for your API documentation to make it easy for developers to find the information they need.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610240020459274240",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T11:41:59.000Z"
+        },
+        {
+            "id": 7239,
+            "username": "Rapid_API",
+            "tweet_id": "1610240044454871043",
+            "tweet_text": "5\ufe0f\u20e3 Include error messages\n\nProvide a list of error messages that your API may return, along with a description of each error and how to fix it.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610240020459274240",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T11:41:58.000Z"
+        },
+        {
+            "id": 7240,
+            "username": "Rapid_API",
+            "tweet_id": "1610240040470208515",
+            "tweet_text": "4\ufe0f\u20e3 Group related endpoint.\n\nGroup related endpoints into sections. \n\nFor instance, if you have endpoints for manipulating user data like Create, Update, and Delete, group them into one section.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610240020459274240",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T11:41:57.000Z"
+        },
+        {
+            "id": 7241,
+            "username": "Rapid_API",
+            "tweet_id": "1610240036468887556",
+            "tweet_text": "3\ufe0f\u20e3 Document all API endpoints\n\nEnsure to include documentation for all API endpoints, including the following:\n\n- a description of what each endpoint does\n- the parameters it accepts\n- the format of the request and response.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610240020459274240",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T11:41:56.000Z"
+        },
+        {
+            "id": 7242,
+            "username": "Rapid_API",
+            "tweet_id": "1610240032505315328",
+            "tweet_text": "2\ufe0f\u20e3 Use examples\n\nProvide examples of how to use your API, including code snippets and sample requests and responses. \n\nThis can help developers understand how to integrate your API into their applications.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610240020459274240",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T11:41:55.000Z"
+        },
+        {
+            "id": 7243,
+            "username": "Rapid_API",
+            "tweet_id": "1610240028508131328",
+            "tweet_text": "1\ufe0f\u20e3 Start with an overview\n\nProvide a high-level overview of your API and how it can be used.\n\nUse easy-to-understand language to explain how your API works",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610240020459274240",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T11:41:54.000Z"
+        },
+        {
+            "id": 7244,
+            "username": "Rapid_API",
+            "tweet_id": "1610240024502566913",
+            "tweet_text": "Writing clear and concise API documentation is important because it helps developers understand how to use your API.\n\nHere are some tips for writing API documentation",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610240020459274240",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T11:41:53.000Z"
+        },
+        {
+            "id": 7245,
+            "username": "Rapid_API",
+            "tweet_id": "1610240020459274240",
+            "tweet_text": "How to write good API documentation\n\n1\ufe0f\u20e3 Start with an overview\n2\ufe0f\u20e3 Use examples\n3\ufe0f\u20e3 Document all API endpoints\n4\ufe0f\u20e3 Group related endpoint.\n5\ufe0f\u20e3 Include error messages\n6\ufe0f\u20e3 Use a consistent format\n7\ufe0f\u20e3 Keep it up-to-date\n\nThread \ud83e\uddf5\ud83d\udc47",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610240020459274240",
+            "tweet_type": "API tips",
+            "created_at": "2023-01-03T11:41:52.000Z"
+        },
+        {
+            "id": 7246,
+            "username": "linuxopsys",
+            "tweet_id": "1610247371526664194",
+            "tweet_text": "That it for today's thread! Thank you for reading! \n\nIf you enjoyed this thread and found it useful, toss us a follow (@linuxopsys) for more Linux, sysadmin, and devops content!.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610199308976156674",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T12:11:04.000Z"
         }
     ]
 }
