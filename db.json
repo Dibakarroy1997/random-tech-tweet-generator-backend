@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7253
+        "entries": 7254
     },
     "tweets": [
         {
@@ -72532,6 +72532,16 @@
             "tweet_conversation_id": "1610363117317267456",
             "tweet_type": "Python tips",
             "created_at": "2023-01-03T19:51:00.000Z"
+        },
+        {
+            "id": 7254,
+            "username": "driscollis",
+            "tweet_id": "1610374056347328514",
+            "tweet_text": "Yesterday I started a new #Python \ud83d\udc0d newsletter! \ud83c\udf89\n\nThe first issue was kind of short, so next week I'll try to make a chunkier one!\n\nOn the plus side, the newsletter now has almost 300 subscribers in only 2 days \ud83d\udd25\n\nCheck it out:\n\nhttps://t.co/P1wMgHBVEu https://t.co/suF0bXOktt",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlkcjnpWYAMADU_.jpg\"]",
+            "tweet_conversation_id": "1610374056347328514",
+            "tweet_type": "Python tips",
+            "created_at": "2023-01-03T20:34:28.000Z"
         }
     ]
 }
