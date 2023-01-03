@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7181
+        "entries": 7190
     },
     "tweets": [
         {
@@ -71812,6 +71812,96 @@
             "tweet_conversation_id": "1610084253311684611",
             "tweet_type": "API tips",
             "created_at": "2023-01-03T01:22:54.000Z"
+        },
+        {
+            "id": 7182,
+            "username": "Rapid_API",
+            "tweet_id": "1610126387574104065",
+            "tweet_text": "Thanks for reading!\n\nFollow us @Rapid_API for more exclusive content. \ud83d\udc19\ud83d\udc99",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610126355185664001",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T04:10:20.000Z"
+        },
+        {
+            "id": 7183,
+            "username": "Rapid_API",
+            "tweet_id": "1610126383576977408",
+            "tweet_text": "7\ufe0f\u20e3 Not considering rate limits and performance\n\nMany APIs have rate limits to prevent overuse and ensure that the API remains performant for all users.\n\nIt's important to consider these rate limits and design integrations around them to avoid issues.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610126355185664001",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T04:10:19.000Z"
+        },
+        {
+            "id": 7184,
+            "username": "Rapid_API",
+            "tweet_id": "1610126379542089729",
+            "tweet_text": "6\ufe0f\u20e3 Not using appropriate data formats\n\nDifferent APIs may accept and return data in different formats.\n\nIt's important to ensure that you are using the appropriate data formats for each API you work with.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610126355185664001",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T04:10:18.000Z"
+        },
+        {
+            "id": 7185,
+            "username": "Rapid_API",
+            "tweet_id": "1610126375540723714",
+            "tweet_text": "5\ufe0f\u20e3 Not considering security\n\nTake the security of your API calls and integrations seriously.\n\nThis includes actions like protecting against malicious attacks and ensuring that sensitive data is handled properly.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610126355185664001",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T04:10:17.000Z"
+        },
+        {
+            "id": 7186,
+            "username": "Rapid_API",
+            "tweet_id": "1610126371518398464",
+            "tweet_text": "4\ufe0f\u20e3 Not using proper authentication and authorization\n\nMany APIs require some form of authentication and authorization to access their resources.\n\nUse the proper methods to ensure that you have the necessary permissions to access the resources.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610126355185664001",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T04:10:16.000Z"
+        },
+        {
+            "id": 7187,
+            "username": "Rapid_API",
+            "tweet_id": "1610126367408152588",
+            "tweet_text": "3\ufe0f\u20e3 Not testing thoroughly\n\nIt's essential to test your API calls and integrations thoroughly to ensure that they are functioning as expected.\n\nThis can help you catch and fix any issues before they become major problems.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610126355185664001",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T04:10:15.000Z"
+        },
+        {
+            "id": 7188,
+            "username": "Rapid_API",
+            "tweet_id": "1610126363209482240",
+            "tweet_text": "2\ufe0f\u20e3 Not handling errors correctly\n\nAPIs can return errors for various reasons, such as exceeded rate limits or invalid requests.\n\nIt's important to handle these errors appropriately, rather than ignoring them or assuming that everything is working as expected.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610126355185664001",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T04:10:14.000Z"
+        },
+        {
+            "id": 7189,
+            "username": "Rapid_API",
+            "tweet_id": "1610126359115829250",
+            "tweet_text": "1\ufe0f\u20e3 Not reading and understanding the documentation\n\nIt's essential to take the time to read and fully understand the API\u2019s documentation before you start working with it.\n\nThis will help you avoid misunderstandings and potential mistakes.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610126355185664001",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T04:10:13.000Z"
+        },
+        {
+            "id": 7190,
+            "username": "Rapid_API",
+            "tweet_id": "1610126355185664001",
+            "tweet_text": "Common pitfalls to avoid when working with APIs.\n\nThread \ud83e\uddf5\ud83d\udc47",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610126355185664001",
+            "tweet_type": "API tips",
+            "created_at": "2023-01-03T04:10:12.000Z"
         }
     ]
 }
