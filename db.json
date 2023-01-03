@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7246
+        "entries": 7248
     },
     "tweets": [
         {
@@ -72462,6 +72462,26 @@
             "tweet_conversation_id": "1610199308976156674",
             "tweet_type": "Others",
             "created_at": "2023-01-03T12:11:04.000Z"
+        },
+        {
+            "id": 7247,
+            "username": "testdrivenio",
+            "tweet_id": "1610272474171846656",
+            "tweet_text": "Deploying Self-Hosted GitLab CI Runners with Docker to DigitalOcean\n\nhttps://t.co/oBNJP8bJEi \n\n#Docker #DevOps @GitLab @DigitalOcean",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610272474171846656",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T13:50:49.000Z"
+        },
+        {
+            "id": 7248,
+            "username": "bascodes",
+            "tweet_id": "1610274861045227520",
+            "tweet_text": "Newsletter time in 2\ufe0f\u20e3 hours!\n\nDon't miss the first issue of 2023\n\ud83d\udd2e Interesting predictions from around the web\n\ud83d\udcc8 Tech Economy\n\ud83e\udd1d Thoughts on the importance of Open Source by @eddiejaoude\n\nSubscribe here: \nhttps://t.co/TdYEGPVZ43",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610274861045227520",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T14:00:18.000Z"
         }
     ]
 }
