@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7249
+        "entries": 7250
     },
     "tweets": [
         {
@@ -72492,6 +72492,16 @@
             "tweet_conversation_id": "1610285838209847299",
             "tweet_type": "Python tips",
             "created_at": "2023-01-03T14:43:56.000Z"
+        },
+        {
+            "id": 7250,
+            "username": "driscollis",
+            "tweet_id": "1610305876031578117",
+            "tweet_text": "How often do you think a newsletter should publish?",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610305876031578117",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T16:03:33.000Z"
         }
     ]
 }
