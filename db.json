@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7276
+        "entries": 7282
     },
     "tweets": [
         {
@@ -72762,6 +72762,66 @@
             "tweet_conversation_id": "1610569131962830849",
             "tweet_type": "Others",
             "created_at": "2023-01-04T09:29:38.000Z"
+        },
+        {
+            "id": 7277,
+            "username": "Rapid_API",
+            "tweet_id": "1610618283744428033",
+            "tweet_text": "We hope you found this thread helpful! Follow us @Rapid_API for more of our exclusive content. \ud83d\udc19",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610618263821484033",
+            "tweet_type": "Others",
+            "created_at": "2023-01-04T12:44:57.000Z"
+        },
+        {
+            "id": 7278,
+            "username": "Rapid_API",
+            "tweet_id": "1610618279776714752",
+            "tweet_text": "\ud83d\udccc ETag\n\nETag has the same purpose as Last-Modified, but it uses content instead of time to determine if a resource has changed.\n\nIt sends a token to the server. If the server returns the same token, the resource hasn't changed.\n\nFor example, `ETag: \"1456jdgytn730dee\"`.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610618263821484033",
+            "tweet_type": "Others",
+            "created_at": "2023-01-04T12:44:56.000Z"
+        },
+        {
+            "id": 7279,
+            "username": "Rapid_API",
+            "tweet_id": "1610618275750100993",
+            "tweet_text": "\ud83d\udccc Last-Modified\n\nIt indicates the last time the resource was changed. \n\nWe can use it to determine if a resource has changed which means the cache is expired and should be fetched again.\n\nFor example, `Last-Modified: Wed, 23 Jun 2022 01:12:22 GMT`.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610618263821484033",
+            "tweet_type": "Others",
+            "created_at": "2023-01-04T12:44:55.000Z"
+        },
+        {
+            "id": 7280,
+            "username": "Rapid_API",
+            "tweet_id": "1610618271769690116",
+            "tweet_text": "Several directives under Cache-Control define the exact caching conditions of a resource. These include:\n\n1\ufe0f\u20e3 max-age\n2\ufe0f\u20e3 private and public\n3\ufe0f\u20e3 no-store and no-cache\n4\ufe0f\u20e3 must-revalidate",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610618263821484033",
+            "tweet_type": "Others",
+            "created_at": "2023-01-04T12:44:54.000Z"
+        },
+        {
+            "id": 7281,
+            "username": "Rapid_API",
+            "tweet_id": "1610618267743158272",
+            "tweet_text": "\ud83d\udccc Cache-Control\n\nThe Cache-Control header is used to define a resource\u2019s cache policy.\n\nIt specifies how and for how long the browser should cache the response.\n\nFor example, `Cache-Control: max-age=1800` means the cache will expire after 30 minutes.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610618263821484033",
+            "tweet_type": "Others",
+            "created_at": "2023-01-04T12:44:53.000Z"
+        },
+        {
+            "id": 7282,
+            "username": "Rapid_API",
+            "tweet_id": "1610618263821484033",
+            "tweet_text": "HTTP headers that control resource caching.\n\n- Cache-Control\n- Last-Modified\n- ETag\n\nA thread \ud83e\uddf5\ud83d\udc47",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610618263821484033",
+            "tweet_type": "API tips",
+            "created_at": "2023-01-04T12:44:52.000Z"
         }
     ]
 }
