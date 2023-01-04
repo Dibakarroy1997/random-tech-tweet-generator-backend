@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7294
+        "entries": 7295
     },
     "tweets": [
         {
@@ -72942,6 +72942,16 @@
             "tweet_conversation_id": "1610709401706414100",
             "tweet_type": "Python tips",
             "created_at": "2023-01-04T18:47:01.000Z"
+        },
+        {
+            "id": 7295,
+            "username": "linuxopsys",
+            "tweet_id": "1610750431231356929",
+            "tweet_text": "continue to follow us @linuxopsys to be a better informed Linux user\ud83d\udc27\ud83d\ude0e",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610569131962830849",
+            "tweet_type": "Others",
+            "created_at": "2023-01-04T21:30:03.000Z"
         }
     ]
 }
