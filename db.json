@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7283
+        "entries": 7292
     },
     "tweets": [
         {
@@ -72832,6 +72832,96 @@
             "tweet_conversation_id": "1610653034626834432",
             "tweet_type": "Python tips",
             "created_at": "2023-01-04T15:03:02.000Z"
+        },
+        {
+            "id": 7284,
+            "username": "alexxubyte",
+            "tweet_id": "1610678762903064581",
+            "tweet_text": "/7 I hope you've found this thread helpful.\n\nFollow me @alexxubyte for more.\n\nLike/Retweet the first tweet below if you can: https://t.co/XGFwLvhAGW",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610678713087295490",
+            "tweet_type": "Systems Design",
+            "created_at": "2023-01-04T16:45:16.000Z"
+        },
+        {
+            "id": 7285,
+            "username": "alexxubyte",
+            "tweet_id": "1610678760306769922",
+            "tweet_text": "/6 \ud835\udc12\ud835\udc2e\ud835\udc1b\ud835\udc2c\ud835\udc1c\ud835\udc2b\ud835\udc22\ud835\udc1b\ud835\udc1e \ud835\udc2d\ud835\udc28 \ud835\udc28\ud835\udc2e\ud835\udc2b \ud835\udc30\ud835\udc1e\ud835\udc1e\ud835\udc24\ud835\udc25\ud835\udc32 \ud835\udc27\ud835\udc1e\ud835\udc30\ud835\udc2c\ud835\udc25\ud835\udc1e\ud835\udc2d\ud835\udc2d\ud835\udc1e\ud835\udc2b to learn something new every week:\n\nhttps://t.co/dkjDPxaQMt",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610678713087295490",
+            "tweet_type": "Systems Design",
+            "created_at": "2023-01-04T16:45:16.000Z"
+        },
+        {
+            "id": 7286,
+            "username": "alexxubyte",
+            "tweet_id": "1610678757735694337",
+            "tweet_text": "/5 \ud83d\udc49 Over to you: Have you used Redis for other use cases? What are they?",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610678713087295490",
+            "tweet_type": "Systems Design",
+            "created_at": "2023-01-04T16:45:15.000Z"
+        },
+        {
+            "id": 7287,
+            "username": "alexxubyte",
+            "tweet_id": "1610678753688186881",
+            "tweet_text": "/4 \ud83d\udd39Calculate user retention\nWe can use Bitmap to represent the user login daily and calculate user retention.\n\n\ud83d\udd39Message queue\nWe can use List for a message queue.\n\n\ud83d\udd39Ranking\nWe can use ZSet to sort the articles. https://t.co/PgqPXsZ4FI",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlpHyOGaAAcBMq0.jpg\"]",
+            "tweet_conversation_id": "1610678713087295490",
+            "tweet_type": "Systems Design",
+            "created_at": "2023-01-04T16:45:14.000Z"
+        },
+        {
+            "id": 7288,
+            "username": "alexxubyte",
+            "tweet_id": "1610678739884724228",
+            "tweet_text": "/3 \ud83d\udd39Counter\nWe can count how many likes or how many reads for articles\n\n\ud83d\udd39Rate limiter\nWe can apply a rate limit for specific user IPs\n\n\ud83d\udd39Global ID generator\nWe can use Redis Int for global ID\n\n\ud83d\udd39Shopping cart\nWe can use Redis Hash to represent key-value pairs in a shopping cart https://t.co/iPfHoco4mw",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlpHxYWacAApqk2.jpg\"]",
+            "tweet_conversation_id": "1610678713087295490",
+            "tweet_type": "Systems Design",
+            "created_at": "2023-01-04T16:45:11.000Z"
+        },
+        {
+            "id": 7289,
+            "username": "alexxubyte",
+            "tweet_id": "1610678726395850753",
+            "tweet_text": "/2 \ud83d\udd39Session\nWe can use Redis to share user session data among different services.\n\n\ud83d\udd39Cache\nWe can use Redis to cache objects or pages, especially for hotspot data.\n\n\ud83d\udd39Distributed lock\nWe can use a Redis string to acquire locks among distributed services. https://t.co/R90VUFEGMG",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlpHwk1agAEWjoS.jpg\"]",
+            "tweet_conversation_id": "1610678713087295490",
+            "tweet_type": "Systems Design",
+            "created_at": "2023-01-04T16:45:07.000Z"
+        },
+        {
+            "id": 7290,
+            "username": "alexxubyte",
+            "tweet_id": "1610678713087295490",
+            "tweet_text": "/1 How can Redis be used?\n\nThere is more to Redis than just caching.\n\nRedis can be used in various scenarios, as shown in the diagram. https://t.co/nNtvaUYPO4",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlpHwABaMAAi96Z.jpg\"]",
+            "tweet_conversation_id": "1610678713087295490",
+            "tweet_type": "Systems Design",
+            "created_at": "2023-01-04T16:45:04.000Z"
+        },
+        {
+            "id": 7291,
+            "username": "bascodes",
+            "tweet_id": "1610674161055109120",
+            "tweet_text": "Here is mine \ud83d\udc47\nhttps://t.co/cklfW0jdKi",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610674156697227264",
+            "tweet_type": "Others",
+            "created_at": "2023-01-04T16:26:59.000Z"
+        },
+        {
+            "id": 7292,
+            "username": "bascodes",
+            "tweet_id": "1610674156697227264",
+            "tweet_text": "Drop your LinkedIn profile below, and let's connect! https://t.co/22EadMF7F3",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlpDm5hXkAEgI43.jpg\"]",
+            "tweet_conversation_id": "1610674156697227264",
+            "tweet_type": "Others",
+            "created_at": "2023-01-04T16:26:58.000Z"
         }
     ]
 }
