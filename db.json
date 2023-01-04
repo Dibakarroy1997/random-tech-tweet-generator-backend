@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7256
+        "entries": 7266
     },
     "tweets": [
         {
@@ -72562,6 +72562,106 @@
             "tweet_conversation_id": "1610419319216934913",
             "tweet_type": "Others",
             "created_at": "2023-01-03T23:34:20.000Z"
+        },
+        {
+            "id": 7257,
+            "username": "Rapid_API",
+            "tweet_id": "1610448957137735680",
+            "tweet_text": "Thanks for reading!\n\nFollow us @Rapid_API for more exclusive content. \ud83d\udc19\ud83d\udc99",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610448920873689089",
+            "tweet_type": "Others",
+            "created_at": "2023-01-04T01:32:06.000Z"
+        },
+        {
+            "id": 7258,
+            "username": "Rapid_API",
+            "tweet_id": "1610448953081724928",
+            "tweet_text": "8\ufe0f\u20e3 Mock your API\n\nConsider using a mock API server to simulate API responses and test client behavior without relying on a live API.\n\nGive this guide a read to understand more about mock APIs.\n\nhttps://t.co/ZjOeRK8t0N",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610448920873689089",
+            "tweet_type": "Others",
+            "created_at": "2023-01-04T01:32:05.000Z"
+        },
+        {
+            "id": 7259,
+            "username": "Rapid_API",
+            "tweet_id": "1610448949109735427",
+            "tweet_text": "7\ufe0f\u20e3 Set up versioning\n\nUse versioning to ensure that changes to your API do not break existing clients.\n\nKeep supporting the older version until the testing and debugging is complete.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610448920873689089",
+            "tweet_type": "Others",
+            "created_at": "2023-01-04T01:32:04.000Z"
+        },
+        {
+            "id": 7260,
+            "username": "Rapid_API",
+            "tweet_id": "1610448945125130240",
+            "tweet_text": "6\ufe0f\u20e3 Use debugging tools\n\nDebugging tools can help identify and fix issues in your API\u2019s code.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610448920873689089",
+            "tweet_type": "Others",
+            "created_at": "2023-01-04T01:32:03.000Z"
+        },
+        {
+            "id": 7261,
+            "username": "Rapid_API",
+            "tweet_id": "1610448941123878912",
+            "tweet_text": "5\ufe0f\u20e3 Set up alerts\n\nThis is related to the previous recommendation.\n\nSet up alerts or notifications to notify you of any errors or issues with your API.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610448920873689089",
+            "tweet_type": "Others",
+            "created_at": "2023-01-04T01:32:02.000Z"
+        },
+        {
+            "id": 7262,
+            "username": "Rapid_API",
+            "tweet_id": "1610448937139175425",
+            "tweet_text": "4\ufe0f\u20e3 Use logging\n\nAlways use logging to track API requests and responses.\n\nIt can help you identify any issues that may arise in the API.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610448920873689089",
+            "tweet_type": "Others",
+            "created_at": "2023-01-04T01:32:01.000Z"
+        },
+        {
+            "id": 7263,
+            "username": "Rapid_API",
+            "tweet_id": "1610448932999512064",
+            "tweet_text": "3\ufe0f\u20e3 Write automated tests\n\nAutomating your tests will ensure the validity of your API.\n\nAutomate tests with various input values, edge cases, and invalid input to ensure it handles all possible scenarios.\n\nLearn about automated testing in this guide:\n\nhttps://t.co/94suj7FzAt",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610448920873689089",
+            "tweet_type": "Others",
+            "created_at": "2023-01-04T01:32:00.000Z"
+        },
+        {
+            "id": 7264,
+            "username": "Rapid_API",
+            "tweet_id": "1610448928909967363",
+            "tweet_text": "2\ufe0f\u20e3 Set up a testing environment\n\nSet up a testing environment separate from your production environment, so you can test API changes without affecting live data.\n\nIt can be a staging server, or you can use a different environment file to connect to a test database.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610448920873689089",
+            "tweet_type": "Others",
+            "created_at": "2023-01-04T01:32:00.000Z"
+        },
+        {
+            "id": 7265,
+            "username": "Rapid_API",
+            "tweet_id": "1610448924875132928",
+            "tweet_text": "1\ufe0f\u20e3 Test responses\n\nUse a testing tool like Rapid VSCode Client or Rapid Studio to make API requests and test the responses.\n\nProper testing tools help you determine whether the API is working as expected.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610448920873689089",
+            "tweet_type": "Others",
+            "created_at": "2023-01-04T01:31:59.000Z"
+        },
+        {
+            "id": 7266,
+            "username": "Rapid_API",
+            "tweet_id": "1610448920873689089",
+            "tweet_text": "Top tips for testing and debugging APIs.\n\n- Test responses\n- Set up a testing environment\n- Write automated tests\n- Use logging\n- Set up alerts\n- Use debugging tools\n- Set up versioning\n- Mock your API\n\nThread \ud83e\uddf5\ud83d\udc47",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610448920873689089",
+            "tweet_type": "API tips",
+            "created_at": "2023-01-04T01:31:58.000Z"
         }
     ]
 }
