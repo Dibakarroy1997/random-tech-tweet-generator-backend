@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7275
+        "entries": 7276
     },
     "tweets": [
         {
@@ -72752,6 +72752,16 @@
             "tweet_conversation_id": "1610493477812588545",
             "tweet_type": "Others",
             "created_at": "2023-01-04T04:29:01.000Z"
+        },
+        {
+            "id": 7276,
+            "username": "linuxopsys",
+            "tweet_id": "1610569131962830849",
+            "tweet_text": "The grep comand is one of the most important command in Linux.\n\nIt allows you to look for a specific word or string in  files.\n\nIn this comprehensive guide, you will learn how to use grep in a variety of ways.\nhttps://t.co/FPzC3RKSve",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610569131962830849",
+            "tweet_type": "Others",
+            "created_at": "2023-01-04T09:29:38.000Z"
         }
     ]
 }
