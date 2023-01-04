@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7266
+        "entries": 7275
     },
     "tweets": [
         {
@@ -72662,6 +72662,96 @@
             "tweet_conversation_id": "1610448920873689089",
             "tweet_type": "API tips",
             "created_at": "2023-01-04T01:31:58.000Z"
+        },
+        {
+            "id": 7267,
+            "username": "vikasrajputin",
+            "tweet_id": "1610493499970920450",
+            "tweet_text": "That's a wrap!\n\nI help people get started with Backend Development.\n\nFollow me @vikasrajputin for more.\n\nIf you find this thread helpful then Like/Retweet the first tweet below: https://t.co/nPw5p3Ht6T",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610493477812588545",
+            "tweet_type": "Backend Tips",
+            "created_at": "2023-01-04T04:29:06.000Z"
+        },
+        {
+            "id": 7268,
+            "username": "vikasrajputin",
+            "tweet_id": "1610493497123172352",
+            "tweet_text": "Note:\n\nSimply watching the videos won't help you much, it is the first step.\n\nThen comes the step to build some projects on it and implement your learnings.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610493477812588545",
+            "tweet_type": "Others",
+            "created_at": "2023-01-04T04:29:05.000Z"
+        },
+        {
+            "id": 7269,
+            "username": "vikasrajputin",
+            "tweet_id": "1610493494438793217",
+            "tweet_text": "6. SQL For Beginners Tutorial\n\nIf you're organization/client uses Postgres then this detailed course can explain to you all the important topics with great examples\n\nDuration - 4:22 hrs\nDatabase - Postgres\n\nhttps://t.co/I5jgMUTU98",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610493477812588545",
+            "tweet_type": "Others",
+            "created_at": "2023-01-04T04:29:05.000Z"
+        },
+        {
+            "id": 7270,
+            "username": "vikasrajputin",
+            "tweet_id": "1610493491578294274",
+            "tweet_text": "5. SQL in 60 mins\n\nShortest of all courses, this can be considered as a crash course in SQL and covers all topics needed to get started with SQL\n\nDuration - 56 mins\nDatabase - MySQL\n\nhttps://t.co/WPiKlhTaLX",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610493477812588545",
+            "tweet_type": "Others",
+            "created_at": "2023-01-04T04:29:04.000Z"
+        },
+        {
+            "id": 7271,
+            "username": "vikasrajputin",
+            "tweet_id": "1610493488797462534",
+            "tweet_text": "4. SQL Full Course\n\nLess detailed as compared to the previous one but covers all the important topics needed to be an expert in SQL.\n\nDuration - 4:07 hrs\nDatabase - MS SQL Server\n\nhttps://t.co/kLWyJ0WyQM",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610493477812588545",
+            "tweet_type": "Others",
+            "created_at": "2023-01-04T04:29:03.000Z"
+        },
+        {
+            "id": 7272,
+            "username": "vikasrajputin",
+            "tweet_id": "1610493485970501632",
+            "tweet_text": "3. SQL Tutorial for Beginner\n\nLive SQL workshop and the most detailed one where the trainer has explained lots of advanced concepts in detail and very useful for DBAs\n\nDuration - 5:17 hrs\nDatabase - MS SQL Server\n\nhttps://t.co/Nz0CWAzrU0",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610493477812588545",
+            "tweet_type": "Others",
+            "created_at": "2023-01-04T04:29:03.000Z"
+        },
+        {
+            "id": 7273,
+            "username": "vikasrajputin",
+            "tweet_id": "1610493483114201089",
+            "tweet_text": "2. MySQL Tutorial for Beginner Full course\n\nAnother great video where SQL is explained from scratch this course is using some pretty simple examples and beginner friendly\n\nDuration - 3:10 hrs\nDatabase Used - MySQL\n\nhttps://t.co/6LFeSCIzKH",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610493477812588545",
+            "tweet_type": "Others",
+            "created_at": "2023-01-04T04:29:02.000Z"
+        },
+        {
+            "id": 7274,
+            "username": "vikasrajputin",
+            "tweet_id": "1610493480408866816",
+            "tweet_text": "1. SQL Tutorial - Full Course for Beginner\n\nProbably the most popular SQL course on youtube, starting from scratch to explaining advanced topics it is a must-watch.\n\nDuration - 4:20 hrs\nDatabase Used in Tutorial - MySQL\n\nhttps://t.co/pWKuaodKsp",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610493477812588545",
+            "tweet_type": "Others",
+            "created_at": "2023-01-04T04:29:01.000Z"
+        },
+        {
+            "id": 7275,
+            "username": "vikasrajputin",
+            "tweet_id": "1610493477812588545",
+            "tweet_text": "If you want to master SQL, then start with these youtube videos:",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610493477812588545",
+            "tweet_type": "Others",
+            "created_at": "2023-01-04T04:29:01.000Z"
         }
     ]
 }
