@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7292
+        "entries": 7293
     },
     "tweets": [
         {
@@ -72922,6 +72922,16 @@
             "tweet_conversation_id": "1610674156697227264",
             "tweet_type": "Others",
             "created_at": "2023-01-04T16:26:58.000Z"
+        },
+        {
+            "id": 7293,
+            "username": "testdrivenio",
+            "tweet_id": "1610697579741999105",
+            "tweet_text": "Python tip:\n\nSince Python 3.9, you can use the union operator (|) to merge/update dictionaries in Python.\n\nCareful, duplicate keys will cause a loss of values. https://t.co/MfEvHAGQMY",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlpY6N7aMAEkTaU.png\"]",
+            "tweet_conversation_id": "1610697579741999105",
+            "tweet_type": "Python tips",
+            "created_at": "2023-01-04T18:00:02.000Z"
         }
     ]
 }
