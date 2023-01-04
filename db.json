@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7254
+        "entries": 7256
     },
     "tweets": [
         {
@@ -72542,6 +72542,26 @@
             "tweet_conversation_id": "1610374056347328514",
             "tweet_type": "Python tips",
             "created_at": "2023-01-03T20:34:28.000Z"
+        },
+        {
+            "id": 7255,
+            "username": "alexxubyte",
+            "tweet_id": "1610419320395542530",
+            "tweet_text": "2/2 Link: https://t.co/4V5wyoH2uR https://t.co/3XvQn13qvn",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FllbtYSacAE-b63.jpg\"]",
+            "tweet_conversation_id": "1610419319216934913",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T23:34:20.000Z"
+        },
+        {
+            "id": 7256,
+            "username": "alexxubyte",
+            "tweet_id": "1610419319216934913",
+            "tweet_text": "1/2 Interesting blog post by @scgupta detailing the cloud deployment landscape. https://t.co/mvaZdeivzO",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Flla24aaEAA998-.jpg\"]",
+            "tweet_conversation_id": "1610419319216934913",
+            "tweet_type": "Others",
+            "created_at": "2023-01-03T23:34:20.000Z"
         }
     ]
 }
