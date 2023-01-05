@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7332
+        "entries": 7348
     },
     "tweets": [
         {
@@ -73322,6 +73322,166 @@
             "tweet_conversation_id": "1611051647777574917",
             "tweet_type": "Python tips",
             "created_at": "2023-01-05T17:26:59.000Z"
+        },
+        {
+            "id": 7333,
+            "username": "bascodes",
+            "tweet_id": "1611100904564101122",
+            "tweet_text": "I've submitted my proposals for @PyConDE\n\ud83d\ude4f",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611100904564101122",
+            "tweet_type": "Others",
+            "created_at": "2023-01-05T20:42:43.000Z"
+        },
+        {
+            "id": 7334,
+            "username": "Rapid_API",
+            "tweet_id": "1611097772500852736",
+            "tweet_text": "That\u2019s all for now!\n\nFollow @Rapid_API for more exclusive content. \ud83d\udc19",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611097723532447746",
+            "tweet_type": "Others",
+            "created_at": "2023-01-05T20:30:16.000Z"
+        },
+        {
+            "id": 7335,
+            "username": "Rapid_API",
+            "tweet_id": "1611097768302346240",
+            "tweet_text": "\ud83d\udccc Document your API\n\nDocumentation is vital to communicate to other developers how to use your API and all of its features.\n\nAPI docs should contain info on your API\u2019s endpoints, code snippet examples in various programming languages, tutorials, debugging info, and more.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611097723532447746",
+            "tweet_type": "Others",
+            "created_at": "2023-01-05T20:30:15.000Z"
+        },
+        {
+            "id": 7336,
+            "username": "Rapid_API",
+            "tweet_id": "1611097764213014530",
+            "tweet_text": "\ud83d\udccc Versioning\n\nVersioning provides you with a backup if you make breaking changes to your API.\n\nIt also lets you phase out old endpoints and introduce new ones with new features.\n\nThere are various methods of versioning, such as URI path, query parameters, and custom headers.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611097723532447746",
+            "tweet_type": "Others",
+            "created_at": "2023-01-05T20:30:14.000Z"
+        },
+        {
+            "id": 7337,
+            "username": "Rapid_API",
+            "tweet_id": "1611097760119377933",
+            "tweet_text": "\ud83d\udccc Maintain good security practices\n\nAs with any data transfers over the internet, SSL/TLS security certificates are a must if data is to be kept encrypted and safe. \n\nWithout it, data is at risk of being exposed and is susceptible to MITM (Man-in-the-middle) attacks, and more.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611097723532447746",
+            "tweet_type": "Others",
+            "created_at": "2023-01-05T20:30:13.000Z"
+        },
+        {
+            "id": 7338,
+            "username": "Rapid_API",
+            "tweet_id": "1611097756059291660",
+            "tweet_text": "\ud83d\udccc Use status codes in error handling\n\nHTTP status codes convey information about the result of a client\u2019s request. This assists developers and users with debugging.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611097723532447746",
+            "tweet_type": "Others",
+            "created_at": "2023-01-05T20:30:12.000Z"
+        },
+        {
+            "id": 7339,
+            "username": "Rapid_API",
+            "tweet_id": "1611097752032759813",
+            "tweet_text": "\ud83d\udccc Use caching\n\nUsing Cache-Control headers will allow users to make effective use of cached data.\n\nCaching allows users to access data faster because it is stored locally, meaning another request to the server to retrieve it is not needed.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611097723532447746",
+            "tweet_type": "Others",
+            "created_at": "2023-01-05T20:30:11.000Z"
+        },
+        {
+            "id": 7340,
+            "username": "Rapid_API",
+            "tweet_id": "1611097747955896337",
+            "tweet_text": "\ud83d\udccc Implement timeouts\n\nTimeouts cause a request to fail after a specified amount of time.\n\nThis is useful when there is a network issue, and the request cannot be completed, or a user sends too much data.\n\nThis connection is closed instead of remaining open.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611097723532447746",
+            "tweet_type": "Others",
+            "created_at": "2023-01-05T20:30:10.000Z"
+        },
+        {
+            "id": 7341,
+            "username": "Rapid_API",
+            "tweet_id": "1611097743900004360",
+            "tweet_text": "\ud83d\udccc Use resource nesting\n\nApplying logical resource nesting is important to construct a hierarchy of your resources. For example:\n\nexample. com / blogs / blogId / blogAuthor\n\nKeep in mind that deeper resource nesting (more than 3 levels) should be avoided.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611097723532447746",
+            "tweet_type": "Others",
+            "created_at": "2023-01-05T20:30:09.000Z"
+        },
+        {
+            "id": 7342,
+            "username": "Rapid_API",
+            "tweet_id": "1611097739860779016",
+            "tweet_text": "\ud83d\udccc Use plural nouns for resource collections\n\nBe precise about naming data collections by using plurals. \n\nFor example, a collection of users should be \u2018/users\u2019 and never \u2018/user\u2019.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611097723532447746",
+            "tweet_type": "Others",
+            "created_at": "2023-01-05T20:30:08.000Z"
+        },
+        {
+            "id": 7343,
+            "username": "Rapid_API",
+            "tweet_id": "1611097735767130112",
+            "tweet_text": "\ud83d\udccc Do not use verbs in endpoint names\n\nEndpoint paths should always be named in reference to the entity they represent, not the action being carried out. The HTTP method is sufficient to describe the action. For example:\n\n\u274c POST / createArticle\n\n\u2705 POST / article",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611097723532447746",
+            "tweet_type": "Others",
+            "created_at": "2023-01-05T20:30:07.000Z"
+        },
+        {
+            "id": 7344,
+            "username": "Rapid_API",
+            "tweet_id": "1611097731732328459",
+            "tweet_text": "\ud83d\udccc Use JSON\n\nJSON is the standard format for transferring data. JavaScript has built-in methods to parse JSON quickly, and it is supported in almost all programming languages.\n\nFor simplicity, APIs should accept JSON payloads, and endpoints should return JSON as a response.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611097723532447746",
+            "tweet_type": "Others",
+            "created_at": "2023-01-05T20:30:06.000Z"
+        },
+        {
+            "id": 7345,
+            "username": "Rapid_API",
+            "tweet_id": "1611097727609327617",
+            "tweet_text": "\ud83d\udccc Pagination and filtering\n\nSome endpoints may return substantial amounts of data that slow down a system.\n\nPagination and filtering avoid this by returning only a certain number of results at a time. This improves performance and reduces the usage of server resources.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611097723532447746",
+            "tweet_type": "Others",
+            "created_at": "2023-01-05T20:30:05.000Z"
+        },
+        {
+            "id": 7346,
+            "username": "Rapid_API",
+            "tweet_id": "1611097723532447746",
+            "tweet_text": "API development best practices that you should follow.\n\nA thread \ud83e\uddf5\ud83d\udc47",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611097723532447746",
+            "tweet_type": "API tips",
+            "created_at": "2023-01-05T20:30:04.000Z"
+        },
+        {
+            "id": 7347,
+            "username": "driscollis",
+            "tweet_id": "1611095141321789462",
+            "tweet_text": "Does anyone know if there are any good web game toolkits for #Python?\n\nIf not, what is your favorite way to make an online game?",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611095141321789462",
+            "tweet_type": "Python tips",
+            "created_at": "2023-01-05T20:19:49.000Z"
+        },
+        {
+            "id": 7348,
+            "username": "driscollis",
+            "tweet_id": "1611093841678852117",
+            "tweet_text": "I'm dropping a bonus issue of The Python Papers later this afternoon!\n\nStay tuned! \ud83d\udc0d\ud83d\udcfa\n\nhttps://t.co/P1wMgHBVEu",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611093841678852117",
+            "tweet_type": "Others",
+            "created_at": "2023-01-05T20:14:39.000Z"
         }
     ]
 }
