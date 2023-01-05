@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7349
+        "entries": 7350
     },
     "tweets": [
         {
@@ -73492,6 +73492,16 @@
             "tweet_conversation_id": "1611110848017141765",
             "tweet_type": "Python tips",
             "created_at": "2023-01-05T21:22:13.000Z"
+        },
+        {
+            "id": 7350,
+            "username": "driscollis",
+            "tweet_id": "1611135719728205829",
+            "tweet_text": "The Python Papers -- Bonus Issue: Python News and Over 1000 Subs! https://t.co/VmPR8X4ZjL",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611135719728205829",
+            "tweet_type": "Others",
+            "created_at": "2023-01-05T23:01:03.000Z"
         }
     ]
 }
