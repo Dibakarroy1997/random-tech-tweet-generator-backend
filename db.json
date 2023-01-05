@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7314
+        "entries": 7319
     },
     "tweets": [
         {
@@ -73142,6 +73142,56 @@
             "tweet_conversation_id": "1610836961605853184",
             "tweet_type": "API tips",
             "created_at": "2023-01-05T03:13:54.000Z"
+        },
+        {
+            "id": 7315,
+            "username": "mathsppblog",
+            "tweet_id": "1610957115795050499",
+            "tweet_text": "Did you know this? \ud83d\udc40\n\nWhen using @github, include \u201c[skip ci]\u201d in your commit message if you don't want to trigger CI.\n\nIt can go _anywhere_ in the commit message.\n\nIt can even go in the extended part.\n\nUseful, for example, when working in a draft PR.\n\nThanks @_darrenburns",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610957115795050499",
+            "tweet_type": "Others",
+            "created_at": "2023-01-05T11:11:21.000Z"
+        },
+        {
+            "id": 7316,
+            "username": "linuxopsys",
+            "tweet_id": "1610958011484278786",
+            "tweet_text": "This program may not be installed on your system, so you must first install it using your system package manager, such as in Ubuntu or Debian run: \n\n$ sudo apt install exa \n\nFollow us (@linuxopsys) for more byte sized Linux tips and be a better informed Linux user \ud83d\udc27\ud83d\ude0e",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610958008321806338",
+            "tweet_type": "Others",
+            "created_at": "2023-01-05T11:14:54.000Z"
+        },
+        {
+            "id": 7317,
+            "username": "linuxopsys",
+            "tweet_id": "1610958010825805824",
+            "tweet_text": "It is familiar with symlinks, extended attributes, and Git. It's also small, fast, and only has one binary. Exa attempts to be a more feature-rich, user-friendly version of ls by deliberately making some decisions differently.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610958008321806338",
+            "tweet_type": "Others",
+            "created_at": "2023-01-05T11:14:54.000Z"
+        },
+        {
+            "id": 7318,
+            "username": "linuxopsys",
+            "tweet_id": "1610958009512992769",
+            "tweet_text": "Apart from using lsd, exa is  also another cool replacement for the venerable file-listing command-line program ls that comes with Unix and Linux operating systems, adding features and improving defaults. It uses colors to differentiate between file types and metadata. https://t.co/bJrClEVpRt",
+            "tweet_media": "[\"https://video.twimg.com/ext_tw_video/1610957992861499393/pu/vid/686x656/PBj9olWB5vXFcw7c.mp4?tag=12\"]",
+            "tweet_conversation_id": "1610958008321806338",
+            "tweet_type": "Others",
+            "created_at": "2023-01-05T11:14:54.000Z"
+        },
+        {
+            "id": 7319,
+            "username": "linuxopsys",
+            "tweet_id": "1610958008321806338",
+            "tweet_text": "Linux tip of the day \ud83d\udca1\n\nTry out lsd instead of ls to list files in a directory. This tool is a rewrite of GNU ls command with many new features such as colors, icons, a tree-view, more formatting options, and so on: \n\n$ sudo apt install lsd https://t.co/Yz7CbknpZC",
+            "tweet_media": "[\"https://video.twimg.com/ext_tw_video/1610957993054552066/pu/vid/686x656/Be8emruqRPaYPiaZ.mp4?tag=12\"]",
+            "tweet_conversation_id": "1610958008321806338",
+            "tweet_type": "Linux tips",
+            "created_at": "2023-01-05T11:14:53.000Z"
         }
     ]
 }
