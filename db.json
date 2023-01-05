@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7307
+        "entries": 7314
     },
     "tweets": [
         {
@@ -73072,6 +73072,76 @@
             "tweet_conversation_id": "1610808784296841221",
             "tweet_type": "Others",
             "created_at": "2023-01-05T01:21:56.000Z"
+        },
+        {
+            "id": 7308,
+            "username": "Rapid_API",
+            "tweet_id": "1610836986188685313",
+            "tweet_text": "That\u2019s all for now!\n\nFollow @Rapid_API for more exclusive content. \ud83d\udc19\n\nPlease visit RapidAPI Hub to explore over 40,000 APIs (https://t.co/2tM1EEQGY2)",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610836961605853184",
+            "tweet_type": "Others",
+            "created_at": "2023-01-05T03:14:00.000Z"
+        },
+        {
+            "id": 7309,
+            "username": "Rapid_API",
+            "tweet_id": "1610836982007054336",
+            "tweet_text": "5\ufe0f\u20e3 Realty in CA API\n\nThis API helps to query for residential, commercial listing both for sale and for rent from across Canada to create a real estate site/application.\n\n\ud83d\udd17 https://t.co/sYhTtadAZh",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610836961605853184",
+            "tweet_type": "Others",
+            "created_at": "2023-01-05T03:13:59.000Z"
+        },
+        {
+            "id": 7310,
+            "username": "Rapid_API",
+            "tweet_id": "1610836977879744512",
+            "tweet_text": "4\ufe0f\u20e3 Idealista API\n\nThis API can let you query for rent and sale properties in Spain, Italy, and Portugal.\n\n\ud83d\udd17 https://t.co/GTg2LygYQa",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610836961605853184",
+            "tweet_type": "Others",
+            "created_at": "2023-01-05T03:13:58.000Z"
+        },
+        {
+            "id": 7311,
+            "username": "Rapid_API",
+            "tweet_id": "1610836973782007809",
+            "tweet_text": "3\ufe0f\u20e3 Business Name Generator API\n\nAs the name suggests, this API generates random business names that you can use for your business.\n\n\ud83d\udd17 https://t.co/AjNNJfKyaz",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610836961605853184",
+            "tweet_type": "Others",
+            "created_at": "2023-01-05T03:13:57.000Z"
+        },
+        {
+            "id": 7312,
+            "username": "Rapid_API",
+            "tweet_id": "1610836969642229764",
+            "tweet_text": "2\ufe0f\u20e3 Domainr API\n\nYou can use this API to instantly search for domains, check their statuses, etc.\n\n\ud83d\udd17 https://t.co/MSkbYykToJ",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610836961605853184",
+            "tweet_type": "Others",
+            "created_at": "2023-01-05T03:13:56.000Z"
+        },
+        {
+            "id": 7313,
+            "username": "Rapid_API",
+            "tweet_id": "1610836965556998147",
+            "tweet_text": "1\ufe0f\u20e3 Realty Mole Property\n\nGet instant access to 140+ million property records, owner details, home value and rent estimates, active listings and rental market statistics with the Realty Mole real estate data API. \n\n\ud83d\udd17 https://t.co/DFr8kaEXI6",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610836961605853184",
+            "tweet_type": "Others",
+            "created_at": "2023-01-05T03:13:55.000Z"
+        },
+        {
+            "id": 7314,
+            "username": "Rapid_API",
+            "tweet_id": "1610836961605853184",
+            "tweet_text": "Top 5 free Business APIs that you can use in your next project\n\nThread \ud83e\uddf5\ud83d\udc47",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610836961605853184",
+            "tweet_type": "API tips",
+            "created_at": "2023-01-05T03:13:54.000Z"
         }
     ]
 }
