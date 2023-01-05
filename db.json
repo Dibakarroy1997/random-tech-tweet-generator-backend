@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7295
+        "entries": 7306
     },
     "tweets": [
         {
@@ -72952,6 +72952,116 @@
             "tweet_conversation_id": "1610569131962830849",
             "tweet_type": "Others",
             "created_at": "2023-01-04T21:30:03.000Z"
+        },
+        {
+            "id": 7296,
+            "username": "raymondh",
+            "tweet_id": "1610783729961652227",
+            "tweet_text": "QOTD: \"Living is worthwhile if one can contribute \nin some small way to this endless chain of progress.\"\n\u2014 Paul Dirac",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610783729961652227",
+            "tweet_type": "Others",
+            "created_at": "2023-01-04T23:42:22.000Z"
+        },
+        {
+            "id": 7297,
+            "username": "Rapid_API",
+            "tweet_id": "1610787232075464705",
+            "tweet_text": "Thanks for reading!\n\nFollow us @Rapid_API for more exclusive content. \ud83d\udc19\ud83d\udc99",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610787197891842048",
+            "tweet_type": "Others",
+            "created_at": "2023-01-04T23:56:17.000Z"
+        },
+        {
+            "id": 7298,
+            "username": "Rapid_API",
+            "tweet_id": "1610787226987757572",
+            "tweet_text": "\ud83d\udca1Tip\n\nIf you don't want to create an env file and want to pass the environment variables manually in CLI, you can do so by using the following method: https://t.co/zdJTLP7tXu",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Flqqau8XwAIrZyH.jpg\"]",
+            "tweet_conversation_id": "1610787197891842048",
+            "tweet_type": "Others",
+            "created_at": "2023-01-04T23:56:16.000Z"
+        },
+        {
+            "id": 7299,
+            "username": "Rapid_API",
+            "tweet_id": "1610787222189477893",
+            "tweet_text": "If you want to place your .env file in a different directory, you can pass a path to the config() method. https://t.co/fisqV6cQQF",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlqqaZTWAAABPL-.jpg\"]",
+            "tweet_conversation_id": "1610787197891842048",
+            "tweet_type": "Others",
+            "created_at": "2023-01-04T23:56:15.000Z"
+        },
+        {
+            "id": 7300,
+            "username": "Rapid_API",
+            "tweet_id": "1610787217043034113",
+            "tweet_text": "4\ufe0f\u20e3 Access variables\n\nNow you can access all the variables defined in the env file.\n\nEnvironment variables are part of the process.env object now. https://t.co/Q93Owu9zFg",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlqqZ9aXkAYjA6Z.jpg\"]",
+            "tweet_conversation_id": "1610787197891842048",
+            "tweet_type": "Others",
+            "created_at": "2023-01-04T23:56:14.000Z"
+        },
+        {
+            "id": 7301,
+            "username": "Rapid_API",
+            "tweet_id": "1610787211858821126",
+            "tweet_text": "3\ufe0f\u20e3 Require the package\n\n At the top of your Node.js application, require the \"dotenv\" package and call the config() method: https://t.co/Fckrb7qpYh",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlqqZmWWAAEZjs8.jpg\"]",
+            "tweet_conversation_id": "1610787197891842048",
+            "tweet_type": "Others",
+            "created_at": "2023-01-04T23:56:12.000Z"
+        },
+        {
+            "id": 7302,
+            "username": "Rapid_API",
+            "tweet_id": "1610787206590861315",
+            "tweet_text": "2\ufe0f\u20e3 Create .env file\n\nCreate a .env file in the root directory of your Node.js project. \n\nThis file will contain key-value pairs in the format NAME=VALUE.\n\nOne per line. \n\nFor example: https://t.co/xk50AErINw",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlqqZRBXkAMsqxI.jpg\"]",
+            "tweet_conversation_id": "1610787197891842048",
+            "tweet_type": "Others",
+            "created_at": "2023-01-04T23:56:11.000Z"
+        },
+        {
+            "id": 7303,
+            "username": "Rapid_API",
+            "tweet_id": "1610787201943588867",
+            "tweet_text": "To use a .env file in a Node.js application, you must use the \"dotenv\" package.\n\n1\ufe0f\u20e3 Install the \"dotenv\" package: https://t.co/S3dwZacR4v",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlqqY8PWQAAiUp6.jpg\"]",
+            "tweet_conversation_id": "1610787197891842048",
+            "tweet_type": "Others",
+            "created_at": "2023-01-04T23:56:10.000Z"
+        },
+        {
+            "id": 7304,
+            "username": "Rapid_API",
+            "tweet_id": "1610787197891842048",
+            "tweet_text": "We can use Node.js and Express to build different APIs.\n\nLet\u2019s look at how we can use environment variables in a Node.js app. \n\n- Install the \"dotenv\" package\n- Create .env file\n- Require the package\n- Access variables\n\nThread \ud83d\udc47\ud83e\uddf5",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610787197891842048",
+            "tweet_type": "API tips",
+            "created_at": "2023-01-04T23:56:09.000Z"
+        },
+        {
+            "id": 7305,
+            "username": "linuxopsys",
+            "tweet_id": "1610788199412174851",
+            "tweet_text": "continue to follow us @linuxopsys to be a informed Linux user\ud83d\udc27\ud83d\ude0e",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1610788195318530048",
+            "tweet_type": "Others",
+            "created_at": "2023-01-05T00:00:08.000Z"
+        },
+        {
+            "id": 7306,
+            "username": "linuxopsys",
+            "tweet_id": "1610788195318530048",
+            "tweet_text": "If you're wondering what the best book for learning Linux is, here's one that I always recommend to people who want to get started with Linux and shell scripting in general.\n\nBook title: Linux Command Line and Shell Scripting Bible 3rd or 4th edition. https://t.co/gusHSri26T",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlqrUvUaMAIHr1k.jpg\"]",
+            "tweet_conversation_id": "1610788195318530048",
+            "tweet_type": "Others",
+            "created_at": "2023-01-05T00:00:07.000Z"
         }
     ]
 }
