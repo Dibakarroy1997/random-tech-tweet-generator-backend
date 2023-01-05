@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7325
+        "entries": 7327
     },
     "tweets": [
         {
@@ -73252,6 +73252,26 @@
             "tweet_conversation_id": "1611023588672569345",
             "tweet_type": "Others",
             "created_at": "2023-01-05T15:35:29.000Z"
+        },
+        {
+            "id": 7326,
+            "username": "alexxubyte",
+            "tweet_id": "1611041118233432064",
+            "tweet_text": "2/2 Link to all the Linux commands: https://t.co/inAZHhpsdZ",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611041113112207361",
+            "tweet_type": "Others",
+            "created_at": "2023-01-05T16:45:08.000Z"
+        },
+        {
+            "id": 7327,
+            "username": "alexxubyte",
+            "tweet_id": "1611041113112207361",
+            "tweet_text": "1/2 Linux commands illustrated on one page!\n\n\ud83d\udd39Controlling processes: kill, killall, nice\n\ud83d\udd39Scheduliing jobs: sleep, watch, crontab\n\ud83d\udd39Host location: host, whois, ping\n\ud83d\udd39Many more\n\nSubscribe to our weekly newsletter to learn something new every week: https://t.co/dkjDPxaQMt https://t.co/6Q1Ro49iot",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FluRWFDagAEV8oD.jpg\"]",
+            "tweet_conversation_id": "1611041113112207361",
+            "tweet_type": "Others",
+            "created_at": "2023-01-05T16:45:07.000Z"
         }
     ]
 }
