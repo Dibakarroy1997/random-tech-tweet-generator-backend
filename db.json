@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7388
+        "entries": 7389
     },
     "tweets": [
         {
@@ -73882,6 +73882,16 @@
             "tweet_conversation_id": "1611381613635436544",
             "tweet_type": "Others",
             "created_at": "2023-01-06T15:18:09.000Z"
+        },
+        {
+            "id": 7389,
+            "username": "testdrivenio",
+            "tweet_id": "1611422350532300801",
+            "tweet_text": "Python tip:\n\nYou can use max and min function to find maximal and minimal value in an iterable.\nIn dictionaries, max/min is searched among the keys. https://t.co/uXrAMrtuiZ",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlzsFgNaAAEV14w.png\"]",
+            "tweet_conversation_id": "1611422350532300801",
+            "tweet_type": "Python tips",
+            "created_at": "2023-01-06T18:00:01.000Z"
         }
     ]
 }
