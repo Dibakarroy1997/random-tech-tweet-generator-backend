@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7350
+        "entries": 7357
     },
     "tweets": [
         {
@@ -73502,6 +73502,76 @@
             "tweet_conversation_id": "1611135719728205829",
             "tweet_type": "Others",
             "created_at": "2023-01-05T23:01:03.000Z"
+        },
+        {
+            "id": 7351,
+            "username": "Rapid_API",
+            "tweet_id": "1611158093575950336",
+            "tweet_text": "Thanks for reading! \n\nFollow @Rapid_API for more exclusive content\ud83d\udc19\n\nVisit RapidAPI Hub to play around with over 40,000 APIs (https://t.co/2tM1EEQGY2)",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611158069093728256",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T00:29:58.000Z"
+        },
+        {
+            "id": 7352,
+            "username": "Rapid_API",
+            "tweet_id": "1611158089356525568",
+            "tweet_text": "5\ufe0f\u20e3 Binance API\n\nProvides cryptocurrency charts and prices. Free access to current Bitcoin data and thousands of altcoins.\n\nhttps://t.co/0NKVif8HK2",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611158069093728256",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T00:29:57.000Z"
+        },
+        {
+            "id": 7353,
+            "username": "Rapid_API",
+            "tweet_id": "1611158085111873536",
+            "tweet_text": "4\ufe0f\u20e3 Quotient\n\nMarket data API for end-of-day data, crypto, forex, live prices, fundamental data, trading signal, and much more, on various assets (Stocks, ETFs, Funds, Indices, Forex, Cryptocurrencies, etc), on worldwide stock exchanges.\n\nhttps://t.co/cUpRzp210i",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611158069093728256",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T00:29:56.000Z"
+        },
+        {
+            "id": 7354,
+            "username": "Rapid_API",
+            "tweet_id": "1611158080959520769",
+            "tweet_text": "3\ufe0f\u20e3 Currency Converter API\n\nConvert currencies using the latest exchange rates.\n\nhttps://t.co/LxyxsmugMV",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611158069093728256",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T00:29:55.000Z"
+        },
+        {
+            "id": 7355,
+            "username": "Rapid_API",
+            "tweet_id": "1611158076987408386",
+            "tweet_text": "2\ufe0f\u20e3 Twelve Data API\n\nReal-time and historical financial data of forex, stock, crypto, indicies and more.\n\nhttps://t.co/OOSKyjGXWi",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611158069093728256",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T00:29:54.000Z"
+        },
+        {
+            "id": 7356,
+            "username": "Rapid_API",
+            "tweet_id": "1611158073044860928",
+            "tweet_text": "1\ufe0f\u20e3 Alpha Vantage API\n\nReceive stock, ETF, forex, technical indicators, and cryptocurrency data.\n\nhttps://t.co/Ybjh0VMccm",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611158069093728256",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T00:29:53.000Z"
+        },
+        {
+            "id": 7357,
+            "username": "Rapid_API",
+            "tweet_id": "1611158069093728256",
+            "tweet_text": "Top 5 finance APIs that you can easily use for your next project.\n\nA thread \ud83e\uddf5\ud83d\udc47",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611158069093728256",
+            "tweet_type": "API tips",
+            "created_at": "2023-01-06T00:29:52.000Z"
         }
     ]
 }
