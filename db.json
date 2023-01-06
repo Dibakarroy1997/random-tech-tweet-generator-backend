@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7372
+        "entries": 7385
     },
     "tweets": [
         {
@@ -73722,6 +73722,136 @@
             "tweet_conversation_id": "1611328848221569025",
             "tweet_type": "Others",
             "created_at": "2023-01-06T11:48:29.000Z"
+        },
+        {
+            "id": 7373,
+            "username": "Rapid_API",
+            "tweet_id": "1611361747985747970",
+            "tweet_text": "Thanks for reading! \ud83d\udc19\n\nFollow @Rapid_API for more exclusive content.\n\nVisit RapidAPI Hub (https://t.co/2tM1EEQGY2) to explore more than 40,000 APIs using just one API key.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611361712082485249",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T13:59:13.000Z"
+        },
+        {
+            "id": 7374,
+            "username": "Rapid_API",
+            "tweet_id": "1611361742939889665",
+            "tweet_text": "{ 7 / 7 } https://t.co/BBjlaTj3Av",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fly075fXkAAbuZQ.jpg\"]",
+            "tweet_conversation_id": "1611361712082485249",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T13:59:11.000Z"
+        },
+        {
+            "id": 7375,
+            "username": "Rapid_API",
+            "tweet_id": "1611361737713778691",
+            "tweet_text": "{ 6 / 7 } https://t.co/TXrO8Od6yt",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fly07kYX0AAPd5j.jpg\"]",
+            "tweet_conversation_id": "1611361712082485249",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T13:59:10.000Z"
+        },
+        {
+            "id": 7376,
+            "username": "Rapid_API",
+            "tweet_id": "1611361732680638464",
+            "tweet_text": "{ 5 / 7 } https://t.co/L3ksnCXpe7",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fly07RtXEAAngsB.jpg\"]",
+            "tweet_conversation_id": "1611361712082485249",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T13:59:09.000Z"
+        },
+        {
+            "id": 7377,
+            "username": "Rapid_API",
+            "tweet_id": "1611361727504949248",
+            "tweet_text": "{ 4 / 7 } https://t.co/KyGX8mTtvm",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fly06-6XoAEVCFS.jpg\"]",
+            "tweet_conversation_id": "1611361712082485249",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T13:59:08.000Z"
+        },
+        {
+            "id": 7378,
+            "username": "Rapid_API",
+            "tweet_id": "1611361722517921798",
+            "tweet_text": "{ 3 / 7 } https://t.co/5NM07xizXh",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fly06s_XwAIi_sp.jpg\"]",
+            "tweet_conversation_id": "1611361712082485249",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T13:59:06.000Z"
+        },
+        {
+            "id": 7379,
+            "username": "Rapid_API",
+            "tweet_id": "1611361717455392775",
+            "tweet_text": "{ 2 / 7 } https://t.co/UEejbyTUBZ",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fly06dCXwAEeUN0.jpg\"]",
+            "tweet_conversation_id": "1611361712082485249",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T13:59:05.000Z"
+        },
+        {
+            "id": 7380,
+            "username": "Rapid_API",
+            "tweet_id": "1611361712082485249",
+            "tweet_text": "Read this week\u2019s Rapid API Comic to learn about HTTP Status Codes!\n\n{ 1 / 7 } https://t.co/sF4Qidfq45",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fly06L4XkAERkAO.jpg\"]",
+            "tweet_conversation_id": "1611361712082485249",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T13:59:04.000Z"
+        },
+        {
+            "id": 7381,
+            "username": "linuxopsys",
+            "tweet_id": "1611358721191428097",
+            "tweet_text": "You can also use the + instead of the ; to indicate the end of the parameter list. There should be a space between the + and the curly braces \"{}\".\n\nFollow us (@linuxopsys) for more byte sized Linux tips and be a better informed Linux user \ud83d\udc27\ud83d\ude0e",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611358717991059456",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T13:47:11.000Z"
+        },
+        {
+            "id": 7382,
+            "username": "linuxopsys",
+            "tweet_id": "1611358720507760640",
+            "tweet_text": "\u2022 {} - The \u201c{}\u201d placeholder represents each filename and must be the last item in the parameter list.\n\n\u2022 ; -  To indicate the end of the parameter list, a semicolon \";\" is used. It must be escaped with a backslash \"\\\" otherwise the shell will interpret it.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611358717991059456",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T13:47:11.000Z"
+        },
+        {
+            "id": 7383,
+            "username": "linuxopsys",
+            "tweet_id": "1611358719824072707",
+            "tweet_text": "A breakdown of the -exec option: \n \n\u2022 exec ls - this tells find to execute the ls command on every filename that matches the search string. \n\u2022 -lah - displays all files, including hidden files, their permissions, and other file metadata, such as sizes, in human readable format.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611358717991059456",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T13:47:11.000Z"
+        },
+        {
+            "id": 7384,
+            "username": "linuxopsys",
+            "tweet_id": "1611358719144599552",
+            "tweet_text": "This is very useful when performing the same action on multiple files in different locations.  \n\nThe above command is an example of listing the permissions and other metadata of every file that the find command finds.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611358717991059456",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T13:47:10.000Z"
+        },
+        {
+            "id": 7385,
+            "username": "linuxopsys",
+            "tweet_id": "1611358717991059456",
+            "tweet_text": "Linux tip of the day \ud83d\udc27\ud83d\ude0e\n \nYou can use the find command's -exec option to call an external program to perform a specific action on the returned files that match specific criteria. For example, deleting files, listing file perms, and so on.\n\n$ find ~/ -type f  -exec ls -lah {} + https://t.co/yzCSrdENaQ",
+            "tweet_media": "[\"https://pbs.twimg.com/media/FlyyNvYX0AAvYcM.png\"]",
+            "tweet_conversation_id": "1611358717991059456",
+            "tweet_type": "Linux tips",
+            "created_at": "2023-01-06T13:47:10.000Z"
         }
     ]
 }
