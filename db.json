@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7359
+        "entries": 7372
     },
     "tweets": [
         {
@@ -73592,6 +73592,136 @@
             "tweet_conversation_id": "1611100904564101122",
             "tweet_type": "Others",
             "created_at": "2023-01-06T10:27:40.000Z"
+        },
+        {
+            "id": 7360,
+            "username": "bascodes",
+            "tweet_id": "1611328897315897345",
+            "tweet_text": "Did you know about my newsletter?\nI share my thoughts on the tech industry each week, along with some insights from other developers.\nSign up here \ud83d\udc47\nhttps://t.co/TdYEGPVZ43",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611328848221569025",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T11:48:40.000Z"
+        },
+        {
+            "id": 7361,
+            "username": "bascodes",
+            "tweet_id": "1611328893293674500",
+            "tweet_text": "termgame \u2013 Terminal-based game engine written in Python\nhttps://t.co/S5irxZShRm",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611328848221569025",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T11:48:39.000Z"
+        },
+        {
+            "id": 7362,
+            "username": "bascodes",
+            "tweet_id": "1611328889187454976",
+            "tweet_text": "csvkit \u2013 A suite of utilities for converting to and working with CSV\nhttps://t.co/wjFAF0x4Kw",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611328848221569025",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T11:48:38.000Z"
+        },
+        {
+            "id": 7363,
+            "username": "bascodes",
+            "tweet_id": "1611328885072830464",
+            "tweet_text": "django-cities \u2013 Countries and cities of the world for Django projects \u2013 by @coderholic\nhttps://t.co/mg1QmIjiA0",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611328848221569025",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T11:48:37.000Z"
+        },
+        {
+            "id": 7364,
+            "username": "bascodes",
+            "tweet_id": "1611328881012740096",
+            "tweet_text": "django-cbv-inspect \u2013 A tool to help inspect Django class-based views \u2013 by @sjbitcode\nhttps://t.co/R1fZRI6bCT",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611328848221569025",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T11:48:36.000Z"
+        },
+        {
+            "id": 7365,
+            "username": "bascodes",
+            "tweet_id": "1611328876885458944",
+            "tweet_text": "pyright \u2013 Static type checker for Python \u2013 by @Microsoft\nhttps://t.co/63oIXqqhNc",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611328848221569025",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T11:48:35.000Z"
+        },
+        {
+            "id": 7366,
+            "username": "bascodes",
+            "tweet_id": "1611328872745689089",
+            "tweet_text": "Top Python libraries of 2022 \u2013 by @dekked_ and @facundolezama\nhttps://t.co/PikFy2x1N0",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611328848221569025",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T11:48:34.000Z"
+        },
+        {
+            "id": 7367,
+            "username": "bascodes",
+            "tweet_id": "1611328868647927808",
+            "tweet_text": "The return of lazy imports for Python\nhttps://t.co/M1QQIlDjS0",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611328848221569025",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T11:48:33.000Z"
+        },
+        {
+            "id": 7368,
+            "username": "bascodes",
+            "tweet_id": "1611328864508076033",
+            "tweet_text": "Deploying Django apps with Github Actions and Django Up \u2013 by @sesh\nhttps://t.co/pDYPM1ODzB",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611328848221569025",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T11:48:32.000Z"
+        },
+        {
+            "id": 7369,
+            "username": "bascodes",
+            "tweet_id": "1611328860401844225",
+            "tweet_text": "Prototype Pollution in Python \u2013 by @abdulrah33mk\nhttps://t.co/h5l4Ydw6ID",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611328848221569025",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T11:48:32.000Z"
+        },
+        {
+            "id": 7370,
+            "username": "bascodes",
+            "tweet_id": "1611328856354340864",
+            "tweet_text": "Underappreciated challenges with Python packaging\nhttps://t.co/HqcuuikbAM",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611328848221569025",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T11:48:31.000Z"
+        },
+        {
+            "id": 7371,
+            "username": "bascodes",
+            "tweet_id": "1611328852361461761",
+            "tweet_text": "+++\nAs always, you can find #ThisWeekInPython\ud83d\udc0d on my blog, too \ud83d\udc47\n+++\nhttps://t.co/XDQ9ZhWZnd",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611328848221569025",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T11:48:30.000Z"
+        },
+        {
+            "id": 7372,
+            "username": "bascodes",
+            "tweet_id": "1611328848221569025",
+            "tweet_text": "This is the 45th issue of #ThisWeekInPython\ud83d\udc0d \u2013 or the 1st one of 2023!\n\nHere are my top picks of Python articles and projects I found last week \ud83d\udc47",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611328848221569025",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T11:48:29.000Z"
         }
     ]
 }
