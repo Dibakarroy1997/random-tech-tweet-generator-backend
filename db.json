@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7405
+        "entries": 7426
     },
     "tweets": [
         {
@@ -74052,6 +74052,216 @@
             "tweet_conversation_id": "1611480072837386253",
             "tweet_type": "Others",
             "created_at": "2023-01-06T21:49:23.000Z"
+        },
+        {
+            "id": 7406,
+            "username": "linuxopsys",
+            "tweet_id": "1611491436695789571",
+            "tweet_text": "From the output, the $ character represents the line endings.\nThat's it!\n\nDid you learn anything new from this thread? If so, please let us know by replying in the comments.\n\nIf you're new here, do toss us a\u00a0\u00a0follow us\u00a0(@linuxopsys)\u00a0for more threads, tips and resources on Linux.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611491418928717826",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T22:34:33.000Z"
+        },
+        {
+            "id": 7407,
+            "username": "linuxopsys",
+            "tweet_id": "1611491435756257281",
+            "tweet_text": "7. Display end of lines characters\n\nBy default, line endings are not visible when displaying the contents of a file or files. If you want to display the invisible line ending character, use the -e option with the cat command: \n\n$ cat -e data.txt https://t.co/bXO59ZQ0zU",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fl0q56vXgAIWcX8.png\"]",
+            "tweet_conversation_id": "1611491418928717826",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T22:34:33.000Z"
+        },
+        {
+            "id": 7408,
+            "username": "linuxopsys",
+            "tweet_id": "1611491434963652609",
+            "tweet_text": "If the file data.txt exists, it will be overwritten. To append the text to an existing file, use the '&gt;&gt;' operator.  \n\n$ cat &gt;&gt; data.txt\n\nThis is useful if you want to write to a file without having to open a full-fledged text editor.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611491418928717826",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T22:34:32.000Z"
+        },
+        {
+            "id": 7409,
+            "username": "linuxopsys",
+            "tweet_id": "1611491434217054210",
+            "tweet_text": "Just like the touch command but cat allows you to have the ability to write text you want to be saved before actually creating a file.  You can omit the text if you want to create an empty file.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611491418928717826",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T22:34:32.000Z"
+        },
+        {
+            "id": 7410,
+            "username": "linuxopsys",
+            "tweet_id": "1611491433206218755",
+            "tweet_text": "6. Create files \n\nTo create files, use the cat command (without the file argument) followed by the redirection operator (&gt;) and the name of the file you want to create. Press Enter, type your text, and then press CRTL+D to save the file.\u00a0 \n\n$ cat &gt; data.txt https://t.co/J6s19tI86A",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fl0q54vXwAAGxxS.png\"]",
+            "tweet_conversation_id": "1611491418928717826",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T22:34:32.000Z"
+        },
+        {
+            "id": 7411,
+            "username": "linuxopsys",
+            "tweet_id": "1611491432220561408",
+            "tweet_text": "5. Distinguish between TABs and Spaces\n\nIf you want to visually distinguish between tabs and spaces, use the -T option in conjunction with the cat command. https://t.co/dgfkQ9mg2L",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fl0q54zXgAYgtAk.png\"]",
+            "tweet_conversation_id": "1611491418928717826",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T22:34:32.000Z"
+        },
+        {
+            "id": 7412,
+            "username": "linuxopsys",
+            "tweet_id": "1611491431637450752",
+            "tweet_text": "This becomes very handy if you want to combine the contents of different files into one file.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611491418928717826",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T22:34:32.000Z"
+        },
+        {
+            "id": 7413,
+            "username": "linuxopsys",
+            "tweet_id": "1611491430643519488",
+            "tweet_text": "The following command, for example, will read the contents of file, file2, and file3 and display the results to your standard output (terminal screen)l: \n\n$ cat file file2 file3 https://t.co/6PQsvHakes",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fl0q55BXEAIReex.png\"]",
+            "tweet_conversation_id": "1611491418928717826",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T22:34:31.000Z"
+        },
+        {
+            "id": 7414,
+            "username": "linuxopsys",
+            "tweet_id": "1611491429867462658",
+            "tweet_text": "4. Concatenating multiple files\n\nWith cat command you can also read (concatenate) contents of multiple files and display it to the standard output.\n\nTo do so you just separate the file names with spaces.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611491418928717826",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T22:34:31.000Z"
+        },
+        {
+            "id": 7415,
+            "username": "linuxopsys",
+            "tweet_id": "1611491429066366977",
+            "tweet_text": "If you wish not to overwrite the file use &gt;&gt; operator to append the contents to the end of nolines.txt file \n\n$ cat -s distros.txt &gt;&gt; nolines.txt",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611491418928717826",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T22:34:31.000Z"
+        },
+        {
+            "id": 7416,
+            "username": "linuxopsys",
+            "tweet_id": "1611491427929710592",
+            "tweet_text": "You can then save the output to a file if you wish to, by just using output redirections operators (&gt; and &gt;&gt;).\n\n$ cat -s distros.txt &gt; nolines.txt\n\nThe &gt; operator will create a  file (nolines.txt) if it doesn\u2019t exist. Otherwise, it will overwrite the file.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611491418928717826",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T22:34:31.000Z"
+        },
+        {
+            "id": 7417,
+            "username": "linuxopsys",
+            "tweet_id": "1611491426117746689",
+            "tweet_text": "3. Squeeze repeated blank lines\n\nYou may encounter repeated empty lines in your documents and wish to remove them. To accomplish this, use the -s option to instruct cat command to omit the repeated empty output lines: \n\n$ cat -s distros.txt https://t.co/mLFDWQt9ls",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fl0q541WYAEMTQv.png\"]",
+            "tweet_conversation_id": "1611491418928717826",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T22:34:30.000Z"
+        },
+        {
+            "id": 7418,
+            "username": "linuxopsys",
+            "tweet_id": "1611491425081851904",
+            "tweet_text": "Rather than going through the time-consuming process of manually numbering each line , you can simply use this  option  with cat from the command line and be done in a matter of seconds. \n\n$ cat -n file\n\nThis command is equivalent to the 'nl file' command. https://t.co/WhCzYWeWlX",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fl0q544WIAAyKBX.png\"]",
+            "tweet_conversation_id": "1611491418928717826",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T22:34:30.000Z"
+        },
+        {
+            "id": 7419,
+            "username": "linuxopsys",
+            "tweet_id": "1611491424406478848",
+            "tweet_text": "2. Print line numbers\n\nThe cat command has excellent option (-n)  you can use to check the count of lines on a file .  If you ever had a large text document and needed to add lines to it, this option is your best friend.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611491418928717826",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T22:34:30.000Z"
+        },
+        {
+            "id": 7420,
+            "username": "linuxopsys",
+            "tweet_id": "1611491423206969345",
+            "tweet_text": "1. Displaying contents of files\n\nThe most basic and common use of the cat command is to read the contents of a file and print it to standard output (stdout). \n\nHere is an example of displaying contents of a specific file:\n\n$ cat https://t.co/R85NYMZCLs https://t.co/p0pkmdLtHh",
+            "tweet_media": "[\"https://pbs.twimg.com/media/Fl0q54zXgAczZKh.png\"]",
+            "tweet_conversation_id": "1611491418928717826",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T22:34:30.000Z"
+        },
+        {
+            "id": 7421,
+            "username": "linuxopsys",
+            "tweet_id": "1611491422531624962",
+            "tweet_text": "Now that you know what the cat command is and how its syntax, let's look at how it's used and some of the options it has.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611491418928717826",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T22:34:29.000Z"
+        },
+        {
+            "id": 7422,
+            "username": "linuxopsys",
+            "tweet_id": "1611491421856358401",
+            "tweet_text": "- OPTION - to view the available options that are available use the --help (cat --help) option or its man page (man cat). \n\n- FILE  - 0 or more files to concatenate or read data from.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611491418928717826",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T22:34:29.000Z"
+        },
+        {
+            "id": 7423,
+            "username": "linuxopsys",
+            "tweet_id": "1611491421193752578",
+            "tweet_text": "Before we get into how to use the cat command, let's go over the basic syntax.\n\nThe syntax for the cat command is as follows: \n\n$ cat [OPTION] [FILE]",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611491418928717826",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T22:34:29.000Z"
+        },
+        {
+            "id": 7424,
+            "username": "linuxopsys",
+            "tweet_id": "1611491420451241985",
+            "tweet_text": "If you do not specify a filename to read from, or if the filename is replaced with a single hyphen (-), the data will be read from standard input (stdin)",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611491418928717826",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T22:34:29.000Z"
+        },
+        {
+            "id": 7425,
+            "username": "linuxopsys",
+            "tweet_id": "1611491419738210305",
+            "tweet_text": "The cat command is one of the most commonly used in Linux. The cat command gets its name from its ability to concatenate files. It has the ability to concatenate files, read and write file contents to standard output.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611491418928717826",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T22:34:29.000Z"
+        },
+        {
+            "id": 7426,
+            "username": "linuxopsys",
+            "tweet_id": "1611491418928717826",
+            "tweet_text": "99.9% of Linux users use the cat command every day.\n\nDespite this, most people do not take advantage of its full potential.\n\nIn this thread, I'll explain what the cat command is and show you some options\u00a0you probably didn't know about (but you should):",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611491418928717826",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T22:34:28.000Z"
         }
     ]
 }
