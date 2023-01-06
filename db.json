@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7389
+        "entries": 7402
     },
     "tweets": [
         {
@@ -73892,6 +73892,136 @@
             "tweet_conversation_id": "1611422350532300801",
             "tweet_type": "Python tips",
             "created_at": "2023-01-06T18:00:01.000Z"
+        },
+        {
+            "id": 7390,
+            "username": "Rapid_API",
+            "tweet_id": "1611429178649329664",
+            "tweet_text": "We hope you found this helpful! \n\nFollow @Rapid_API for more exclusive content. \ud83d\udc19",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611429133338218502",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T18:27:09.000Z"
+        },
+        {
+            "id": 7391,
+            "username": "Rapid_API",
+            "tweet_id": "1611429174543060996",
+            "tweet_text": "\ud83d\udccc DELETE\n\nDELETE request removes a specified resource. They are idempotent.\n\nOnce a resource has been deleted, you can verify this using a GET request for the deleted resource, which should return a 404 status code.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611429133338218502",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T18:27:08.000Z"
+        },
+        {
+            "id": 7392,
+            "username": "Rapid_API",
+            "tweet_id": "1611429170478813184",
+            "tweet_text": "PATCH is not necessarily idempotent. \n\nMost PATCH actions are idempotent, such as renaming an attribute value.\n\nHowever, adding a new item to a resource list using PATCH is non-idempotent.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611429133338218502",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T18:27:07.000Z"
+        },
+        {
+            "id": 7393,
+            "username": "Rapid_API",
+            "tweet_id": "1611429165940543511",
+            "tweet_text": "\ud83d\udccc PATCH\n\nPATCH is similar to PUT because it is also used for updating resources, however PATCH is for partial modifications.\n\nYou do not need to send the entire resource, only the field you are changing.\n\nOn success, PATCH can return various 2XX status codes.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611429133338218502",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T18:27:06.000Z"
+        },
+        {
+            "id": 7394,
+            "username": "Rapid_API",
+            "tweet_id": "1611429161918242816",
+            "tweet_text": "If the resource already exists, it is overwritten and will typically return 200 (OK) or 204 (No Content).\n\nIf the resource does not exist, it will be created and return 201 (Created).\n\nPUT requests are idempotent and successive calls just produce the same result.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611429133338218502",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T18:27:05.000Z"
+        },
+        {
+            "id": 7395,
+            "username": "Rapid_API",
+            "tweet_id": "1611429157774163969",
+            "tweet_text": "\ud83d\udccc PUT\n\nThe PUT method modifies resources and updates the entire resource.\n\nThus, updating a single field within a resource using PUT requires you to send the entire resource in the body (payload) of the request.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611429133338218502",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T18:27:04.000Z"
+        },
+        {
+            "id": 7396,
+            "username": "Rapid_API",
+            "tweet_id": "1611429153693175826",
+            "tweet_text": "Because POST requests submit new data to the server, they change its state and are therefore not idempotent.\n\nSending repeated POST requests can create multiple of the same resource.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611429133338218502",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T18:27:03.000Z"
+        },
+        {
+            "id": 7397,
+            "username": "Rapid_API",
+            "tweet_id": "1611429149649915907",
+            "tweet_text": "\ud83d\udccc POST\n\nPOST is used to create new resources on a server, and on success, will return a 201 (Created) response code.\n\nThe request contains the new data in the body and it is created under the URI defined on the request-line.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611429133338218502",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T18:27:02.000Z"
+        },
+        {
+            "id": 7398,
+            "username": "Rapid_API",
+            "tweet_id": "1611429145598169091",
+            "tweet_text": "On success, GET requests return 200 (OK).\n\nThe GET method is the most widely used and can be used to verify endpoints and make sure the data they are returning is as expected.",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611429133338218502",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T18:27:01.000Z"
+        },
+        {
+            "id": 7399,
+            "username": "Rapid_API",
+            "tweet_id": "1611429141303140354",
+            "tweet_text": "\ud83d\udccc GET\n\nThe GET method is used to request data from a specified resource.\n\nGET requests are cacheable and idempotent, meaning they do not change the state of the server (sending multiple requests has no effect).",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611429133338218502",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T18:27:00.000Z"
+        },
+        {
+            "id": 7400,
+            "username": "Rapid_API",
+            "tweet_id": "1611429137327050754",
+            "tweet_text": "There are officially 9 HTTP Methods, however only the following 5 of them are used frequently:\n\n\ud83d\udd37 GET\n\ud83d\udd37 POST\n\ud83d\udd37 PUT\n\ud83d\udd37 PATCH\n\ud83d\udd37 DELETE",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611429133338218502",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T18:26:59.000Z"
+        },
+        {
+            "id": 7401,
+            "username": "Rapid_API",
+            "tweet_id": "1611429133338218502",
+            "tweet_text": "5 most commonly used HTTP request methods to call APIs.\n\nA Thread \ud83e\uddf5\ud83d\udc47",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611429133338218502",
+            "tweet_type": "API tips",
+            "created_at": "2023-01-06T18:26:58.000Z"
+        },
+        {
+            "id": 7402,
+            "username": "driscollis",
+            "tweet_id": "1611437346129600512",
+            "tweet_text": "\ud83c\udf89\ud83d\udc0d Python Quiz Book Writing update \ud83d\udc0d\ud83c\udf89\n\n\ud83d\udc0d 72 Quizzes and answers finished or\n\ud83d\udc0d 144 total chapters\n\ud83d\udc0d 213 pages\n\nGet the book with a $10 discount using this link:\n\nhttps://t.co/0O7BEC8Oj2",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611437346129600512",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T18:59:37.000Z"
         }
     ]
 }
