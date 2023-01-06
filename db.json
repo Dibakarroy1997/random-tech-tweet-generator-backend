@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7402
+        "entries": 7405
     },
     "tweets": [
         {
@@ -74022,6 +74022,36 @@
             "tweet_conversation_id": "1611437346129600512",
             "tweet_type": "Others",
             "created_at": "2023-01-06T18:59:37.000Z"
+        },
+        {
+            "id": 7403,
+            "username": "bascodes",
+            "tweet_id": "1611480078176735245",
+            "tweet_text": "Seriously, most people don't even take the first step.\nBut YOU can! \ud83d\udcaa\nAnd we all are here to help! \ud83d\udedf",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611480072837386253",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T21:49:25.000Z"
+        },
+        {
+            "id": 7404,
+            "username": "bascodes",
+            "tweet_id": "1611480076092149760",
+            "tweet_text": "1) Just start!",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611480072837386253",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T21:49:24.000Z"
+        },
+        {
+            "id": 7405,
+            "username": "bascodes",
+            "tweet_id": "1611480072837386253",
+            "tweet_text": "Dream of a new career in tech?\n\nDo this to get ahead of 95% of people \ud83d\udc47",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611480072837386253",
+            "tweet_type": "Others",
+            "created_at": "2023-01-06T21:49:23.000Z"
         }
     ]
 }
