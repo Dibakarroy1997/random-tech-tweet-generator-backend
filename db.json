@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7357
+        "entries": 7358
     },
     "tweets": [
         {
@@ -73572,6 +73572,16 @@
             "tweet_conversation_id": "1611158069093728256",
             "tweet_type": "API tips",
             "created_at": "2023-01-06T00:29:52.000Z"
+        },
+        {
+            "id": 7358,
+            "username": "bbelderbos",
+            "tweet_id": "1611295741720551424",
+            "tweet_text": "Learned PyScript this week, it's awesome!\n\n#python #javascript https://t.co/vyiI8AwuAf",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611295741720551424",
+            "tweet_type": "Python tips",
+            "created_at": "2023-01-06T09:36:55.000Z"
         }
     ]
 }
