@@ -37,3 +37,6 @@ vikasrajputin:
 heyValdemar:
   - category_name: Cheat Sheets
     category_regex: cheat(.*)sheet
+_georgemoller:
+  - category_name: HTML, CSS, and JavaScript Tips
+    category_regex: ↓
