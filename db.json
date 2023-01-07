@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7427
+        "entries": 7428
     },
     "tweets": [
         {
@@ -74272,6 +74272,16 @@
             "tweet_conversation_id": "1611524085015511040",
             "tweet_type": "Others",
             "created_at": "2023-01-07T00:44:17.000Z"
+        },
+        {
+            "id": 7428,
+            "username": "linuxopsys",
+            "tweet_id": "1611596886758113282",
+            "tweet_text": "200 Away from 34K \ud83d\udc99",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611596886758113282",
+            "tweet_type": "Others",
+            "created_at": "2023-01-07T05:33:34.000Z"
         }
     ]
 }
