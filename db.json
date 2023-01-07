@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "entries": 7426
+        "entries": 7427
     },
     "tweets": [
         {
@@ -74262,6 +74262,16 @@
             "tweet_conversation_id": "1611491418928717826",
             "tweet_type": "Others",
             "created_at": "2023-01-06T22:34:28.000Z"
+        },
+        {
+            "id": 7427,
+            "username": "Rapid_API",
+            "tweet_id": "1611524085015511040",
+            "tweet_text": "As they talk about \"A boon for APIs\", IT Pro features the insights of our founder and CEO, @iddogino.\n\n\u201cAPIs boost developer productivity by eliminating the need to write repetitive code\u201d \u2013 Iddo \n\n\u2728 Read all about it here\n\u21b3 https://t.co/ApFz83mjIL",
+            "tweet_media": "[]",
+            "tweet_conversation_id": "1611524085015511040",
+            "tweet_type": "Others",
+            "created_at": "2023-01-07T00:44:17.000Z"
         }
     ]
 }
