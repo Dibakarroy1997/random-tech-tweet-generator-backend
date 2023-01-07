@@ -34,3 +34,6 @@ linuxopsys:
 vikasrajputin:
   - category_name: Backend Tips
     category_regex: "Like/Retweet the first tweet below"
+heyValdemar:
+  - category_name: Cheat Sheets
+    category_regex: cheat(.*)sheet
