@@ -40,3 +40,6 @@ heyValdemar:
 _georgemoller:
   - category_name: HTML, CSS, and JavaScript Tips
     category_regex: ↓
+danielepolencic:
+  - category_name: Kubernetes
+    category_regex: Until next time!
