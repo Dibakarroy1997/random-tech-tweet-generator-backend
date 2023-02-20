@@ -43,3 +43,6 @@ _georgemoller:
 danielepolencic:
   - category_name: Kubernetes
     category_regex: Until next time!
+mjovanovictech:
+  - category_name: .NET
+    category_regex: Lastly, if you enjoyed this
